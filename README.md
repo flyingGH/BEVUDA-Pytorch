@@ -27,7 +27,7 @@ python setup.py develop
 **Step 4.** Install the nuscenes-devkit
 Adding the following lines to the `~/.bashrc`.
 ```
-export PYTHONPATH="${PYTHONPATH}:[your root]/BEV-UDA/nuscenes-devkit/python-sdk"
+export PYTHONPATH="${PYTHONPATH}:[your root]/BEV-UDA/nuscenes-devkit-custom/python-sdk"
 ```
 Test the install by run following line, if return no error, install successful.
 ```

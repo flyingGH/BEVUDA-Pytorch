@@ -444,7 +444,7 @@ class LSSFPN(nn.Module):
         feature_map = voxel_pooling(geom_xyz, img_feat_with_depth.contiguous(),
                                     self.voxel_num.cuda())
         if is_return_depth:
-            return feature_map.contiguous(), depth
+            return feature_map.contiguous(), depth, source_features
         return feature_map.contiguous()
 
     def forward(self,
@@ -501,6 +501,6 @@ class LSSFPN(nn.Module):
                 ret_feature_list.append(feature_map)
 
         if is_return_depth:
-            return torch.cat(ret_feature_list, 1), key_frame_res[1]
+            return torch.cat(ret_feature_list, 1), key_frame_res[1], img_feats
         else:
             return torch.cat(ret_feature_list, 1)

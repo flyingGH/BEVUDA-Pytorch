@@ -12,11 +12,17 @@ import torchvision.models as models
 from pytorch_lightning.core import LightningModule
 from torch.cuda.amp.autocast_mode import autocast
 from torch.optim.lr_scheduler import MultiStepLR
+import copy
 
 from dataset.nusc_mv_det_dataset import NuscMVDetDataset, collate_fn
 from evaluators.det_mv_evaluators import DetMVNuscEvaluator
 from models.bev_depth import BEVDepth
+from layers.discriminator.img_disc import Disc_img_source
+from layers.discriminator.img_disc import Disc_img_target
+from layers.discriminator.bev_disc import Disc_bev_source
+from layers.discriminator.bev_disc import Disc_bev_target
 from utils.torch_dist import all_gather_object, get_rank, synchronize
+from layers.reverse_layer import ReverseLayerF
 
 H = 900
 W = 1600
@@ -216,6 +222,10 @@ class BEVDepthLightningModel(LightningModule):
         self.model = BEVDepth(self.backbone_conf,
                               self.head_conf,
                               is_train_depth=True)
+        # self.disc_img_source = Disc_img_source()
+        # self.disc_img_target = Disc_img_target()
+        # self.disc_bev_source = Disc_bev_source()
+        # self.disc_bev_target = Disc_bev_target()
         self.mode = 'valid'
         self.img_conf = img_conf
         self.data_use_cbgs = False
@@ -231,15 +241,52 @@ class BEVDepthLightningModel(LightningModule):
     def forward(self, sweep_imgs, mats):
         return self.model(sweep_imgs, mats)
 
-    def training_step(self, batch):
-        (sweep_imgs, mats, _, _, gt_boxes, gt_labels, depth_labels) = batch
+    def training_step(self, batch, batch_idx):
+        # training model using source data**************************************    
+        (sweep_imgs, mats, _, _, gt_boxes, gt_labels, depth_labels) = batch["source_train_loader"]
         if torch.cuda.is_available():
             for key, value in mats.items():
                 mats[key] = value.cuda()
             sweep_imgs = sweep_imgs.cuda()
             gt_boxes = [gt_box.cuda() for gt_box in gt_boxes]
             gt_labels = [gt_label.cuda() for gt_label in gt_labels]
-        preds, depth_preds = self(sweep_imgs, mats)
+
+        # preparing pseudo domain label
+        domain_label_s = torch.zeros(len(sweep_imgs), requires_grad=True)
+        domain_label_s = domain_label_s.long().cuda()
+        bev_domain_label_s = torch.zeros(len(sweep_imgs), requires_grad=True)
+        bev_domain_label_s = bev_domain_label_s.long().cuda()
+
+        preds, depth_preds, img_feats_source, bev_feats_source = self(sweep_imgs, mats)
+
+        # training model using target data***************************************    
+        (sweep_imgs_t, mats_t, _, _, _, _, depth_labels_t) = batch["target_train_loader"]
+        if torch.cuda.is_available():
+            for key, value in mats.items():
+                mats_t[key] = value.cuda()
+            sweep_imgs_t = sweep_imgs_t.cuda()
+
+        # preparing pseudo domain label
+        domain_label_t = torch.ones(len(sweep_imgs_t), requires_grad=True)
+        domain_label_t = domain_label_t.long().cuda()
+        bev_domain_label_t = torch.ones(len(sweep_imgs_t), requires_grad=True)
+        bev_domain_label_t = bev_domain_label_t.long().cuda()
+
+        preds_t, depth_preds_t, img_feats_target, bev_feats_target = self(sweep_imgs_t, mats_t)
+
+        # # get reverse feature for img and bev feature
+        reverse_img_4_source = ReverseLayerF.apply(img_feats_source, 0.01)
+        reverse_img_4_target = ReverseLayerF.apply(img_feats_target, 0.01)
+        reverse_bev_4_source = ReverseLayerF.apply(bev_feats_target, 0.01)
+        reverse_bev_4_target = ReverseLayerF.apply(bev_feats_target, 0.01)
+
+        # # get discriminaotr output for img and bev feature
+        img_domain_disc_source, img_loss_source = self.disc_img_source.train_source(reverse_img_4_source, domain_label_s, self.disc_img_source.parameters(), 1e-5)
+        img_domain_disc_target, img_loss_target = self.disc_img_target.train_target(reverse_img_4_target, domain_label_t, self.disc_img_target.parameters(), 1e-5)
+        bev_domain_disc_source, bev_loss_source = self.disc_bev_source.train_source(reverse_bev_4_source, bev_domain_label_s, self.disc_bev_source.parameters(), 1e-5)
+        bev_domain_disc_target, bev_loss_target = self.disc_bev_target.train_target(reverse_bev_4_target, bev_domain_label_t, self.disc_bev_source.parameters(), 1e-5)
+
+        # class loss 
         if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
             targets = self.model.module.get_targets(gt_boxes, gt_labels)
             detection_loss = self.model.module.loss(targets, preds)
@@ -247,13 +294,22 @@ class BEVDepthLightningModel(LightningModule):
             targets = self.model.get_targets(gt_boxes, gt_labels)
             detection_loss = self.model.loss(targets, preds)
 
+        # depth computations (only source here)
         if len(depth_labels.shape) == 5:
             # only key-frame will calculate depth loss
             depth_labels = depth_labels[:, 0, ...]
         depth_loss = self.get_depth_loss(depth_labels.cuda(), depth_preds)
         self.log('detection_loss', detection_loss)
         self.log('depth_loss', depth_loss)
-        return detection_loss + depth_loss
+        
+        return detection_loss + depth_loss + 0.1*(img_loss_source + img_loss_target) + 0.5*(bev_loss_source + bev_loss_target)
+
+    def get_adv_loss(self, domain_source, domain_target, domain_label_s, domain_label_t):
+        with autocast(enabled=False):
+            adv_loss_source = F.nll_loss(domain_source, domain_label_s) # 0000
+            adv_loss_target = F.nll_loss(domain_target, domain_label_t) # 1111
+        
+        return adv_loss_source, adv_loss_target
 
     def get_depth_loss(self, depth_labels, depth_preds):
         depth_labels = self.get_downsampled_gt_depth(depth_labels)
@@ -336,7 +392,7 @@ class BEVDepthLightningModel(LightningModule):
                 all_pred_results.append(validation_step_output[i][:3])
                 all_img_metas.append(validation_step_output[i][3])
         synchronize()
-        len_dataset = len(self.val_dataloader().dataset)
+        len_dataset = len(self.val_dataloader().dataset)-1
         all_pred_results = sum(
             map(list, zip(*all_gather_object(all_pred_results))),
             [])[:len_dataset]
@@ -354,7 +410,8 @@ class BEVDepthLightningModel(LightningModule):
                 all_img_metas.append(test_step_output[i][3])
         synchronize()
         # TODO: Change another way.
-        dataset_length = len(self.val_dataloader().dataset)
+        dataset_length = len(self.val_dataloader().dataset)-1
+        print(dataset_length)
         all_pred_results = sum(
             map(list, zip(*all_gather_object(all_pred_results))),
             [])[:dataset_length]
@@ -369,16 +426,25 @@ class BEVDepthLightningModel(LightningModule):
         optimizer = torch.optim.AdamW(self.model.parameters(),
                                       lr=lr,
                                       weight_decay=1e-7)
+        # optimizer_img_source = torch.optim.AdamW(self.disc_img_source.parameters(),
+        #                               lr=1e-5,
+        #                               weight_decay=1e-7)
+        # optimizer_img_target = torch.optim.AdamW(self.dics_img_target.parameters(),
+        #                               lr=1e-5,
+        #                               weight_decay=1e-7)
         scheduler = MultiStepLR(optimizer, [19, 23])
+        # scheduler_img_source = MultiStepLR(optimizer_img_source, [19, 23])
+        # scheduler_img_target = MultiStepLR(optimizer_img_target, [19, 23])
         return [[optimizer], [scheduler]]
 
     def train_dataloader(self):
-        train_dataset = NuscMVDetDataset(
+        train_source_dataset = NuscMVDetDataset(
             ida_aug_conf=self.ida_aug_conf,
             bda_aug_conf=self.bda_aug_conf,
             classes=self.class_names,
             data_root=self.data_root,
-            info_path='data/nuScenes/nuscenes_12hz_infos_train.pkl',
+            # info_path='data/nuScenes/nuscenes_12hz_infos_train.pkl',
+            info_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_train_boston.pkl',
             is_train=True,
             use_cbgs=self.data_use_cbgs,
             img_conf=self.img_conf,
@@ -389,8 +455,25 @@ class BEVDepthLightningModel(LightningModule):
         )
         from functools import partial
 
-        train_loader = torch.utils.data.DataLoader(
-            train_dataset,
+        train_target_dataset = NuscMVDetDataset(
+            ida_aug_conf=self.ida_aug_conf,
+            bda_aug_conf=self.bda_aug_conf,
+            classes=self.class_names,
+            data_root=self.data_root,
+            # info_path='data/nuScenes/nuscenes_12hz_infos_train.pkl',
+            info_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_train_singapore.pkl',
+            is_train=True,
+            use_cbgs=self.data_use_cbgs,
+            img_conf=self.img_conf,
+            num_sweeps=self.num_sweeps,
+            sweep_idxes=self.sweep_idxes,
+            key_idxes=self.key_idxes,
+            return_depth=self.data_return_depth,
+        )
+        from functools import partial
+
+        train_source_loader = torch.utils.data.DataLoader(
+            train_source_dataset,
             batch_size=self.batch_size_per_device,
             num_workers=4,
             drop_last=True,
@@ -399,15 +482,30 @@ class BEVDepthLightningModel(LightningModule):
                                is_return_depth=self.data_return_depth),
             sampler=None,
         )
+
+        train_target_loader = torch.utils.data.DataLoader(
+            train_target_dataset,
+            batch_size=self.batch_size_per_device,
+            num_workers=4,
+            drop_last=True,
+            shuffle=False,
+            collate_fn=partial(collate_fn,
+                               is_return_depth=self.data_return_depth),
+            sampler=None,
+        )
+
+        train_loader = {"source_train_loader": train_source_loader, "target_train_loader": train_target_loader}
+
         return train_loader
 
     def val_dataloader(self):
-        val_dataset = NuscMVDetDataset(
+        val_source_dataset = NuscMVDetDataset(
             ida_aug_conf=self.ida_aug_conf,
             bda_aug_conf=self.bda_aug_conf,
             classes=self.class_names,
             data_root=self.data_root,
-            info_path='data/nuScenes/nuscenes_12hz_infos_val.pkl',
+            # info_path='data/nuScenes/nuscenes_12hz_infos_val.pkl',
+            info_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_val_Night.pkl',
             is_train=False,
             img_conf=self.img_conf,
             num_sweeps=self.num_sweeps,
@@ -415,15 +513,43 @@ class BEVDepthLightningModel(LightningModule):
             key_idxes=self.key_idxes,
             return_depth=False,
         )
-        val_loader = torch.utils.data.DataLoader(
-            val_dataset,
+
+        val_target_dataset = NuscMVDetDataset(
+            ida_aug_conf=self.ida_aug_conf,
+            bda_aug_conf=self.bda_aug_conf,
+            classes=self.class_names,
+            data_root=self.data_root,
+            # info_path='data/nuScenes/nuscenes_12hz_infos_val.pkl',
+            info_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_val_singapore.pkl',
+            is_train=False,
+            img_conf=self.img_conf,
+            num_sweeps=self.num_sweeps,
+            sweep_idxes=self.sweep_idxes,
+            key_idxes=self.key_idxes,
+            return_depth=False,
+        )
+
+        val_source_loader = torch.utils.data.DataLoader(
+            val_source_dataset,
             batch_size=self.batch_size_per_device,
             shuffle=False,
             collate_fn=collate_fn,
             num_workers=4,
             sampler=None,
         )
-        return val_loader
+
+        val_target_loader = torch.utils.data.DataLoader(
+            val_target_dataset,
+            batch_size=self.batch_size_per_device,
+            shuffle=False,
+            collate_fn=collate_fn,
+            num_workers=4,
+            sampler=None,
+        )
+        
+        # val_loader = {"source_val_loader": val_source_loader, "target_val_loader": val_target_loader}
+
+        return val_source_loader
 
     def test_dataloader(self):
         return self.val_dataloader()

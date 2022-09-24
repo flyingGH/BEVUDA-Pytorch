@@ -1,0 +1,1722 @@
+======
+Loading NuScenes tables for version v1.0-trainval...
+23 category,
+8 attribute,
+4 visibility,
+64386 instance,
+12 sensor,
+10200 calibrated_sensor,
+2631083 ego_pose,
+68 log,
+850 scene,
+34149 sample,
+2631083 sample_data,
+1166187 sample_annotation,
+4 map,
+Done loading in 50.604 seconds.
+======
+Reverse indexing ...
+Done reverse indexing in 13.7 seconds.
+======
+scene-0161, Car overtaking, parking lot, peds, ped ... [18-05-21 15:07:23]   19s, boston-seaport, #anns:1970
+scene-0162, Leaving parking lot, parked cars, hidde... [18-05-21 15:07:43]   19s, boston-seaport, #anns:2230
+scene-0163, Drive along street with dozens of parke... [18-05-21 15:08:03]   19s, boston-seaport, #anns:1585
+scene-0164, Turn into narrow street, parked cars, p... [18-05-21 15:08:38]   19s, boston-seaport, #anns:745
+scene-0165, Pass crane, truck and construction work... [18-05-21 15:09:15]   19s, boston-seaport, #anns:1423
+scene-0166, Leaving narrow street, many cars [18-05-21 15:09:35]   19s, boston-seaport, #anns:1313
+scene-0167, Pass parked trucks, sitting pedestrians... [18-05-21 15:10:13]   19s, boston-seaport, #anns:1455
+scene-0168, Parking lot, peds, parked cars, parked ... [18-05-21 15:10:52]   19s, boston-seaport, #anns:1751
+scene-0170, Turn left, truck parked in the middle o... [18-05-21 15:13:37]   19s, boston-seaport, #anns:1430
+scene-0171, Densely parked trucks [18-05-21 15:13:57]   19s, boston-seaport, #anns:1149
+scene-0172, Bus indicates turn but does not go, ove... [18-05-21 15:14:17]   19s, boston-seaport, #anns:643
+scene-0173, Drive along road barriers [18-05-21 15:14:37]   19s, boston-seaport, #anns:2247
+scene-0174, Reflections, parked cars, trucks [18-05-21 15:14:57]   19s, boston-seaport, #anns:1714
+scene-0175, Truck, parked vehicles, bicycle, specia... [18-05-21 15:15:19]   19s, boston-seaport, #anns:1914
+scene-0176, Parked cars, extra-long bendy bus, bann... [18-05-21 15:16:17]   19s, boston-seaport, #anns:634
+scene-0268, Construction zone, stopped at red light... [18-07-11 03:57:19]   19s, singapore-onenorth, #anns:725
+scene-0269, Parked bicycles, peds sitting outside t... [18-07-11 03:58:12]   19s, singapore-onenorth, #anns:1156
+scene-0270, Peds, pedestrian walk on the roadside, ... [18-07-11 03:59:06]   19s, singapore-onenorth, #anns:1480
+scene-0271, Overtake parked car, parked bicycle [18-07-11 04:00:13]   19s, singapore-onenorth, #anns:344
+scene-0272, Stopped for oncoming car, motorcycle [18-07-11 04:00:33]   19s, singapore-onenorth, #anns:383
+scene-0273, Barriers, peds loading car trunk, lugga... [18-07-11 04:01:18]   19s, singapore-onenorth, #anns:897
+scene-0274, Peds, construction zone, construction w... [18-07-11 04:03:55]   19s, singapore-onenorth, #anns:2836
+scene-0275, Peds, bus, barriers, stopped at interse... [18-07-11 04:04:15]   19s, singapore-onenorth, #anns:2069
+scene-0276, Intersection, peds, cars, scooter, park... [18-07-11 04:05:06]   19s, singapore-onenorth, #anns:3253
+scene-0277, Jaywalker, peds, parked bike [18-07-11 04:05:29]   19s, singapore-onenorth, #anns:1652
+scene-0278, Motorcycle suddenly rushes out, truck, peds [18-07-11 04:06:01]   20s, singapore-onenorth, #anns:1135
+scene-0221, Pedestrian crossing, stopped vehicle [18-07-16 03:56:09]   19s, singapore-onenorth, #anns:501
+scene-0001, Construction, maneuver between several ... [18-07-18 03:12:10]   19s, singapore-onenorth, #anns:492
+scene-0002, Intersection, peds, waiting vehicle, pa... [18-07-18 03:15:19]   20s, singapore-onenorth, #anns:1238
+scene-0004, Random scene, arrive at intersection, c... [18-07-18 03:19:45]   19s, singapore-onenorth, #anns:3526
+scene-0005, Overtaken by taxi, construction site [18-07-18 03:21:44]   19s, singapore-onenorth, #anns:1078
+scene-0006, Sitting construction worker, parked bic... [18-07-18 03:22:36]   19s, singapore-onenorth, #anns:2027
+scene-0007, Van overtaking us, peds, jaywalker, bic... [18-07-18 03:24:18]   19s, singapore-onenorth, #anns:860
+scene-0008, Several moving pedestrians, parked card... [18-07-18 03:24:37]   19s, singapore-onenorth, #anns:609
+scene-0009, Peds crossing, parked cars, garbage, pe... [18-07-18 03:24:57]   19s, singapore-onenorth, #anns:332
+scene-0010, Parked motorcycle, person pickung up ga... [18-07-18 03:26:31]   19s, singapore-onenorth, #anns:380
+scene-0011, Turn left, pass trucks on both sides, c... [18-07-18 03:28:45]   20s, singapore-onenorth, #anns:765
+scene-0012, Nature, bus stop, parked cars, bus exit... [18-07-18 03:42:00]   19s, singapore-onenorth, #anns:96
+scene-0013, Follow bus, parked cars, trash cans, pa... [18-07-18 03:42:20]   19s, singapore-onenorth, #anns:456
+scene-0014, Follow bus, cross intersection, nature [18-07-18 03:43:17]   19s, singapore-onenorth, #anns:109
+scene-0015, Narrow road, following bus, bus on oppo... [18-07-18 03:43:37]   19s, singapore-onenorth, #anns:457
+scene-0016, Turn left, people on both sides, parked... [18-07-18 03:46:53]   19s, singapore-onenorth, #anns:943
+scene-0017, Barriers, peds, arriving at busy inters... [18-07-18 03:49:25]   19s, singapore-onenorth, #anns:2520
+scene-0018, Merge left, turn into unloading zone [18-07-18 03:49:52]   19s, singapore-onenorth, #anns:3301
+scene-0019, Turn left, waiting peds, turn left [18-07-18 03:51:02]   19s, singapore-onenorth, #anns:2490
+scene-0020, Turn right, walking peds, pedestrian in... [18-07-18 03:51:47]   19s, singapore-onenorth, #anns:704
+scene-0021, Wait at intersection, jaywalkers, parki... [18-07-18 03:52:57]   19s, singapore-onenorth, #anns:1982
+scene-0022, Barriers, construction, lane switch, tu... [18-07-18 03:53:18]   19s, singapore-onenorth, #anns:2067
+scene-0023, Overtake parked car, bus turning, motor... [18-07-18 03:53:41]   19s, singapore-onenorth, #anns:552
+scene-0024, Intersection, peds in cafe, parked moto... [18-07-18 03:54:04]   19s, singapore-onenorth, #anns:746
+scene-0025, Ped crossing street in front of ego vehicle [18-07-18 03:54:29]   19s, singapore-onenorth, #anns:894
+scene-0026, Parked cars, peds on the roadside [18-07-18 03:54:49]   19s, singapore-onenorth, #anns:925
+scene-0027, Delivery motorcycle turns left, veh tur... [18-07-18 03:55:18]   19s, singapore-onenorth, #anns:743
+scene-0028, Taxi parked on road, bicycle rack, many... [18-07-18 03:55:38]   19s, singapore-onenorth, #anns:1314
+scene-0029, Waiting, peds crossing intersection [18-07-18 03:55:58]   19s, singapore-onenorth, #anns:1831
+scene-0030, Two parked motorcycles, overtake [18-07-18 03:56:37]   19s, singapore-onenorth, #anns:746
+scene-0031, Construction, workers sitting on grass,... [18-07-18 03:57:02]   19s, singapore-onenorth, #anns:596
+scene-0032, Turn left, motorcycle driving, ped sitting [18-07-18 03:57:22]   19s, singapore-onenorth, #anns:131
+scene-0033, Low traffic, following bus [18-07-18 03:58:42]   19s, singapore-onenorth, #anns:189
+scene-0034, No traffic, dead end street, overtake p... [18-07-18 03:59:42]   19s, singapore-onenorth, #anns:95
+scene-0035, Parking lots, trash can, bump, scooter,... [18-07-24 02:43:03]   19s, singapore-onenorth, #anns:1056
+scene-0036, Parked bicycle, construction, peds, wor... [18-07-24 02:43:46]   19s, singapore-onenorth, #anns:1525
+scene-0038, Parked construction vehicles, peds, garbage [18-07-24 02:45:39]   20s, singapore-onenorth, #anns:434
+scene-0039, Busy street, parked cars, parking lot, ... [18-07-24 02:48:33]   19s, singapore-onenorth, #anns:809
+scene-0041, Turn left, arrive at busy intersection,... [18-07-24 03:04:50]   19s, singapore-onenorth, #anns:709
+scene-0042, Parked cars, many peds, parked bicycles... [18-07-24 03:05:52]   20s, singapore-onenorth, #anns:968
+scene-0043, Busy intersection, oncoming traffic, co... [18-07-24 03:06:49]   19s, singapore-onenorth, #anns:2014
+scene-0044, Truck turns, parked cars, bump, bikes [18-07-24 03:09:19]   19s, singapore-onenorth, #anns:376
+scene-0045, Full parking lot, peds, exiting from ca... [18-07-24 03:13:22]   19s, singapore-onenorth, #anns:1865
+scene-0046, Busy intersection, ped crossing, waitin... [18-07-24 03:14:02]   19s, singapore-onenorth, #anns:1806
+scene-0047, Construction workers close to road, veh... [18-07-24 03:15:33]   19s, singapore-onenorth, #anns:2018
+scene-0048, Construction, narrow road, construction... [18-07-24 03:15:56]   19s, singapore-onenorth, #anns:1067
+scene-0049, Construction, barriers behind net, park... [18-07-24 03:16:16]   19s, singapore-onenorth, #anns:1463
+scene-0050, Narrow street, seveal peds, shadows, tu... [18-07-24 03:17:59]   19s, singapore-onenorth, #anns:535
+scene-0051, Pass parked vehicles, peds, arrive at i... [18-07-24 03:18:26]   19s, singapore-onenorth, #anns:735
+scene-0052, Oncoming car in the same lane, overtake... [18-07-24 03:18:46]   19s, singapore-onenorth, #anns:344
+scene-0053, Cross intersection in group of cars, pe... [18-07-24 03:20:18]   19s, singapore-onenorth, #anns:828
+scene-0054, Turn left, many parked heavy trucks, wo... [18-07-24 03:21:12]   19s, singapore-onenorth, #anns:612
+scene-0055, Bus stop left, parked cars right, oncom... [18-07-24 03:23:03]   19s, singapore-onenorth, #anns:473
+scene-0056, Peds, nature, construction, trash can, ... [18-07-24 03:25:21]   20s, singapore-onenorth, #anns:333
+scene-0057, Jaywalkers, parked bike and scooter, pa... [18-07-24 03:25:41]   19s, singapore-onenorth, #anns:710
+scene-0058, Construction, strange cleaning vehicle ... [18-07-24 03:26:55]   19s, singapore-onenorth, #anns:1522
+scene-0059, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:35]   19s, singapore-onenorth, #anns:421
+scene-0060, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:55]   19s, singapore-onenorth, #anns:274
+scene-0061, Parked truck, construction, intersectio... [18-07-24 03:28:47]   19s, singapore-onenorth, #anns:4622
+scene-0199, Parked cars, ped [18-07-26 16:14:48]   20s, boston-seaport, #anns:564
+scene-0200, Parked cars, parking lot [18-07-26 16:15:48]   19s, boston-seaport, #anns:2485
+scene-0202, Parked cars, jaywalker, peds, parked bi... [18-07-26 16:16:28]   19s, boston-seaport, #anns:1323
+scene-0203, Construction, bus, turn right, crane, p... [18-07-26 16:16:48]   19s, boston-seaport, #anns:1986
+scene-0204, Parked cars, peds in sidewalk, narrow road [18-07-26 16:17:08]   19s, boston-seaport, #anns:2116
+scene-0206, Parked cars, peds, ped with luggage [18-07-26 16:17:38]   19s, boston-seaport, #anns:1682
+scene-0207, Heavy veh, peds, stopped by a truck [18-07-26 16:18:34]   19s, boston-seaport, #anns:952
+scene-0208, Stopped at stop line [18-07-26 16:18:54]   19s, boston-seaport, #anns:1836
+scene-0209, Heavy vehicles, container [18-07-26 16:19:34]   19s, boston-seaport, #anns:997
+scene-0210, Parked vehicles, construction vehicle, ... [18-07-26 16:19:54]   19s, boston-seaport, #anns:1154
+scene-0211, Parked cars, construction area, constru... [18-07-26 16:20:14]   19s, boston-seaport, #anns:1897
+scene-0212, Parked cars, oncoming heavy veh [18-07-26 16:21:01]   19s, boston-seaport, #anns:1781
+scene-0213, Jaywalkers, peds, approaching intersection [18-07-26 16:22:16]   19s, boston-seaport, #anns:1202
+scene-0214, Parked truck, ped, sitting peds, parked... [18-07-26 16:23:51]   19s, boston-seaport, #anns:1632
+scene-0315, Peds, bus stop, oncoming cars, parked l... [18-07-27 03:25:11]   19s, singapore-queensto, #anns:553
+scene-0316, Parked bicycles, ped, cars at opp lane [18-07-27 03:28:03]   19s, singapore-queensto, #anns:397
+scene-0317, Bus drops off passenger, overtake bus, ... [18-07-27 03:29:11]   19s, singapore-queensto, #anns:865
+scene-0318, Buses, overtake bus, peds, motorcycles [18-07-27 03:30:11]   19s, singapore-queensto, #anns:644
+scene-0177, Parking toll gate [18-07-27 03:37:48]   19s, singapore-queensto, #anns:143
+scene-0178, Parking lot, parked motorcycles, turn r... [18-07-27 03:38:19]   19s, singapore-queensto, #anns:824
+scene-0179, Ped walking to the ego car, parked truc... [18-07-27 03:38:48]   19s, singapore-queensto, #anns:629
+scene-0180, Parking lot with lots of parked cars [18-07-27 03:39:08]   19s, singapore-queensto, #anns:1421
+scene-0181, Turn left, toll gate, oncoming bus [18-07-27 03:40:01]   19s, singapore-queensto, #anns:156
+scene-0182, Peds, bus stop, taxi, narrow road, park... [18-07-27 03:40:44]   19s, singapore-queensto, #anns:509
+scene-0183, Parked motorcycle, bike, parking drivew... [18-07-27 03:41:22]   19s, singapore-queensto, #anns:251
+scene-0184, Many trees, narrow road [18-07-27 03:42:28]   20s, singapore-queensto, #anns:75
+scene-0185, Parking bay, peds, ped hesitates to cro... [18-07-27 03:43:30]   19s, singapore-queensto, #anns:230
+scene-0187, Bump, turn right, ped attempting to wal... [18-07-27 03:44:48]   19s, singapore-queensto, #anns:439
+scene-0188, Ego vehicle starts, many peds, parked b... [18-07-27 03:45:41]   16s, singapore-queensto, #anns:809
+scene-0218, Parking lot, walking peds, close-up ped... [18-07-27 16:08:41]   19s, boston-seaport, #anns:1881
+scene-0219, Stopped at t junction, parked cars, cars [18-07-27 16:09:25]   19s, boston-seaport, #anns:1979
+scene-0220, Parking lot, parked bikes in bike rack,... [18-07-27 16:10:11]   20s, boston-seaport, #anns:1930
+scene-0222, Jaywalkers, traffic police, sitting jay... [18-07-27 16:10:56]   19s, boston-seaport, #anns:1903
+scene-0224, Peds crossing crosswalk, arrive at inte... [18-07-27 16:11:57]   19s, boston-seaport, #anns:1200
+scene-0225, Wait at intersection, construction, ped... [18-07-27 16:12:40]   19s, boston-seaport, #anns:1242
+scene-0226, Heavy veh, turning heavy veh [18-07-27 16:13:21]   19s, boston-seaport, #anns:897
+scene-0227, Heavy traffic flow, stopped at red light [18-07-27 16:14:08]   19s, boston-seaport, #anns:1662
+scene-0228, Many parked cars, sign trailer, crane, ... [18-07-27 16:16:06]   19s, boston-seaport, #anns:1044
+scene-0229, Many parked cars, delivery van, peds, b... [18-07-27 16:16:26]   19s, boston-seaport, #anns:1106
+scene-0230, Parked cars, construction zone [18-07-27 16:16:46]   19s, boston-seaport, #anns:2054
+scene-0231, Wait at stop line, peds crossing crossw... [18-07-27 16:17:06]   19s, boston-seaport, #anns:2369
+scene-0232, Wait at stop line, bicycle riding insid... [18-07-27 16:18:37]   19s, boston-seaport, #anns:3469
+scene-0233, A number of pedestrians crossing, pedes... [18-07-27 16:19:36]   19s, boston-seaport, #anns:2517
+scene-0234, Truck, light turns green, peds, parked ... [18-07-27 16:20:29]   19s, boston-seaport, #anns:2604
+scene-0235, Parked cars, stopped behind the truck, ... [18-07-27 16:20:49]   19s, boston-seaport, #anns:2101
+scene-0236, Peds, congestion, parked cars [18-07-27 16:22:16]   20s, boston-seaport, #anns:3352
+scene-0237, Overtake heavy truck, stopped at inters... [18-07-27 16:23:00]   19s, boston-seaport, #anns:1915
+scene-0238, Many peds, ped with pet, stopped bicycl... [18-07-27 16:23:51]   19s, boston-seaport, #anns:2624
+scene-0239, Peds waiting to cross the road, peds cr... [18-07-27 16:24:26]   19s, boston-seaport, #anns:2606
+scene-0240, Peds crossing road, overtake cars, truc... [18-07-27 16:24:46]   19s, boston-seaport, #anns:2338
+scene-0241, Overtake large truck, peds, parked bicycle [18-07-27 16:25:06]   19s, boston-seaport, #anns:2750
+scene-0190, Nature, wait for traffic light [18-08-01 07:11:48]   19s, singapore-onenorth, #anns:262
+scene-0191, Turn left, parking lot [18-08-01 07:14:18]   19s, singapore-onenorth, #anns:286
+scene-0192, Stopped for cars at T-junction, jaywalk... [18-08-01 07:14:45]   20s, singapore-onenorth, #anns:661
+scene-0193, Vegetation, parking lot, turning cars [18-08-01 07:15:07]   19s, singapore-onenorth, #anns:920
+scene-0194, Parked car starts to move, two bicycles... [18-08-01 07:15:48]   19s, singapore-onenorth, #anns:1610
+scene-0195, Narrow road, bus, reduce speed for stop... [18-08-01 07:16:21]   19s, singapore-onenorth, #anns:354
+scene-0196, Nature, cross intersection, bus, bus st... [18-08-01 07:18:25]   19s, singapore-onenorth, #anns:153
+scene-0120, Parked motorcycles, parking lot, wait a... [18-08-01 08:33:08]   20s, singapore-onenorth, #anns:1658
+scene-0121, Peds, follow motorcycle, motorcycle tur... [18-08-01 08:35:31]   19s, singapore-onenorth, #anns:365
+scene-0122, Fast motorcycle on street ahead, stop, ... [18-08-01 08:36:56]   19s, singapore-onenorth, #anns:271
+scene-0123, Monument, truck, peds, turn left, downhill [18-08-01 08:38:18]   20s, singapore-onenorth, #anns:278
+scene-0124, Many peds, parked buses, parked cars [18-08-01 08:38:40]   19s, singapore-onenorth, #anns:1305
+scene-0125, Many parked cars, animal, many peds, wa... [18-08-01 08:39:00]   19s, singapore-onenorth, #anns:708
+scene-0126, Delayed left turn, jaywalker, parking l... [18-08-01 08:39:22]   19s, singapore-onenorth, #anns:541
+scene-0127, Enter car park, jaywalker, parked motor... [18-08-01 08:39:48]   20s, singapore-onenorth, #anns:1594
+scene-0128, Parking lot, parked scooters, parked ca... [18-08-01 08:40:28]   19s, singapore-onenorth, #anns:1095
+scene-0129, Parking lot, cross crosswalk, go over b... [18-08-01 08:40:50]   19s, singapore-onenorth, #anns:1628
+scene-0130, Peds crossing at crosswalk, drive along... [18-08-01 08:42:07]   19s, singapore-onenorth, #anns:1808
+scene-0131, Parking lot, peds [18-08-01 08:42:27]   19s, singapore-onenorth, #anns:1158
+scene-0132, Parked cars, turn left, parked bus [18-08-01 08:42:47]   19s, singapore-onenorth, #anns:1059
+scene-0133, Drive through parking lot, stopped bus,... [18-08-01 08:43:07]   19s, singapore-onenorth, #anns:1551
+scene-0134, Approach intersection, fence, turn left... [18-08-01 08:43:34]   19s, singapore-onenorth, #anns:1097
+scene-0135, Heavy traffic, sitting peds, parked mot... [18-08-01 08:43:54]   19s, singapore-onenorth, #anns:1020
+scene-0138, Bus stop, parked bicycles, bus stop, bi... [18-08-01 08:47:14]   19s, singapore-onenorth, #anns:287
+scene-0139, Ped standing, ped sitting, two parked m... [18-08-01 08:49:39]   19s, singapore-onenorth, #anns:582
+scene-0149, Wait at intersection, turn left, bushes... [18-08-01 09:04:26]   19s, singapore-onenorth, #anns:1219
+scene-0150, Oncoming scooter, scooters, busy inters... [18-08-01 09:05:06]   19s, singapore-onenorth, #anns:1519
+scene-0151, Turn right, busy intersection, construc... [18-08-01 09:05:26]   19s, singapore-onenorth, #anns:2282
+scene-0152, Parked bicycles, bump, overtake parked ... [18-08-01 09:06:15]   19s, singapore-onenorth, #anns:555
+scene-0154, Turn left, peds at restaurant, parked b... [18-08-01 09:09:15]   19s, singapore-onenorth, #anns:583
+scene-0155, Jaywalkers, turn left, stop for ped cro... [18-08-01 09:15:18]   19s, singapore-onenorth, #anns:1034
+scene-0157, Passing scooter, wait at intersection, ... [18-08-01 09:17:04]   19s, singapore-onenorth, #anns:125
+scene-0158, Worker stopped ego car, worker removes ... [18-08-01 09:19:15]   19s, singapore-onenorth, #anns:2346
+scene-0159, Peds crossing crosswalk, barrier being ... [18-08-01 09:19:40]   19s, singapore-onenorth, #anns:2274
+scene-0160, Wait for oncoming car to pass, narrow r... [18-08-01 09:21:27]   19s, singapore-onenorth, #anns:620
+scene-0092, Drive through passage, peds walking alo... [18-08-01 19:17:41]   19s, boston-seaport, #anns:1263
+scene-0093, Turn right, parking lots, cross interse... [18-08-01 19:19:42]   19s, boston-seaport, #anns:1633
+scene-0094, Oncoming cyclist, cars, wait at interse... [18-08-01 19:20:03]   19s, boston-seaport, #anns:718
+scene-0095, Wait at intersection, peds occluded, st... [18-08-01 19:20:49]   19s, boston-seaport, #anns:1026
+scene-0096, Cross busy intersection, cyclist nearby... [18-08-01 19:21:09]   19s, boston-seaport, #anns:1938
+scene-0097, Wait at red light, turns green, cross i... [18-08-01 19:22:25]   19s, boston-seaport, #anns:1693
+scene-0098, Parked cars, peds, bus stop, bicycle ra... [18-08-01 19:22:45]   19s, boston-seaport, #anns:893
+scene-0099, Parked vans, switch lane, construction ... [18-08-01 19:23:37]   19s, boston-seaport, #anns:1824
+scene-0100, Wait at red light, oncoming cyclist, pe... [18-08-01 19:24:31]   19s, boston-seaport, #anns:1744
+scene-0101, Concrete mixer spinning, traffic cones,... [18-08-01 19:25:14]   19s, boston-seaport, #anns:2447
+scene-0102, Turn right at intersection, cross bridg... [18-08-01 19:26:20]   19s, boston-seaport, #anns:1537
+scene-0103, Many peds right, wait for turning car, ... [18-08-01 19:26:43]   19s, boston-seaport, #anns:2046
+scene-0104, Start car, cross intersection, skyscrap... [18-08-01 19:27:49]   19s, boston-seaport, #anns:1760
+scene-0105, Parking lots, peds, parked cars, cars o... [18-08-01 19:28:09]   19s, boston-seaport, #anns:3324
+scene-0106, Drive between buildings under construct... [18-08-01 19:28:29]   19s, boston-seaport, #anns:2964
+scene-0107, Cross busy intersection, bendy bus chan... [18-08-01 19:28:50]   19s, boston-seaport, #anns:1474
+scene-0108, Construction zone, waiting for car to p... [18-08-01 19:30:25]   19s, boston-seaport, #anns:2042
+scene-0109, Cross roundabout, construction vehicle,... [18-08-01 19:30:47]   19s, boston-seaport, #anns:1960
+scene-0110, Parked car with open bonnet, parked car... [18-08-01 19:31:21]   19s, boston-seaport, #anns:1215
+scene-0062, Change lane, parked cars, overhead walkways [18-08-01 19:54:05]   19s, boston-seaport, #anns:561
+scene-0063, Exit passage, parking lot, flag, trucks... [18-08-01 19:54:32]   19s, boston-seaport, #anns:1671
+scene-0064, Parking lots, oncoming special electric... [18-08-01 19:54:52]   19s, boston-seaport, #anns:2360
+scene-0065, Wait at intersection, truck, peds, turn... [18-08-01 19:55:43]   19s, boston-seaport, #anns:1802
+scene-0066, Parking lots, parked truck, constructio... [18-08-01 19:56:43]   19s, boston-seaport, #anns:3003
+scene-0067, Exit construction, ped on crosswalk, co... [18-08-01 19:57:10]   19s, boston-seaport, #anns:2469
+scene-0068, Two turning trucks, wait, turn left [18-08-01 19:57:38]   19s, boston-seaport, #anns:1431
+scene-0069, Turn left, peds near parked bus, bird [18-08-01 19:58:00]   19s, boston-seaport, #anns:1185
+scene-0070, Peds, ped with bag, bus stop, parking l... [18-08-01 19:58:35]   19s, boston-seaport, #anns:1792
+scene-0071, Parked trucks, construction vehicles, r... [18-08-01 19:59:06]   20s, boston-seaport, #anns:908
+scene-0072, Wait at intersection, running ped [18-08-01 20:00:30]   19s, boston-seaport, #anns:1491
+scene-0073, Parked scooter, flock of pigeons, perso... [18-08-01 20:01:10]   19s, boston-seaport, #anns:1112
+scene-0074, Wait at intersection, turn left, bike r... [18-08-01 20:01:35]   19s, boston-seaport, #anns:1908
+scene-0075, Parked cars, oncoming semi, two oncomin... [18-08-01 20:01:58]   19s, boston-seaport, #anns:1305
+scene-0076, Turn right, follow cyclist, turn right [18-08-01 20:02:27]   19s, boston-seaport, #anns:1130
+scene-0003, Parking lot, barrier, exit parking lot [18-08-02 09:17:50]   19s, singapore-onenorth, #anns:1754
+scene-0344, Wait at intersection, construction, bus... [18-08-02 09:19:15]   19s, singapore-onenorth, #anns:2445
+scene-0345, Cross the intersection, construction, s... [18-08-02 09:19:42]   19s, singapore-onenorth, #anns:3276
+scene-0346, Cross intersection, scooter, nature, pe... [18-08-02 09:22:08]   19s, singapore-onenorth, #anns:267
+scene-0347, Avoid parked cars, lane change, stop at... [18-08-02 09:30:01]   19s, singapore-onenorth, #anns:683
+scene-0348, Turn right, bus, peds, narrow street [18-08-02 09:30:54]   19s, singapore-onenorth, #anns:912
+scene-0349, Cones, parked car blocking ego vehicle,... [18-08-02 09:32:38]   19s, singapore-onenorth, #anns:413
+scene-0350, Nature, parked truck, peds, peds with l... [18-08-02 09:32:57]   19s, singapore-onenorth, #anns:560
+scene-0351, Turn left, parked bus, concrete truck, ... [18-08-02 09:33:18]   19s, singapore-onenorth, #anns:1003
+scene-0352, Follow concrete truck, construction, tr... [18-08-02 09:33:38]   19s, singapore-onenorth, #anns:3392
+scene-0353, Start at intersection, cross intersecti... [18-08-02 09:34:30]   19s, singapore-onenorth, #anns:1073
+scene-0354, Start at intersection, truck, bus, cons... [18-08-02 09:35:58]   19s, singapore-onenorth, #anns:1658
+scene-0355, Construction worker, construction, bloc... [18-08-02 09:36:49]   19s, singapore-onenorth, #anns:5028
+scene-0356, Arrive at intersection, construction, d... [18-08-02 09:37:09]   19s, singapore-onenorth, #anns:3719
+scene-0357, Wait at intersection, digger turning, p... [18-08-02 09:37:28]   20s, singapore-onenorth, #anns:4281
+scene-0358, Wait at intersection, construction, hea... [18-08-02 09:37:48]   19s, singapore-onenorth, #anns:4271
+scene-0359, Bus stop, parked bicycle, sparsely popu... [18-08-02 09:39:10]   20s, singapore-onenorth, #anns:1153
+scene-0360, Parking lot, worker cleaning, garbage, ... [18-08-03 07:00:38]   20s, singapore-onenorth, #anns:2003
+scene-0361, Parking lot, turn left, cone [18-08-03 07:00:58]   20s, singapore-onenorth, #anns:1156
+scene-0362, Ped, parking lot, parked scooter, turn left [18-08-03 07:01:18]   20s, singapore-onenorth, #anns:1082
+scene-0382, Turn left, parking lot, peds, parked mo... [18-08-03 07:01:38]   20s, singapore-onenorth, #anns:2469
+scene-0363, Turn right, oncoming scooter, parked trucks [18-08-03 07:02:28]   20s, singapore-onenorth, #anns:426
+scene-0364, Followed by scooter, peds, bus stop, pa... [18-08-03 07:02:48]   20s, singapore-onenorth, #anns:809
+scene-0365, Jaywalker, offloading truck, parked bicycle [18-08-03 07:03:08]   20s, singapore-onenorth, #anns:784
+scene-0366, Weirdly stopped car, turn right at inte... [18-08-03 07:04:16]   19s, singapore-onenorth, #anns:591
+scene-0367, Buses, turn right [18-08-03 07:05:24]   19s, singapore-onenorth, #anns:79
+scene-0368, Arrive at busy intersection [18-08-03 07:07:13]   20s, singapore-onenorth, #anns:1581
+scene-0369, Start at busy intersection, turn right,... [18-08-03 07:07:56]   20s, singapore-onenorth, #anns:925
+scene-0370, Parked truck, cones, sitting peds, peds... [18-08-03 07:08:53]   20s, singapore-onenorth, #anns:993
+scene-0371, Peds, parked bus, oncoming scooter, par... [18-08-03 07:09:13]   19s, singapore-onenorth, #anns:446
+scene-0372, Turn left, peds, parked bicycle, bus stop [18-08-03 07:09:48]   19s, singapore-onenorth, #anns:1024
+scene-0375, Parking lot, turn right, peds [18-08-03 07:11:13]   19s, singapore-onenorth, #anns:1418
+scene-0373, Parking lot, peds, construction, a car ... [18-08-03 07:11:33]   20s, singapore-onenorth, #anns:1943
+scene-0374, Parking lot, vehicle reverses into park... [18-08-03 07:11:53]   20s, singapore-onenorth, #anns:1810
+scene-0376, Parking lot, peds, oncoming scooter [18-08-03 07:21:59]   20s, singapore-onenorth, #anns:1498
+scene-0377, Lane change, cyclist on side walk, cons... [18-08-03 07:23:29]   19s, singapore-onenorth, #anns:1104
+scene-0378, Construction zone, excavator, workers, ... [18-08-03 07:23:52]   19s, singapore-onenorth, #anns:905
+scene-0379, Parked cars, tricycle, narrow road, ove... [18-08-03 07:26:31]   19s, singapore-onenorth, #anns:444
+scene-0380, Parked cars, give way for oncoming vehicle [18-08-03 07:26:50]   20s, singapore-onenorth, #anns:275
+scene-0381, Ped crossing, peds, construction, parke... [18-08-03 07:27:47]   20s, singapore-onenorth, #anns:1894
+scene-0383, Peds sitting, turn left, parked bicycle... [18-08-03 07:32:02]   19s, singapore-onenorth, #anns:539
+scene-0384, Pass vehicles, turn right, person getti... [18-08-03 07:33:23]   20s, singapore-onenorth, #anns:220
+scene-0385, Turn left, construction, peds, parked b... [18-08-03 07:35:35]   20s, singapore-onenorth, #anns:1679
+scene-0386, Start at intersection, turn right, scoo... [18-08-03 07:37:58]   19s, singapore-onenorth, #anns:232
+scene-0254, Parked cars, long corridor, parking lot... [18-08-06 19:07:34]   19s, boston-seaport, #anns:865
+scene-0255, Parking lot, turn left [18-08-06 19:08:08]   19s, boston-seaport, #anns:2277
+scene-0256, Pass by a jaywalker, parked car, stoppe... [18-08-06 19:08:54]   19s, boston-seaport, #anns:877
+scene-0257, Wait at intersection, heavy trucks, bic... [18-08-06 19:09:57]   19s, boston-seaport, #anns:950
+scene-0258, Parked cars, cone, active cars, constru... [18-08-06 19:12:51]   19s, boston-seaport, #anns:1849
+scene-0259, Busy intersection, tram bus, constructi... [18-08-06 19:14:46]   19s, boston-seaport, #anns:2251
+scene-0260, Waiting at red light, in front of turni... [18-08-06 19:17:26]   20s, boston-seaport, #anns:1145
+scene-0261, Ped mending a bus, lots of barriers [18-08-06 19:19:54]   19s, boston-seaport, #anns:1938
+scene-0262, Peds crossing, turn right, construction [18-08-06 19:20:58]   20s, boston-seaport, #anns:2153
+scene-0263, Turning heavy truck, parked cars [18-08-06 19:22:01]   20s, boston-seaport, #anns:1085
+scene-0264, Parked cars, parked bicycles [18-08-06 19:22:41]   19s, boston-seaport, #anns:1650
+scene-0242, Heavy vehs, waiting at intersection for... [18-08-21 15:57:12]   20s, boston-seaport, #anns:1840
+scene-0243, Semi truck, stopped at red light [18-08-21 15:58:14]   19s, boston-seaport, #anns:1086
+scene-0244, Ped walking, stopped at red light [18-08-21 15:59:09]   19s, boston-seaport, #anns:2442
+scene-0245, Parked cars, peds, bridge, car overtaki... [18-08-21 16:00:09]   19s, boston-seaport, #anns:1740
+scene-0246, Traffic cones, overtake parked car, Con... [18-08-21 16:00:29]   19s, boston-seaport, #anns:2221
+scene-0247, Construction vehicle, cone, lots of bar... [18-08-21 16:01:07]   19s, boston-seaport, #anns:4534
+scene-0248, Wait at intersection, many peds [18-08-21 16:01:42]   20s, boston-seaport, #anns:2520
+scene-0249, Many peds, ped crossing road, parked cars [18-08-21 16:02:13]   19s, boston-seaport, #anns:2568
+scene-0250, Peds crossing road, bridge [18-08-21 16:02:47]   20s, boston-seaport, #anns:1960
+scene-0251, Cars, peds, bicycle, heavy traffic [18-08-21 16:03:19]   19s, boston-seaport, #anns:2784
+scene-0252, Many peds, parked bicycles, jaywalkers,... [18-08-21 16:03:52]   19s, boston-seaport, #anns:2253
+scene-0253, Moving cars, parked cars, heavy traffic [18-08-21 16:05:12]   20s, boston-seaport, #anns:3533
+scene-0329, Parked trucks, parked cars, avoid parke... [18-08-22 19:57:12]   19s, boston-seaport, #anns:1609
+scene-0330, Ped walking along the road, bus stops w... [18-08-22 19:58:48]   19s, boston-seaport, #anns:660
+scene-0331, Heavy truck, container, turn left [18-08-22 20:00:30]   19s, boston-seaport, #anns:1838
+scene-0332, Peds crossing, parked cars [18-08-22 20:04:06]   20s, boston-seaport, #anns:1793
+scene-0653, Parked cars, jaywalkers, parked truck [18-08-27 15:50:32]   20s, boston-seaport, #anns:2023
+scene-0654, Turn right, crane, policemen on road, p... [18-08-27 15:50:52]   20s, boston-seaport, #anns:2815
+scene-0655, Parking lot, parked cars, jaywalker, be... [18-08-27 15:51:32]   20s, boston-seaport, #anns:2332
+scene-0656, Parked cars, jaywalker, parked bicycle,... [18-08-27 15:51:52]   20s, boston-seaport, #anns:1867
+scene-0657, Parking lot, turn left, heavy truck [18-08-27 15:52:12]   20s, boston-seaport, #anns:2122
+scene-0658, Wait at intersection, peds crossing cro... [18-08-27 15:52:32]   20s, boston-seaport, #anns:739
+scene-0659, Peds, parking lot, large truck, scooter [18-08-27 15:53:12]   19s, boston-seaport, #anns:1531
+scene-0660, Painted truck, parked cars [18-08-27 15:53:52]   20s, boston-seaport, #anns:1167
+scene-0661, Parked cars, turn left, construction [18-08-27 15:54:12]   19s, boston-seaport, #anns:1195
+scene-0662, Parked cars, construction, wait at inte... [18-08-27 15:54:32]   20s, boston-seaport, #anns:2583
+scene-0663, Parked cars, turn left, parked bicycles... [18-08-27 15:54:52]   20s, boston-seaport, #anns:2082
+scene-0664, Huge truck, parked trucks [18-08-27 15:55:12]   20s, boston-seaport, #anns:1671
+scene-0328, Jaywalker, parked cars, right turn, rig... [18-08-27 15:57:37]   19s, boston-seaport, #anns:1479
+scene-0499, Construction zone, workers, parking lot... [18-08-28 17:40:51]   19s, boston-seaport, #anns:1784
+scene-0500, Left turn, large truck turns right, par... [18-08-28 17:41:56]   20s, boston-seaport, #anns:3227
+scene-0501, Parked vehicles, right bend, parked tru... [18-08-28 17:48:50]   19s, boston-seaport, #anns:1407
+scene-0502, Parked truck, right turn, jaywalkers, b... [18-08-28 17:49:10]   20s, boston-seaport, #anns:1044
+scene-0504, Construction zone, cross intersection, ... [18-08-28 17:50:36]   20s, boston-seaport, #anns:2209
+scene-0505, Passing under flyover, pedestrians in s... [18-08-28 17:51:16]   19s, boston-seaport, #anns:1214
+scene-0506, Oncoming bus, pedestrians [18-08-28 17:51:36]   20s, boston-seaport, #anns:1455
+scene-0507, Parked cars, peds, construction zone, o... [18-08-28 17:51:56]   20s, boston-seaport, #anns:2129
+scene-0508, Construction zone, roundabout junction [18-08-28 17:52:16]   20s, boston-seaport, #anns:2168
+scene-0509, Multi-storey carpark, oncoming truck, p... [18-08-28 17:53:01]   20s, boston-seaport, #anns:1079
+scene-0510, Turn left, parking lot, bicycle rack, p... [18-08-28 17:53:47]   20s, boston-seaport, #anns:1828
+scene-0511, Car attempting to park, peds, parked mo... [18-08-28 17:54:17]   20s, boston-seaport, #anns:2396
+scene-0512, Right bend, parked motorcyle, parked bi... [18-08-28 17:54:37]   20s, boston-seaport, #anns:2067
+scene-0513, Right bend, construction vehicles, an a... [18-08-28 17:54:57]   20s, boston-seaport, #anns:1071
+scene-0665, Sitting ped, parking lot, turn left, wa... [18-08-28 20:17:43]   20s, boston-seaport, #anns:1941
+scene-0666, Parking lot, jaywalker [18-08-28 20:18:30]   20s, boston-seaport, #anns:2055
+scene-0667, Bendy bus, peds having a picnic, overta... [18-08-28 20:18:50]   20s, boston-seaport, #anns:2055
+scene-0668, Parked bus, crane, construction [18-08-28 20:19:10]   20s, boston-seaport, #anns:1987
+scene-0669, Turn right, dense traffic, ped sitting ... [18-08-28 20:20:34]   20s, boston-seaport, #anns:1854
+scene-0670, Wait at intersection, heavy truck, pers... [18-08-28 20:21:22]   20s, boston-seaport, #anns:690
+scene-0671, Cars, heavy truck, personal mobility, a... [18-08-28 20:22:02]   20s, boston-seaport, #anns:1401
+scene-0672, Wait at intersection, heavy truck, pers... [18-08-28 20:23:02]   20s, boston-seaport, #anns:1064
+scene-0673, Construction, bus, wait at intersection... [18-08-28 20:24:02]   20s, boston-seaport, #anns:2036
+scene-0321, Ped, heavy traffic flow, peds, parked car [18-08-28 20:24:45]   19s, boston-seaport, #anns:1435
+scene-0674, Parked cars, bridge, wheelchair [18-08-28 20:25:22]   20s, boston-seaport, #anns:1289
+scene-0675, Excavator, wheelchair on road, construction [18-08-28 20:25:42]   19s, boston-seaport, #anns:2381
+scene-0676, Wheelchair, construction [18-08-28 20:26:02]   20s, boston-seaport, #anns:3373
+scene-0677, Wheelchair, construction, personal mobility [18-08-28 20:26:22]   20s, boston-seaport, #anns:3172
+scene-0678, Wheelchair, personal mobility, stroller... [18-08-28 20:26:42]   20s, boston-seaport, #anns:2781
+scene-0679, Personal mobility, wheel chair, constru... [18-08-28 20:27:02]   20s, boston-seaport, #anns:4297
+scene-0681, Wait at intersection, construction, bic... [18-08-28 20:28:36]   20s, boston-seaport, #anns:3988
+scene-0683, Wait at intersection, construction, sta... [18-08-28 20:29:17]   19s, boston-seaport, #anns:4433
+scene-0684, Bridge, many peds, bus [18-08-28 20:29:36]   20s, boston-seaport, #anns:2209
+scene-0685, Wait at crosswalk, many peds, turn righ... [18-08-28 20:29:59]   20s, boston-seaport, #anns:3205
+scene-0686, Many peds, jaywalkers, wait at intersec... [18-08-28 20:30:19]   20s, boston-seaport, #anns:2158
+scene-0323, Several peds crossing road at crosswalk [18-08-28 20:30:43]   19s, boston-seaport, #anns:2698
+scene-0687, Bicyclists, many peds in sidewalk, turn... [18-08-28 20:31:22]   20s, boston-seaport, #anns:2494
+scene-0688, Arrive at intersection, many peds, cycl... [18-08-28 20:32:14]   20s, boston-seaport, #anns:1783
+scene-0689, Wait at intersection until light turns ... [18-08-28 20:32:54]   20s, boston-seaport, #anns:1405
+scene-0324, Parked cars, cones, reduce speed for tr... [18-08-28 20:34:20]   20s, boston-seaport, #anns:3267
+scene-0552, Bendy bus, school bus, parking lot, tur... [18-08-28 20:45:36]   20s, boston-seaport, #anns:1010
+scene-0553, Wait at intersection, bicycle, large tr... [18-08-28 20:48:16]   20s, boston-seaport, #anns:1950
+scene-0554, Wait at intersection, ped crossing, ped... [18-08-28 20:48:36]   20s, boston-seaport, #anns:1949
+scene-0555, Cross intersection, construction, big truck [18-08-28 20:48:56]   20s, boston-seaport, #anns:2193
+scene-0514, Waiting to turn left, oncoming traffic,... [18-08-28 20:58:21]   20s, boston-seaport, #anns:3274
+scene-0515, Parking lot, construction zone [18-08-28 20:58:51]   20s, boston-seaport, #anns:1501
+scene-0517, Construction zone, constructing vehicle... [18-08-28 20:59:31]   19s, boston-seaport, #anns:1476
+scene-0518, Parking lot, peds, parked motorcyle, bi... [18-08-28 20:59:58]   20s, boston-seaport, #anns:3384
+scene-0695, Parked cars, peds, bicycle racks, cones... [18-08-29 20:04:14]   20s, boston-seaport, #anns:2079
+scene-0696, Cones, parked cars, ped crossing crosswalk [18-08-29 20:04:34]   20s, boston-seaport, #anns:1928
+scene-0697, Ped crossing road, parked cars, ped on ... [18-08-29 20:04:54]   20s, boston-seaport, #anns:1105
+scene-0698, Pullable object, peds on sidewalk, park... [18-08-29 20:05:14]   20s, boston-seaport, #anns:2398
+scene-0700, Overtake stopped cars, arrive at inters... [18-08-29 20:05:54]   19s, boston-seaport, #anns:2679
+scene-0701, Parked cars, ped on sidewalk, bicycle, ... [18-08-29 20:06:14]   20s, boston-seaport, #anns:2446
+scene-0703, Wait at intersection, cars, parking lot... [18-08-29 20:06:54]   20s, boston-seaport, #anns:1546
+scene-0704, Cars, bicycles, peds on sidewalk, parki... [18-08-29 20:07:28]   20s, boston-seaport, #anns:1201
+scene-0705, Wait at intersection, truck, peds cross... [18-08-29 20:08:08]   20s, boston-seaport, #anns:1070
+scene-0706, Cross intersection, cars, cones, cars o... [18-08-29 20:08:40]   20s, boston-seaport, #anns:2673
+scene-0707, Construction, peds on sidewalk, arrive ... [18-08-29 20:09:00]   20s, boston-seaport, #anns:1739
+scene-0708, Parked cars, peds on sidewalk, cones, p... [18-08-29 20:09:20]   20s, boston-seaport, #anns:1450
+scene-0709, Parked cars, peds on sidewalk, cones, t... [18-08-29 20:09:46]   20s, boston-seaport, #anns:2131
+scene-0710, Cones, parked cars, peds on sidewalk, t... [18-08-29 20:10:07]   19s, boston-seaport, #anns:3337
+scene-0711, Change lane, truck, cars, cones, ped on... [18-08-29 20:11:09]   20s, boston-seaport, #anns:5025
+scene-0712, Cones, cars, peds on sidewalk, truck, c... [18-08-29 20:11:30]   19s, boston-seaport, #anns:4580
+scene-0713, Bridge, cars, peds on sidewalk, truck, ... [18-08-29 20:11:50]   19s, boston-seaport, #anns:2149
+scene-0714, Wait at intersection, bridge, jaywalker... [18-08-29 20:12:09]   20s, boston-seaport, #anns:2696
+scene-0715, Wait at intersection, cars, peds on sid... [18-08-29 20:12:29]   20s, boston-seaport, #anns:1451
+scene-0716, Wait at intersection, ped crossing cros... [18-08-29 20:12:49]   20s, boston-seaport, #anns:2283
+scene-0717, Parked cars, peds on sidewalks, parked ... [18-08-29 20:13:09]   20s, boston-seaport, #anns:1451
+scene-0718, Jaywalkers, parked cars, parked trucks,... [18-08-29 20:13:30]   19s, boston-seaport, #anns:1665
+scene-0719, Jaywalkers, parked cars, parked trucks,... [18-08-29 20:13:50]   20s, boston-seaport, #anns:1697
+scene-0726, Wait at intersection, cars overtaking u... [18-08-29 20:17:02]   20s, boston-seaport, #anns:2512
+scene-0727, Wait at intersection, peds on sidewalks... [18-08-29 20:17:22]   19s, boston-seaport, #anns:3027
+scene-0728, Wait at intersection, peds crossing cro... [18-08-29 20:17:42]   19s, boston-seaport, #anns:1883
+scene-0730, Car overtaking us, cones, cross interse... [18-08-29 20:18:59]   20s, boston-seaport, #anns:2126
+scene-0731, Wait at intersection, cones, peds cross... [18-08-29 20:19:19]   20s, boston-seaport, #anns:1926
+scene-0733, Wait at intersection, parked cars, bicy... [18-08-29 20:19:59]   20s, boston-seaport, #anns:1646
+scene-0734, Wait at intersection, parked cars, cone... [18-08-29 20:20:19]   20s, boston-seaport, #anns:1881
+scene-0735, Cross intersection, flags, stopped bus,... [18-08-29 20:20:39]   20s, boston-seaport, #anns:1467
+scene-0736, Parked cars, ped crossing crosswalk, pa... [18-08-29 20:20:59]   20s, boston-seaport, #anns:2841
+scene-0737, Barrier, cyclist, parked motorcycle, pa... [18-08-29 20:21:32]   20s, boston-seaport, #anns:1741
+scene-0738, Trailers, peds on sidewalk, barrier, tr... [18-08-29 20:21:52]   20s, boston-seaport, #anns:2081
+scene-0519, Passing under flyover, oncoming truck, ... [18-08-30 14:33:56]   20s, boston-seaport, #anns:2206
+scene-0520, Pedestrian, parked vehicles [18-08-30 14:34:16]   20s, boston-seaport, #anns:1899
+scene-0521, Parking lot, ped, parked bicycle, peds ... [18-08-30 14:34:36]   20s, boston-seaport, #anns:1645
+scene-0522, Parked bicycle, pedestrian, parked cars... [18-08-30 14:34:56]   19s, boston-seaport, #anns:1895
+scene-0523, Oncoming bus, parked car on center divi... [18-08-30 14:35:16]   20s, boston-seaport, #anns:2577
+scene-0524, Parking lot, parked truck, pedestrian, ... [18-08-30 14:35:36]   20s, boston-seaport, #anns:1713
+scene-0739, Parking lot, peds, child standing in ve... [18-08-30 19:16:55]   20s, boston-seaport, #anns:1525
+scene-0740, Turn right, parking lot, parked cars, d... [18-08-30 19:17:15]   20s, boston-seaport, #anns:2428
+scene-0741, Parked cars, parking lot, peds on side walk [18-08-30 19:17:35]   20s, boston-seaport, #anns:2916
+scene-0744, Parked cars, parking lot, change lane a... [18-08-30 19:19:15]   20s, boston-seaport, #anns:1034
+scene-0746, Parked cars, parking lot, parked trucks... [18-08-30 19:19:55]   20s, boston-seaport, #anns:1210
+scene-0747, Wait at intersection, peds crossing cro... [18-08-30 19:20:15]   20s, boston-seaport, #anns:962
+scene-0749, Wait at intersection, parked large truc... [18-08-30 19:20:55]   20s, boston-seaport, #anns:596
+scene-0750, Wait at intersection, parking lot, traf... [18-08-30 19:21:15]   20s, boston-seaport, #anns:1303
+scene-0751, Parking lot, bicycle, ped entering car,... [18-08-30 19:21:35]   20s, boston-seaport, #anns:750
+scene-0752, Parked cars, crossing intersection, ove... [18-08-30 19:21:55]   20s, boston-seaport, #anns:1509
+scene-0757, Arrive at busy intersection, bus, wait ... [18-08-30 19:25:08]   20s, boston-seaport, #anns:592
+scene-0758, Ped crossing, construction vehicle, UPS... [18-08-30 19:25:28]   19s, boston-seaport, #anns:1008
+scene-0759, Wait at intersection, ped crossing cros... [18-08-30 19:25:48]   20s, boston-seaport, #anns:965
+scene-0760, Wait at intersection, ped crossing cros... [18-08-30 19:26:08]   20s, boston-seaport, #anns:601
+scene-0761, Construction vehicle, peds, animal, par... [18-08-30 19:26:28]   20s, boston-seaport, #anns:1200
+scene-0762, Parking lot, many peds, container, turn... [18-08-30 19:26:48]   20s, boston-seaport, #anns:1223
+scene-0763, Fence, parking lot, bicyclist, buses, p... [18-08-30 19:27:48]   20s, boston-seaport, #anns:2137
+scene-0764, Bicycle, parked cars, parked trucks, fo... [18-08-30 19:28:08]   20s, boston-seaport, #anns:1638
+scene-0765, Wait at intersection, parking lot, low ... [18-08-30 19:29:08]   20s, boston-seaport, #anns:924
+scene-0767, Parked cars, cones, trailer, peds, chil... [18-08-30 19:30:35]   20s, boston-seaport, #anns:1661
+scene-0768, Parked cars, truck overtaking us, peds ... [18-08-30 19:30:55]   20s, boston-seaport, #anns:1193
+scene-0769, Truck, parked cars, ped crossing crossw... [18-08-30 19:31:15]   20s, boston-seaport, #anns:963
+scene-0770, Stationary ego vehicle, parking lot, pe... [18-08-30 19:32:11]   20s, boston-seaport, #anns:976
+scene-0771, Stationary ego vehicle, person getting ... [18-08-30 19:32:49]   20s, boston-seaport, #anns:1596
+scene-0775, Stationary ego vehicle, parking lot, pe... [18-08-30 19:34:09]   20s, boston-seaport, #anns:1128
+scene-0777, Stationary ego vehicle, parking lot, pe... [18-08-30 19:34:54]   20s, boston-seaport, #anns:1090
+scene-0778, Parking lot, U turn, parked cars, peds [18-08-30 19:35:14]   20s, boston-seaport, #anns:791
+scene-0780, Parked cars, stop at red light, jaywalk... [18-08-30 19:36:12]   20s, boston-seaport, #anns:1149
+scene-0781, Stop at red light, bus, low traffic, pe... [18-08-30 19:36:32]   20s, boston-seaport, #anns:1168
+scene-0782, Parked cars, peds, crossing intersectio... [18-08-30 19:36:52]   20s, boston-seaport, #anns:1264
+scene-0783, Cars, parked cars, overtaking a bus, pe... [18-08-30 19:37:12]   20s, boston-seaport, #anns:1320
+scene-0784, Waiting at intersection, parked cars, b... [18-08-30 19:37:32]   20s, boston-seaport, #anns:1383
+scene-0525, Turn right, parking lot, peds waiting, ... [18-08-30 19:54:07]   20s, boston-seaport, #anns:2726
+scene-0526, Parking lot, wide biaising for parked c... [18-08-30 19:54:27]   20s, boston-seaport, #anns:2074
+scene-0527, Parking lot, lorry containers, pedestri... [18-08-30 19:54:47]   20s, boston-seaport, #anns:2134
+scene-0528, Avoiding large truck with oncoming car,... [18-08-30 19:55:24]   19s, boston-seaport, #anns:801
+scene-0529, Parked cars, parking lot [18-08-30 19:55:44]   20s, boston-seaport, #anns:961
+scene-0530, Parked cars, parking lot, container, st... [18-08-30 19:56:04]   20s, boston-seaport, #anns:1048
+scene-0531, Turn right, oncoming traffic, parking l... [18-08-30 19:56:24]   20s, boston-seaport, #anns:1614
+scene-0532, Many trash cans, wait at intersection, ... [18-08-30 19:56:44]   20s, boston-seaport, #anns:1147
+scene-0533, Parked cars, pedestrian, animal [18-08-30 19:58:28]   20s, boston-seaport, #anns:1518
+scene-0534, Parked cars, pedestrian, parked truck, ... [18-08-30 19:58:54]   20s, boston-seaport, #anns:1488
+scene-0535, Construction zones, construction vehicl... [18-08-30 20:00:27]   20s, boston-seaport, #anns:511
+scene-0536, Turning right at intersection, narrow p... [18-08-30 20:01:07]   20s, boston-seaport, #anns:942
+scene-0537, Construction zones, construction vehicl... [18-08-30 20:01:27]   20s, boston-seaport, #anns:1280
+scene-0538, Ton of pedestrians in park, parking lot... [18-08-30 20:01:47]   20s, boston-seaport, #anns:2388
+scene-0539, Jaywalkers, bicycle racks, bus, parked ... [18-08-30 20:02:07]   20s, boston-seaport, #anns:1745
+scene-0541, Parked truck, parked cars, pedestrian c... [18-08-30 20:03:07]   20s, boston-seaport, #anns:1000
+scene-0542, Blinking traffic light [18-08-30 20:03:27]   20s, boston-seaport, #anns:628
+scene-0543, Oncoming truck, pedestrian, parking lot... [18-08-30 20:04:27]   19s, boston-seaport, #anns:1354
+scene-0544, Parked cars, peds, pedestrian crossing ... [18-08-30 20:04:47]   20s, boston-seaport, #anns:1577
+scene-0545, Pedestrian, parked cars, parked bicycles [18-08-30 20:05:47]   20s, boston-seaport, #anns:1418
+scene-0546, Wait at intersection, peds, parked cars... [18-08-30 20:06:27]   20s, boston-seaport, #anns:1561
+scene-0283, Parking lot, right turn, approach polic... [18-08-31 15:20:03]   19s, boston-seaport, #anns:2447
+scene-0284, Police lets us pass, left turn, ped sta... [18-08-31 15:20:27]   19s, boston-seaport, #anns:1485
+scene-0285, Cross intersection, construction, barri... [18-08-31 15:20:54]   20s, boston-seaport, #anns:2382
+scene-0286, Wait at intersection, turn right, follo... [18-08-31 15:21:58]   19s, boston-seaport, #anns:1683
+scene-0287, Overtake heavy truck, stopped motorcycl... [18-08-31 15:22:18]   20s, boston-seaport, #anns:1130
+scene-0288, Ped crossing, crane crossing intersecti... [18-08-31 15:22:38]   19s, boston-seaport, #anns:832
+scene-0289, Dense traffic, car overtaking us, digit... [18-08-31 15:23:46]   19s, boston-seaport, #anns:1147
+scene-0290, Light turns green at busy intersection,... [18-08-31 15:24:39]   19s, boston-seaport, #anns:993
+scene-0291, Big street, construction, SUV overtaking [18-08-31 15:24:59]   19s, boston-seaport, #anns:1791
+scene-0292, Lane change, construction [18-08-31 15:25:22]   19s, boston-seaport, #anns:2048
+scene-0293, Construction, parked cars [18-08-31 15:25:42]   19s, boston-seaport, #anns:3533
+scene-0294, Bridge, skateboarder, wheelchair, peds,... [18-08-31 15:26:02]   19s, boston-seaport, #anns:912
+scene-0295, Wait at intersection, cars and trucks c... [18-08-31 15:26:38]   20s, boston-seaport, #anns:1686
+scene-0296, Wait at intersection, cyclist crossing ... [18-08-31 15:26:58]   19s, boston-seaport, #anns:1683
+scene-0297, Right turn, peds crossing, cross inters... [18-08-31 15:27:18]   19s, boston-seaport, #anns:1808
+scene-0298, Turn right, cross bridge, peds [18-08-31 15:27:38]   19s, boston-seaport, #anns:1018
+scene-0299, Cross bridge, peds, ban, parked bicycle [18-08-31 15:27:58]   20s, boston-seaport, #anns:1320
+scene-0300, Bike rack, peds walking, parked cars, j... [18-08-31 15:28:18]   19s, boston-seaport, #anns:2119
+scene-0301, Arrive at intersection, ped loading car... [18-08-31 15:28:38]   19s, boston-seaport, #anns:738
+scene-0302, Huge parking lot, dense traffic [18-08-31 15:29:57]   20s, boston-seaport, #anns:3406
+scene-0303, Cross intersection, construction, large... [18-08-31 15:30:22]   20s, boston-seaport, #anns:2723
+scene-0304, Cross intersection, turning truck, park... [18-08-31 15:31:48]   19s, boston-seaport, #anns:1565
+scene-0305, Barriers, parked cars [18-08-31 15:32:08]   20s, boston-seaport, #anns:2093
+scene-0306, Parked cars, bicyclist waiting in the m... [18-08-31 15:32:30]   19s, boston-seaport, #anns:1830
+scene-0556, Turn left, oncoming vehicle, pedestrian... [18-08-31 15:38:19]   19s, boston-seaport, #anns:841
+scene-0557, Parked cars, pedestrian, stopped at int... [18-08-31 15:44:33]   20s, boston-seaport, #anns:718
+scene-0558, Turning right, parked cars, peds, parke... [18-08-31 15:45:18]   20s, boston-seaport, #anns:1334
+scene-0559, Passing intersection, pedestrian, parke... [18-08-31 15:46:40]   20s, boston-seaport, #anns:1164
+scene-0560, Arrive at intersection, parked cars, st... [18-08-31 15:47:00]   19s, boston-seaport, #anns:931
+scene-0561, Wait at intersection, turning left, car... [18-08-31 15:47:40]   20s, boston-seaport, #anns:1389
+scene-0562, Parked cars, pedestrians, pedestrians o... [18-08-31 15:48:14]   20s, boston-seaport, #anns:2622
+scene-0563, Change lane and stop, slight traffic co... [18-08-31 15:49:54]   20s, boston-seaport, #anns:1639
+scene-0564, Parked car, pedestrian, turning right, ... [18-08-31 15:50:34]   19s, boston-seaport, #anns:1759
+scene-0565, Turning right, pedestrian with suitcase... [18-08-31 15:50:54]   19s, boston-seaport, #anns:1794
+scene-0388, Cross intersection, bridge, arrive at i... [18-08-31 15:57:25]   20s, boston-seaport, #anns:985
+scene-0389, Go straight, parked cars, dense traffic... [18-08-31 15:58:22]   20s, boston-seaport, #anns:1221
+scene-0390, Go straight, parked cars, bendy bus [18-08-31 15:58:42]   20s, boston-seaport, #anns:1629
+scene-0391, Go straight, two bicycles, turn right, ... [18-08-31 15:59:02]   20s, boston-seaport, #anns:1684
+scene-0392, Cross intersection, bicyclist crossing,... [18-08-31 16:00:19]   20s, boston-seaport, #anns:1419
+scene-0393, Turn right, reflections, parked cars [18-08-31 16:00:58]   20s, boston-seaport, #anns:718
+scene-0394, Parked cars, jaywalker [18-08-31 16:01:18]   20s, boston-seaport, #anns:1543
+scene-0395, Ped walking dog, peds, parking lot, tru... [18-08-31 16:01:38]   20s, boston-seaport, #anns:1633
+scene-0396, Parked cars, parking lot, peds [18-08-31 16:01:58]   20s, boston-seaport, #anns:2107
+scene-0397, Stroller, peds, dense traffic, turn left [18-08-31 16:03:01]   20s, boston-seaport, #anns:1812
+scene-0398, Very dense traffic, congestion, overtak... [18-08-31 16:03:21]   20s, boston-seaport, #anns:1339
+scene-0440, Rain, small crane, parking lot [18-09-18 16:08:27]   20s, boston-seaport, #anns:1316
+scene-0441, Rain, cross intersection, lane change, ... [18-09-18 16:08:47]   20s, boston-seaport, #anns:2900
+scene-0442, Rain, parked truck trailers, parked cars [18-09-18 16:09:07]   20s, boston-seaport, #anns:1403
+scene-0443, Rain, crane, parking lot, overtake stop... [18-09-18 16:10:04]   20s, boston-seaport, #anns:1660
+scene-0444, Rain, parked vehicles, parking lot, ben... [18-09-18 16:10:24]   20s, boston-seaport, #anns:1638
+scene-0445, Rain, parking lot [18-09-18 16:10:44]   20s, boston-seaport, #anns:1473
+scene-0446, Rain, turn left, turn left [18-09-18 16:11:04]   20s, boston-seaport, #anns:1132
+scene-0447, Rain, parking lot, turn left [18-09-18 16:12:00]   19s, boston-seaport, #anns:2176
+scene-0448, Rain, parked trailers, parked trucks, f... [18-09-18 16:12:20]   20s, boston-seaport, #anns:1299
+scene-0449, Rain, parking lot, turn left, barriers,... [18-09-18 16:12:40]   20s, boston-seaport, #anns:1402
+scene-0450, Rain, parking lot, many trucks, peds [18-09-18 16:13:30]   19s, boston-seaport, #anns:1786
+scene-0451, Rain, turn right, truck [18-09-18 16:14:05]   20s, boston-seaport, #anns:960
+scene-0452, Rain, wet ground, bendy bus, parked car [18-09-18 16:14:25]   20s, boston-seaport, #anns:903
+scene-0453, Rain, turn right, truck [18-09-18 16:14:45]   20s, boston-seaport, #anns:1299
+scene-0454, Rain, turn left, bike rack, parking lot [18-09-18 16:15:05]   20s, boston-seaport, #anns:1909
+scene-0455, Rain, bus, jaywalker, parking lot, park... [18-09-18 16:15:25]   20s, boston-seaport, #anns:2731
+scene-0456, Rain, parking lot, bicycle rack, turn r... [18-09-18 16:15:45]   20s, boston-seaport, #anns:1864
+scene-0457, Rain, turn right, parking lot, wait at ... [18-09-18 16:55:31]   20s, boston-seaport, #anns:2465
+scene-0458, Rain, turn left, bus stop, parked cars [18-09-18 16:55:51]   20s, boston-seaport, #anns:1748
+scene-0459, Rain, parking lot, crane [18-09-18 16:56:11]   20s, boston-seaport, #anns:2380
+scene-0461, Rain, turn right, heavy truck with empt... [18-09-18 16:56:51]   20s, boston-seaport, #anns:1222
+scene-0462, Rain, cross intersection, parking lot, ... [18-09-18 16:57:11]   20s, boston-seaport, #anns:1249
+scene-0463, Rain, FedEx truck loaded on trailer, tr... [18-09-18 16:57:31]   20s, boston-seaport, #anns:1058
+scene-0464, Rain, wait at intersection, ped crossin... [18-09-18 16:58:01]   20s, boston-seaport, #anns:1229
+scene-0465, Rain, start at intersection, wet ground... [18-09-18 16:58:47]   20s, boston-seaport, #anns:1162
+scene-0467, Rain, wait at intersection, flipped con... [18-09-18 16:59:21]   20s, boston-seaport, #anns:1411
+scene-0468, Rain, wait at intersection, flipped con... [18-09-18 16:59:41]   20s, boston-seaport, #anns:1024
+scene-0469, Rain, truck, cross intersection, ped, p... [18-09-18 17:00:01]   20s, boston-seaport, #anns:1214
+scene-0471, Rain, parked cars, construction [18-09-18 17:00:41]   19s, boston-seaport, #anns:2077
+scene-0472, Rain, construction, wheel barrows [18-09-18 17:01:01]   19s, boston-seaport, #anns:2415
+scene-0474, Rain, start at intersection, bridge, ra... [18-09-18 17:02:21]   20s, boston-seaport, #anns:2172
+scene-0475, Rain, bridge, peds shrinking due to rai... [18-09-18 17:02:41]   20s, boston-seaport, #anns:1401
+scene-0476, Rain, turn right, peds, bridge, peds wi... [18-09-18 17:03:01]   20s, boston-seaport, #anns:1028
+scene-0477, Rain, bridge, peds crossing, peds sidew... [18-09-18 17:03:21]   20s, boston-seaport, #anns:1020
+scene-0478, Rain, waiting traffic light, oncoming b... [18-09-18 17:03:41]   19s, boston-seaport, #anns:1373
+scene-0479, Rain, many peds, jaywalker, bicycle rac... [18-09-18 17:04:01]   20s, boston-seaport, #anns:2046
+scene-0480, Rain, parked cars, bicycle, parking lot [18-09-18 17:04:56]   19s, boston-seaport, #anns:2392
+scene-0566, Rain, turn right, parked cars, car turn... [18-09-18 17:11:06]   20s, boston-seaport, #anns:2061
+scene-0568, Rain, parked cars, parked truck on the lane [18-09-18 17:12:16]   20s, boston-seaport, #anns:651
+scene-0570, Rain, wait at intersection, turn right,... [18-09-18 17:12:56]   20s, boston-seaport, #anns:2130
+scene-0571, Rain, many parked trucks, cross interse... [18-09-18 17:13:16]   20s, boston-seaport, #anns:1088
+scene-0572, Rain, parked trailers, fence, parked ca... [18-09-18 17:13:36]   20s, boston-seaport, #anns:1082
+scene-0573, Rain, parked cars, ped, parked trucks, ... [18-09-18 17:13:56]   20s, boston-seaport, #anns:1251
+scene-0574, Rain, turn left, parked cars, wait at i... [18-09-18 17:14:16]   20s, boston-seaport, #anns:902
+scene-0575, Rain, parked cars, cones, construction ... [18-09-18 17:14:36]   20s, boston-seaport, #anns:1075
+scene-0576, Rain, construction, ped on road, turn right [18-09-18 17:15:01]   19s, boston-seaport, #anns:1332
+scene-0577, Rain, turn right, bicycle rack, cross i... [18-09-18 17:15:41]   20s, boston-seaport, #anns:524
+scene-0578, Rain, cross intersection [18-09-18 17:16:41]   20s, boston-seaport, #anns:1506
+scene-0580, Rain, long street, parked car [18-09-18 17:17:41]   20s, boston-seaport, #anns:899
+scene-0582, Rain, parked cars, turn right, peds, we... [18-09-18 17:18:43]   20s, boston-seaport, #anns:778
+scene-0583, Rain, parking lot, stopped briefly at i... [18-09-18 17:19:03]   20s, boston-seaport, #anns:1728
+scene-0584, Rain, turn right, exiting car, parking lot [18-09-18 17:43:31]   20s, boston-seaport, #anns:2386
+scene-0585, Rain, construction vehicles, cross inte... [18-09-18 17:44:31]   20s, boston-seaport, #anns:2716
+scene-0586, Rain, construction, parked car, close t... [18-09-18 17:44:51]   20s, boston-seaport, #anns:3048
+scene-0587, Rain, wait at intersection, truck [18-09-18 17:45:11]   20s, boston-seaport, #anns:1642
+scene-0588, Rain, turn right, parking lot [18-09-18 17:45:31]   19s, boston-seaport, #anns:1572
+scene-0589, Rain, turn right, cars waiting at inter... [18-09-18 17:46:11]   20s, boston-seaport, #anns:646
+scene-0590, Rain, cluster of traffic cones, wait at... [18-09-18 17:46:31]   19s, boston-seaport, #anns:1192
+scene-0591, Rain, cross intersection, wait at inter... [18-09-18 17:46:51]   20s, boston-seaport, #anns:894
+scene-0592, Rain, wait at intersection, turn left, ... [18-09-18 17:47:51]   20s, boston-seaport, #anns:1679
+scene-0593, Rain, wait at intersection, peds crossing [18-09-18 17:48:43]   20s, boston-seaport, #anns:890
+scene-0594, Rain, turn right, arrive at intersectio... [18-09-18 17:49:03]   20s, boston-seaport, #anns:1546
+scene-0595, Rain, wait at intersection, peds, const... [18-09-18 17:49:43]   20s, boston-seaport, #anns:847
+scene-0596, Rain, wait at intersection, start at in... [18-09-18 17:53:16]   20s, boston-seaport, #anns:1468
+scene-0597, Rain, parked cars, peds and children, p... [18-09-18 17:53:36]   20s, boston-seaport, #anns:1456
+scene-0598, Rain, construction, turn right, roundabout [18-09-18 17:54:36]   20s, boston-seaport, #anns:2138
+scene-0599, Rain, peds, construction, turn right, c... [18-09-18 17:54:56]   20s, boston-seaport, #anns:1823
+scene-0600, Rain, parked busses, parking lot [18-09-18 17:55:16]   20s, boston-seaport, #anns:1053
+scene-0625, Rain, peds, construction [18-09-18 18:36:53]   20s, boston-seaport, #anns:921
+scene-0626, Rain, construction, bendy bus, roundabout [18-09-18 18:37:13]   20s, boston-seaport, #anns:1831
+scene-0627, Rain, industrial [18-09-18 18:37:53]   20s, boston-seaport, #anns:859
+scene-0629, Rain, industrial, turn twice [18-09-18 18:38:33]   20s, boston-seaport, #anns:2256
+scene-0630, Rain, construction, fence, special cons... [18-09-18 18:39:06]   20s, boston-seaport, #anns:684
+scene-0632, Rain, industrial, turn right, turn righ... [18-09-18 18:39:46]   20s, boston-seaport, #anns:351
+scene-0633, Rain, industrial, parked trucks at park... [18-09-18 18:40:35]   20s, boston-seaport, #anns:796
+scene-0634, Rain, industrial, parking lot, semi bac... [18-09-18 18:40:55]   20s, boston-seaport, #anns:2416
+scene-0635, Stationary in rain, semi backing up [18-09-18 18:41:15]   20s, boston-seaport, #anns:1807
+scene-0636, Rain, turn right, parked trucks [18-09-18 18:41:55]   20s, boston-seaport, #anns:819
+scene-0637, Rain, parked cars, peds, jaywalker, wat... [18-09-18 18:42:55]   19s, boston-seaport, #anns:1498
+scene-0638, Rain, turn left, water reflections, jay... [18-09-18 18:43:15]   20s, boston-seaport, #anns:1233
+scene-0639, Rain, arrive at intersection, parked ve... [18-09-18 18:45:24]   20s, boston-seaport, #anns:1128
+scene-0640, Rain, cross bridge, truck [18-09-18 18:45:44]   19s, boston-seaport, #anns:715
+scene-0641, Rain, cross intersection, parked cars, ... [18-09-18 18:46:04]   20s, boston-seaport, #anns:1246
+scene-0642, Rain, parked cars, parked bicycle [18-09-18 18:46:24]   20s, boston-seaport, #anns:1143
+scene-0643, Rain, parked cars, bicycle rack, parked... [18-09-18 18:46:44]   20s, boston-seaport, #anns:1164
+scene-0644, Rain, parked cars, parking lot, ped, pa... [18-09-18 18:47:04]   19s, boston-seaport, #anns:1127
+scene-0645, Rain, parked cars, wait at intersection... [18-09-18 18:47:24]   20s, boston-seaport, #anns:1123
+scene-0646, Heavy, parking lot, truck, concrete bar... [18-09-18 18:47:44]   20s, boston-seaport, #anns:1664
+scene-0647, Rain, parked cars, parked buses [18-09-18 18:48:04]   20s, boston-seaport, #anns:2437
+scene-0648, Rain, cross intersection, reflections, ... [18-09-18 18:48:24]   20s, boston-seaport, #anns:1227
+scene-0649, Rain, parked scooter, parked bicycle, w... [18-09-18 18:48:44]   20s, boston-seaport, #anns:294
+scene-0650, Rain, reflections, parking lot, arrive ... [18-09-18 18:50:01]   20s, boston-seaport, #anns:1798
+scene-0651, Rain, start at intersection, parked car... [18-09-18 18:50:41]   20s, boston-seaport, #anns:1102
+scene-0652, Rain, wait at intersection, peds crossi... [18-09-18 18:51:25]   20s, boston-seaport, #anns:1434
+scene-0868, Rain, turn right, bridge, peds, ships, ... [18-09-18 18:55:26]   20s, boston-seaport, #anns:567
+scene-0869, Rain, peds, bridge, parked cars, parkin... [18-09-18 18:55:45]   20s, boston-seaport, #anns:2226
+scene-0870, Rain, waiting at red light, parked cars... [18-09-18 18:56:23]   20s, boston-seaport, #anns:1179
+scene-0871, Rain, parked cars, parked bicycle, peds... [18-09-18 18:56:43]   20s, boston-seaport, #anns:1049
+scene-0872, Rain, peds, truck, wait at red light, p... [18-09-18 18:57:03]   20s, boston-seaport, #anns:1421
+scene-0873, Rain, waiting at intersection, jaywalke... [18-09-18 18:57:38]   20s, boston-seaport, #anns:2161
+scene-0875, Rain, wait at intersection, constructio... [18-09-18 18:58:52]   19s, boston-seaport, #anns:2682
+scene-0876, Rain, construction site, cones, barrier... [18-09-18 18:59:12]   20s, boston-seaport, #anns:2540
+scene-0877, Rain, parked cars, barriers, cones, con... [18-09-18 18:59:33]   19s, boston-seaport, #anns:2170
+scene-0878, Rain, bus, parked cars, parked scooter,... [18-09-18 18:59:52]   20s, boston-seaport, #anns:952
+scene-0880, Rain, parked cars, parked bicycle, park... [18-09-18 19:00:32]   20s, boston-seaport, #anns:1364
+scene-0882, Rain, wait at intersection, truck, park... [18-09-18 19:02:12]   20s, boston-seaport, #anns:878
+scene-0883, Rain, peds, parking lot, truck, waiting... [18-09-18 19:02:32]   20s, boston-seaport, #anns:2240
+scene-0884, Rain, jaywalker, truck, parked cars, st... [18-09-18 19:03:33]   20s, boston-seaport, #anns:598
+scene-0885, Rain, truck, peds, parked cars, ships [18-09-18 19:03:53]   20s, boston-seaport, #anns:802
+scene-0886, Rain, peds, truck, ships, cones, parked... [18-09-18 19:04:13]   20s, boston-seaport, #anns:1576
+scene-0887, Rain, truck, peds, waiting at intersection [18-09-18 19:04:33]   20s, boston-seaport, #anns:949
+scene-0888, Rain, peds, truck, cones, parked cars, ... [18-09-18 19:04:53]   20s, boston-seaport, #anns:1767
+scene-0889, Rain, wait at intersection, bicycle rac... [18-09-18 19:05:13]   20s, boston-seaport, #anns:3029
+scene-0890, Rain, parking lot, parked cars, truck, ... [18-09-18 19:05:33]   20s, boston-seaport, #anns:2110
+scene-0891, Rain, parking lot, parked bicycles, par... [18-09-18 19:05:53]   19s, boston-seaport, #anns:3484
+scene-0892, Rain, parked cars, barriers, peds, park... [18-09-18 19:06:13]   20s, boston-seaport, #anns:2320
+scene-0893, Rain, parked cars, peds, cross intersec... [18-09-18 19:06:33]   20s, boston-seaport, #anns:2320
+scene-0894, Rain, parked cars, peds, cones, jaywalk... [18-09-18 19:06:53]   20s, boston-seaport, #anns:2024
+scene-0895, Rain, parked cars, cones, peds, car lea... [18-09-18 19:07:13]   20s, boston-seaport, #anns:1304
+scene-0896, Rain, parked cars, peds, construction, ... [18-09-18 19:07:33]   20s, boston-seaport, #anns:994
+scene-0897, Rain, parked cars, parking lot, ped cro... [18-09-18 19:07:54]   20s, boston-seaport, #anns:980
+scene-0898, Rain, parked cars, peds, peds crossing ... [18-09-18 19:08:34]   20s, boston-seaport, #anns:1064
+scene-0899, Rain, parked cars, peds, cross intersec... [18-09-18 19:09:37]   20s, boston-seaport, #anns:1024
+scene-0900, Rain, parked cars, peds, parked bicycle... [18-09-18 19:09:57]   20s, boston-seaport, #anns:2547
+scene-0901, Rain, parked cars, parking lot, peds, p... [18-09-18 19:10:17]   20s, boston-seaport, #anns:3182
+scene-0902, Rain, parked cars, parked bicycle, park... [18-09-18 19:10:37]   20s, boston-seaport, #anns:1445
+scene-0903, Rain, wait at intersection, bicycle rac... [18-09-18 19:11:17]   19s, boston-seaport, #anns:1192
+scene-0904, Rain, parked cars, bus, peds, barriers,... [18-09-18 19:12:25]   20s, boston-seaport, #anns:1841
+scene-0905, Rain, construction site, barriers, cone... [18-09-18 19:12:45]   19s, boston-seaport, #anns:1193
+scene-0906, Rain, parked cars, parked bicycle, peds... [18-09-18 19:13:05]   20s, boston-seaport, #anns:1652
+scene-0907, Rain, turn right, parked cars, parking ... [18-09-18 19:13:25]   19s, boston-seaport, #anns:940
+scene-0908, Rain, parked cars, truck, parked scoote... [18-09-18 19:13:45]   20s, boston-seaport, #anns:834
+scene-0909, Rain, ped, cones, parked cars, construc... [18-09-18 19:14:05]   20s, boston-seaport, #anns:1130
+scene-0910, Rain, parked cars, sign trailer, constr... [18-09-18 19:14:25]   19s, boston-seaport, #anns:1544
+scene-0911, Rain, parked cars, trucks, peds crossin... [18-09-18 19:14:45]   20s, boston-seaport, #anns:1314
+scene-0912, Rain, parked cars, trucks, parking lot,... [18-09-18 19:15:25]   20s, boston-seaport, #anns:1418
+scene-0913, Rain, parked cars, semi trailers, barri... [18-09-18 19:16:05]   19s, boston-seaport, #anns:2984
+scene-0914, Rain, parking lot, bicycle rack, buses,... [18-09-18 19:16:45]   20s, boston-seaport, #anns:1074
+scene-0915, Rain, parked cars, turn left, peds, bus... [18-09-18 19:19:05]   20s, boston-seaport, #anns:1573
+scene-0803, Cars, peds on sidewalk, parked bicycles... [18-09-18 19:27:21]   19s, boston-seaport, #anns:1050
+scene-0804, Rain, Truck, ped on sidewalk, cars, bus... [18-09-18 19:27:41]   20s, boston-seaport, #anns:1291
+scene-0805, Parked cars, truck, trash can, bus, ped... [18-09-18 19:28:01]   20s, boston-seaport, #anns:1048
+scene-0806, Rain, Wait at intersection, ped push a ... [18-09-18 19:28:21]   20s, boston-seaport, #anns:1143
+scene-0808, Rain, trucks, cars, ped crossing crossw... [18-09-18 19:29:21]   20s, boston-seaport, #anns:1235
+scene-0809, Truck, cars, cones, trailer, car overta... [18-09-18 19:29:41]   20s, boston-seaport, #anns:1308
+scene-0810, Rain. Truck, buses, cars, peds, jaywalk... [18-09-18 19:30:01]   19s, boston-seaport, #anns:917
+scene-0811, Rain, Wait at intersection, trucks, car... [18-09-18 19:31:21]   20s, boston-seaport, #anns:820
+scene-0812, Truck, cars, peds on sidewalk, cones, c... [18-09-18 19:31:41]   20s, boston-seaport, #anns:883
+scene-0813, Rain, Wait at intersection, trucks, car... [18-09-18 19:32:20]   20s, boston-seaport, #anns:372
+scene-0815, Rain, wait at intersection, truck, turn... [18-09-18 19:33:00]   19s, boston-seaport, #anns:963
+scene-0816, Rain, cones, cars, barrier, trailers, t... [18-09-18 19:33:40]   20s, boston-seaport, #anns:1621
+scene-0817, Trailer, parking lots, cones, bridge, t... [18-09-18 19:34:20]   20s, boston-seaport, #anns:1016
+scene-0819, Rain, trucks, parking lot, wait at inte... [18-09-18 19:37:46]   20s, boston-seaport, #anns:918
+scene-0820, Rain, Cross intersection, cross interse... [18-09-18 19:38:06]   20s, boston-seaport, #anns:1271
+scene-0821, Parking lot, parked trucks, trailers, c... [18-09-18 19:38:26]   20s, boston-seaport, #anns:1937
+scene-0822, Rain, parked cars, peds on sidewalk, co... [18-09-18 19:38:46]   20s, boston-seaport, #anns:1478
+scene-0975, Wait at intersection, many peds, bus, cars [18-09-25 03:13:43]   20s, singapore-onenorth, #anns:702
+scene-0976, Wait at intersection, many peds, cars, ... [18-09-25 03:14:03]   20s, singapore-onenorth, #anns:630
+scene-0977, Wait at intersection, many peds, ped pu... [18-09-25 03:14:43]   20s, singapore-onenorth, #anns:786
+scene-0978, Wait at intersection, cars, motorcycle,... [18-09-25 03:15:03]   20s, singapore-onenorth, #anns:543
+scene-0979, Many peds, motorcycle, cars, cross inte... [18-09-25 03:15:23]   20s, singapore-onenorth, #anns:1001
+scene-0980, Construction, many peds, lane blocked, ... [18-09-25 03:15:52]   20s, singapore-onenorth, #anns:2213
+scene-0981, Construction workers, cones, many barri... [18-09-25 03:16:12]   20s, singapore-onenorth, #anns:2600
+scene-0982, Truck, barrier, many peds, cones, cars,... [18-09-25 03:16:32]   20s, singapore-onenorth, #anns:2967
+scene-0983, Construction vehicle, cones, peds cross... [18-09-25 03:16:52]   20s, singapore-onenorth, #anns:2240
+scene-0984, Parked bicycles, many peds, jaywalker, ... [18-09-25 03:17:12]   20s, singapore-onenorth, #anns:1023
+scene-0988, Parking lot, turn right, cross intersec... [18-09-25 03:18:32]   20s, singapore-onenorth, #anns:1900
+scene-0989, Many peds, cross intersection, ped cros... [18-09-25 03:18:52]   20s, singapore-onenorth, #anns:803
+scene-0990, Parked bicycles, peds on sidewalk, park... [18-09-25 03:19:12]   20s, singapore-onenorth, #anns:1262
+scene-0991, Parking lot, cones, ped on sidewalk [18-09-25 03:20:12]   20s, singapore-onenorth, #anns:1876
+scene-0962, Bus, many peds, changing lane, parked v... [18-09-25 05:19:15]   20s, singapore-onenorth, #anns:559
+scene-0963, Motorcycle, wait at intersection, cones... [18-09-25 05:19:35]   19s, singapore-onenorth, #anns:1712
+scene-0966, Many peds, construction, peds unloading... [18-09-25 05:20:59]   20s, singapore-onenorth, #anns:1985
+scene-0967, Peds on sidewalk, parked cars, parked m... [18-09-25 05:21:39]   20s, singapore-onenorth, #anns:734
+scene-0968, Wait at intersection, peds on sidewalk,... [18-09-25 05:22:34]   20s, singapore-onenorth, #anns:1537
+scene-0969, Cones, cars, many peds, changing lane, ... [18-09-25 05:22:54]   20s, singapore-onenorth, #anns:1910
+scene-0971, Cross T junction, peds, parked motorcyc... [18-09-25 05:23:34]   19s, singapore-onenorth, #anns:1544
+scene-0972, Parked bicycles, peds, ped walk along t... [18-09-25 05:23:54]   20s, singapore-onenorth, #anns:1119
+scene-0945, Enter road, turn left, workers, constru... [18-09-26 03:17:45]   20s, singapore-onenorth, #anns:3010
+scene-0947, Many peds, jaywalker, parked motorcycle... [18-09-26 03:18:25]   20s, singapore-onenorth, #anns:1126
+scene-0949, Parking lot, barriers, people at parkin... [18-09-26 03:20:10]   20s, singapore-onenorth, #anns:1821
+scene-0952, Parked vehicles, construction worker, p... [18-09-26 03:21:59]   20s, singapore-onenorth, #anns:584
+scene-0953, Peds in sidewalk, parked vehicles, jayw... [18-09-26 03:22:39]   20s, singapore-onenorth, #anns:473
+scene-0955, Parked scooter, peds, parked bicycles, ... [18-09-26 03:23:19]   20s, singapore-onenorth, #anns:657
+scene-0956, Many peds, stopped car, peds crossing c... [18-09-26 03:23:39]   20s, singapore-onenorth, #anns:1164
+scene-0957, Waiting at red light, peds, motorcycle [18-09-26 03:23:59]   20s, singapore-onenorth, #anns:787
+scene-0958, Motorcycle, peds, ped crossing crosswal... [18-09-26 03:24:19]   20s, singapore-onenorth, #anns:849
+scene-0959, Parked vehicles, person lifting box, pe... [18-09-26 03:24:39]   20s, singapore-onenorth, #anns:682
+scene-0960, Parked motorcycle, motorcyclist, parked... [18-09-26 03:24:59]   20s, singapore-onenorth, #anns:428
+scene-0961, Construction workers, barriers, constru... [18-09-26 03:25:19]   20s, singapore-onenorth, #anns:829
+scene-0399, Wait at highway-like intersection, many... [18-09-27 07:33:41]   20s, singapore-hollandv, #anns:1471
+scene-0400, Wait at highway-like intersection, many... [18-09-27 07:34:01]   19s, singapore-hollandv, #anns:860
+scene-0401, Turn right, residential area, construct... [18-09-27 07:34:32]   20s, singapore-hollandv, #anns:993
+scene-0402, Residential area, many cars on the oppo... [18-09-27 07:34:52]   20s, singapore-hollandv, #anns:1281
+scene-0403, Residential area, parked bike, rubbish ... [18-09-27 07:35:12]   20s, singapore-hollandv, #anns:516
+scene-0405, Residential area, turn right, cross int... [18-09-27 07:35:52]   20s, singapore-hollandv, #anns:505
+scene-0406, Residential area, many trash cans, jayw... [18-09-27 07:36:12]   20s, singapore-hollandv, #anns:829
+scene-0407, Residential area, taxi turn right, rubb... [18-09-27 07:36:32]   20s, singapore-hollandv, #anns:665
+scene-0408, Residential area, narrow road, overtake... [18-09-27 07:36:52]   20s, singapore-hollandv, #anns:401
+scene-0410, Residential area, bicycle, bump [18-09-27 07:37:32]   20s, singapore-hollandv, #anns:887
+scene-0411, Residential area, parked bike, rubbish bins [18-09-27 07:37:52]   20s, singapore-hollandv, #anns:1266
+scene-0412, Residential area, rubbish bins, ped hol... [18-09-27 07:38:12]   20s, singapore-hollandv, #anns:726
+scene-0413, Nature, trash cans, narrow road, bump, ... [18-09-27 07:38:32]   20s, singapore-hollandv, #anns:608
+scene-0414, Residential area, turn right, parked bi... [18-09-27 07:38:52]   20s, singapore-hollandv, #anns:552
+scene-0415, Residential area, movable trash cans, n... [18-09-27 07:39:12]   19s, singapore-hollandv, #anns:235
+scene-0416, Nature, garbage bins, driving uphill on... [18-09-27 07:39:32]   20s, singapore-hollandv, #anns:430
+scene-0417, Nature, overtake parked van, rubbish bins [18-09-27 07:39:52]   20s, singapore-hollandv, #anns:262
+scene-0418, Nature, construction worker [18-09-27 07:40:12]   20s, singapore-hollandv, #anns:582
+scene-0419, Residential area, trash cans, stroller,... [18-09-27 07:40:43]   20s, singapore-hollandv, #anns:744
+scene-0794, Wait at intersection, many vehicles, mo... [18-10-02 02:51:44]   20s, singapore-queensto, #anns:1427
+scene-0795, Motorcycle, cars, trucks, bus, cross in... [18-10-02 02:52:04]   20s, singapore-queensto, #anns:1425
+scene-0796, Scooter, peds on sidewalk, bus, cars, t... [18-10-02 02:52:24]   20s, singapore-queensto, #anns:708
+scene-0797, Cars, bus passing by, car overtaking us... [18-10-02 02:52:44]   20s, singapore-queensto, #anns:353
+scene-0798, Start at intersection, dense traffic, s... [18-10-02 02:53:24]   20s, singapore-queensto, #anns:676
+scene-0799, Cars, cross intersection, motorcycle ov... [18-10-02 02:53:44]   20s, singapore-queensto, #anns:625
+scene-0800, Peds on sidewalk, cones, bus, cross int... [18-10-02 02:54:04]   20s, singapore-queensto, #anns:529
+scene-0802, Cones, cross intersection, peds on side... [18-10-02 02:54:44]   20s, singapore-queensto, #anns:691
+scene-0786, Wait at intersection, construction work... [18-10-02 02:59:18]   19s, singapore-queensto, #anns:755
+scene-0787, Parked bicycles, bus stop, peds at bus ... [18-10-02 02:59:38]   19s, singapore-queensto, #anns:402
+scene-0789, Wait at intersection, ped crossing cros... [18-10-02 03:00:18]   20s, singapore-queensto, #anns:647
+scene-0790, Start from intersection, peds siiting, ... [18-10-02 03:00:38]   20s, singapore-queensto, #anns:743
+scene-0791, Peds on sidewalk, children, cross inter... [18-10-02 03:00:58]   20s, singapore-queensto, #anns:458
+scene-0792, Ped on sidewalk, peds, parked bicycle, ... [18-10-02 03:01:18]   19s, singapore-queensto, #anns:743
+scene-0916, Parking lot, bicycle rack, parked bicyc... [18-10-08 07:37:13]   20s, singapore-queensto, #anns:2387
+scene-0917, Peds, jaywalkers, nature, parking lot, ... [18-10-08 07:38:13]   20s, singapore-queensto, #anns:776
+scene-0919, Greeneries, parking lot, parked car, pe... [18-10-08 07:40:33]   20s, singapore-queensto, #anns:94
+scene-0920, Motorcycle, parked cars, peds, truck [18-10-08 07:40:53]   20s, singapore-queensto, #anns:365
+scene-0921, Bus, peds, truck, turn left [18-10-08 07:41:28]   20s, singapore-queensto, #anns:324
+scene-0922, Buses, peds [18-10-08 07:42:40]   20s, singapore-queensto, #anns:392
+scene-0923, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:45:04]   19s, singapore-queensto, #anns:443
+scene-0924, Cleaner cleaning street, nature, parked... [18-10-08 07:47:09]   20s, singapore-queensto, #anns:530
+scene-0925, Wait, peds crossing crosswalk, bus [18-10-08 07:48:29]   20s, singapore-queensto, #anns:490
+scene-0926, Intersection, turn right, ped on the si... [18-10-08 07:49:09]   20s, singapore-queensto, #anns:481
+scene-0927, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:49:29]   20s, singapore-queensto, #anns:793
+scene-0928, Peds on sidewalk, parked cars, intersec... [18-10-08 07:49:49]   19s, singapore-queensto, #anns:1456
+scene-0929, Ped, car, turn right, peds on sidewalk,... [18-10-08 07:50:09]   19s, singapore-queensto, #anns:320
+scene-0930, Intersection, ped on sidewalk, motorcyc... [18-10-08 07:50:29]   20s, singapore-queensto, #anns:603
+scene-0931, Turn right, parked scooters, nature, pa... [18-10-08 07:50:49]   20s, singapore-queensto, #anns:1368
+scene-0420, Exit parking lot, turn left, peds, park... [18-10-08 07:52:30]   20s, singapore-queensto, #anns:1628
+scene-0421, Gate, peds at sidewalk, following by a ... [18-10-08 07:52:50]   20s, singapore-queensto, #anns:463
+scene-0422, Buses, overtake stopped car, peds, arri... [18-10-08 07:53:10]   19s, singapore-queensto, #anns:595
+scene-0423, Many peds, peds walking in street, turn... [18-10-08 07:53:30]   20s, singapore-queensto, #anns:1616
+scene-0424, Bump, peds, bus, turn left [18-10-08 07:53:50]   20s, singapore-queensto, #anns:859
+scene-0425, Turn left, scooter, turn left, bus with... [18-10-08 07:54:10]   20s, singapore-queensto, #anns:526
+scene-0426, Bus, unloading van, peds, parking lot, ... [18-10-08 07:54:30]   20s, singapore-queensto, #anns:751
+scene-0427, Parking lot, many peds, bump, buses, co... [18-10-08 07:54:50]   20s, singapore-queensto, #anns:1262
+scene-0428, Avoid congestion, drive uphill, barrier... [18-10-08 07:57:00]   20s, singapore-queensto, #anns:722
+scene-0429, Half-open parking garage, parked scoote... [18-10-08 07:57:20]   20s, singapore-queensto, #anns:952
+scene-0430, Nature, garbage [18-10-08 07:57:40]   20s, singapore-queensto, #anns:243
+scene-0431, Nature, low traffic, ped, parked scoote... [18-10-08 07:58:00]   20s, singapore-queensto, #anns:413
+scene-0432, Nature, parking bay, bus stop, many ped... [18-10-08 07:58:20]   19s, singapore-queensto, #anns:666
+scene-0433, Unusual buildings, ped, slope, low traffic [18-10-08 07:58:40]   20s, singapore-queensto, #anns:81
+scene-0434, Unusual buildings, crosswalk, bump, low... [18-10-08 07:59:00]   20s, singapore-queensto, #anns:59
+scene-0435, Unusual buildings, slope, turn right, p... [18-10-08 07:59:20]   20s, singapore-queensto, #anns:390
+scene-0436, Turn left, scooter, arrive at intersection [18-10-08 07:59:49]   20s, singapore-queensto, #anns:642
+scene-0437, Low traffic, cross intersection, crossw... [18-10-08 08:01:19]   19s, singapore-queensto, #anns:147
+scene-0438, Peds, bus stop, barriers [18-10-08 08:01:39]   20s, singapore-queensto, #anns:287
+scene-0439, Parking lot, peds, parked bicycle [18-10-08 08:01:59]   20s, singapore-queensto, #anns:671
+scene-0847, Bicycle rack, motorcycle, bus stops, lo... [18-10-08 08:03:29]   20s, singapore-queensto, #anns:94
+scene-0848, Parked bicycle, jaywalker, bus, peds on... [18-10-08 08:03:49]   20s, singapore-queensto, #anns:670
+scene-0849, Cars, cross intersection, peds on sidew... [18-10-08 08:04:09]   20s, singapore-queensto, #anns:451
+scene-0850, Car overtaking us, peds on sidewalk, cones [18-10-08 08:04:29]   20s, singapore-queensto, #anns:326
+scene-0851, Cones, cross intersection, construction... [18-10-08 08:04:49]   20s, singapore-queensto, #anns:1017
+scene-0852, Many peds, jaywalkers, cars, parked mot... [18-10-08 08:05:09]   20s, singapore-queensto, #anns:839
+scene-0853, Turn left, cars [18-10-08 08:05:29]   20s, singapore-queensto, #anns:830
+scene-0854, Lane change, dense traffic, buses, cars... [18-10-08 08:05:49]   20s, singapore-queensto, #anns:668
+scene-0855, Ped on sidewalk, turn right, truck, car... [18-10-08 08:06:09]   20s, singapore-queensto, #anns:689
+scene-0856, Parked buses, parked bicycles, many ped... [18-10-08 08:07:17]   20s, singapore-queensto, #anns:445
+scene-0858, Bus, cars, motorcycles, turn left, peds... [18-10-08 08:08:37]   20s, singapore-queensto, #anns:963
+scene-0860, Parking lot, peds on sidewalk, jaywalke... [18-10-08 08:09:17]   20s, singapore-queensto, #anns:637
+scene-0861, Wait at intersection, nature, scooters,... [18-10-08 08:09:37]   20s, singapore-queensto, #anns:826
+scene-0862, Motorcycles, parked bicycle, cross inte... [18-10-08 08:09:57]   19s, singapore-queensto, #anns:773
+scene-0863, Turn right, motorcycle, cross intersect... [18-10-08 08:10:17]   20s, singapore-queensto, #anns:574
+scene-0864, Car passing by, parking lot, cones, bus... [18-10-08 08:10:37]   20s, singapore-queensto, #anns:812
+scene-0865, Many peds, parking lot, parked bicycle,... [18-10-08 08:10:57]   20s, singapore-queensto, #anns:999
+scene-0866, Cross intersection, parking lot, peds o... [18-10-08 08:11:37]   20s, singapore-queensto, #anns:815
+scene-0992, Night, ped in dark, parked cars [18-11-14 10:58:01]   20s, singapore-queensto, #anns:306
+scene-0994, Night, bump, ped in dark, low traffic, ... [18-11-14 10:59:21]   20s, singapore-queensto, #anns:141
+scene-0995, Night, ped, bus, slope, flyover [18-11-14 10:59:41]   19s, singapore-queensto, #anns:199
+scene-0996, Night, gate, bus, bus stop, cyclist, peds [18-11-14 11:00:01]   20s, singapore-queensto, #anns:499
+scene-0997, Night, bridge, oncoming cars, scooter, ... [18-11-14 11:00:41]   20s, singapore-queensto, #anns:254
+scene-0998, Night, roundabout, bus, ped crossing cr... [18-11-14 11:01:01]   20s, singapore-queensto, #anns:610
+scene-0999, Night, ped, slope, distant cars, view down [18-11-14 11:01:21]   20s, singapore-queensto, #anns:639
+scene-1000, Night, turn right, peds, lights [18-11-14 11:01:41]   20s, singapore-queensto, #anns:482
+scene-1001, Night, bump, bus, peds, lights [18-11-14 11:02:21]   20s, singapore-queensto, #anns:541
+scene-1002, Night, lane change, bump, turn left, pe... [18-11-14 11:03:01]   20s, singapore-queensto, #anns:486
+scene-1003, Night, ped running, peds, bus [18-11-14 11:03:41]   20s, singapore-queensto, #anns:563
+scene-1004, Night, many peds, parking lots [18-11-14 11:04:21]   20s, singapore-queensto, #anns:1564
+scene-1005, Night, bus, peds, crosswalk, parking lot [18-11-14 11:04:41]   20s, singapore-queensto, #anns:655
+scene-1006, Night, bus, peds, parked cars, sitting ped [18-11-14 11:05:01]   20s, singapore-queensto, #anns:824
+scene-1007, Night, truck, turn left [18-11-14 11:05:21]   19s, singapore-queensto, #anns:312
+scene-1008, Night, peds in dark, lights, scooters, ... [18-11-14 11:06:01]   19s, singapore-queensto, #anns:445
+scene-1009, Night, peds on sidewalk, slope, motorcy... [18-11-14 11:06:21]   20s, singapore-queensto, #anns:548
+scene-1010, Night, bus, peds wearing dark clothes, ... [18-11-14 11:06:41]   20s, singapore-queensto, #anns:210
+scene-1011, Night, bus, parked cars, peds [18-11-14 11:09:52]   20s, singapore-queensto, #anns:389
+scene-1012, Night, peds, cars [18-11-14 11:10:12]   20s, singapore-queensto, #anns:299
+scene-1013, Night, cars, bus [18-11-14 11:10:32]   20s, singapore-queensto, #anns:203
+scene-1014, Night, bump, cars, turn right, bus, ped... [18-11-14 11:10:52]   20s, singapore-queensto, #anns:548
+scene-1015, Night, peds, bus stop, turn left, low t... [18-11-14 11:11:12]   19s, singapore-queensto, #anns:301
+scene-1016, Night, peds, bus stop, bump, ped crossi... [18-11-14 11:13:55]   19s, singapore-queensto, #anns:1148
+scene-1017, Night, ped, cars, bump, scooter, congestion [18-11-14 11:14:15]   19s, singapore-queensto, #anns:1132
+scene-1018, Night, turn right, cars, bus, bus stop,... [18-11-14 11:14:35]   20s, singapore-queensto, #anns:598
+scene-1019, Night, scooter, light, peds crossing cr... [18-11-14 11:15:00]   20s, singapore-queensto, #anns:1763
+scene-1020, Night, peds, bus, bus stop [18-11-14 11:15:20]   19s, singapore-queensto, #anns:372
+scene-1021, Night, peds in dark, arrive at intersec... [18-11-14 11:15:40]   20s, singapore-queensto, #anns:285
+scene-1022, Night, bus, bump, scooter, peds, very d... [18-11-14 11:16:00]   20s, singapore-queensto, #anns:548
+scene-1023, Night, bus, wait [18-11-14 11:16:20]   20s, singapore-queensto, #anns:470
+scene-1024, Night, peds, bus [18-11-14 11:16:40]   20s, singapore-queensto, #anns:510
+scene-1025, Night, peds, parked cars, cyclist [18-11-14 11:19:22]   20s, singapore-queensto, #anns:495
+scene-1044, Night, motorcycles, dense traffic, cong... [18-11-21 11:11:31]   20s, singapore-hollandv, #anns:973
+scene-1045, Night, wait at intersection, dense traf... [18-11-21 11:11:51]   20s, singapore-hollandv, #anns:863
+scene-1046, Night, wait at intersection, dense traf... [18-11-21 11:12:11]   20s, singapore-hollandv, #anns:1001
+scene-1047, Night, dense traffic, congestion, motor... [18-11-21 11:12:51]   20s, singapore-hollandv, #anns:970
+scene-1048, Night, dense traffic, congestion, motor... [18-11-21 11:13:11]   20s, singapore-hollandv, #anns:1073
+scene-1049, Night, bump, motorcycle, bus, high spee... [18-11-21 11:13:31]   20s, singapore-hollandv, #anns:1140
+scene-1050, Night, many trash cans, followed by sco... [18-11-21 11:13:51]   19s, singapore-hollandv, #anns:808
+scene-1051, Night, bus, motorcycle, bus stop [18-11-21 11:14:11]   20s, singapore-hollandv, #anns:292
+scene-1052, Night, bump, parked car, trash bin [18-11-21 11:15:31]   20s, singapore-hollandv, #anns:1082
+scene-1053, Night, rain, bump, peds, congestion, pa... [18-11-21 11:15:51]   20s, singapore-hollandv, #anns:888
+scene-1054, Night, turn left, bumps, lightning [18-11-21 11:16:31]   19s, singapore-hollandv, #anns:439
+scene-1055, Night, bump, dark, ped in dark [18-11-21 11:17:11]   20s, singapore-hollandv, #anns:674
+scene-1056, Night, construction, trash bins, bump, ... [18-11-21 11:17:31]   20s, singapore-hollandv, #anns:742
+scene-1057, Night, trash cans, dark, nature, slope,... [18-11-21 11:18:51]   20s, singapore-hollandv, #anns:211
+scene-1058, Night, nature, car, turn, peds in sidew... [18-11-21 11:19:11]   20s, singapore-hollandv, #anns:266
+scene-1059, Night, residential, car turning [18-11-21 11:22:02]   20s, singapore-hollandv, #anns:723
+scene-1060, Night, rain, turn, ped in dark [18-11-21 11:22:22]   20s, singapore-hollandv, #anns:166
+scene-1061, Night, turn, trash can, residential [18-11-21 11:23:22]   20s, singapore-hollandv, #anns:199
+scene-1062, Night, difficult lighting, parked bicyc... [18-11-21 11:23:42]   20s, singapore-hollandv, #anns:612
+scene-1063, Night, bump, ped, difficult lighting, t... [18-11-21 11:24:42]   20s, singapore-hollandv, #anns:229
+scene-1064, Night, trash cans, wait for scooter, tu... [18-11-21 11:25:22]   20s, singapore-hollandv, #anns:473
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186
+scene-1066, Night, bump, scooter, difficult lighting [18-11-21 11:26:02]   20s, singapore-hollandv, #anns:347
+scene-1067, Night, rain, bump, ped in dark, arrive ... [18-11-21 11:26:22]   20s, singapore-hollandv, #anns:381
+scene-1068, Night, wait at intersection, motorcycle... [18-11-21 11:26:42]   20s, singapore-hollandv, #anns:329
+scene-1069, Night, truck, congestion, parked bicycle [18-11-21 11:27:02]   20s, singapore-hollandv, #anns:621
+scene-1070, Night, congestion, peds, motorcycle [18-11-21 11:27:22]   20s, singapore-hollandv, #anns:333
+scene-1071, Night, scooters, peds, parked bicycle, ... [18-11-21 11:27:42]   20s, singapore-hollandv, #anns:319
+scene-1072, Night, bus stop, scooter, trash can pus... [18-11-21 11:28:22]   19s, singapore-hollandv, #anns:1058
+scene-1073, Night, scooters, turn left, dense traffic [18-11-21 11:29:02]   19s, singapore-hollandv, #anns:622
+scene-1074, Night, rain, high speed, bus stop, bus,... [18-11-21 11:38:27]   19s, singapore-hollandv, #anns:191
+scene-1075, Night, bus, parked cars, bus stop, peds... [18-11-21 11:38:47]   20s, singapore-hollandv, #anns:1075
+scene-1076, Night, trash cans, scooter, ped, turn left [18-11-21 11:39:07]   20s, singapore-hollandv, #anns:946
+scene-1077, Night, big street, bus stop, high speed... [18-11-21 11:39:27]   20s, singapore-hollandv, #anns:890
+scene-1078, Night, big street, high speed, scooters... [18-11-21 11:39:47]   20s, singapore-hollandv, #anns:420
+scene-1079, Night, big street, high speed, arrive a... [18-11-21 11:40:07]   19s, singapore-hollandv, #anns:378
+scene-1080, Night, big street, dense traffic, scooters [18-11-21 11:40:27]   20s, singapore-hollandv, #anns:759
+scene-1081, Night, rain, big street, congestion, ca... [18-11-21 11:40:47]   20s, singapore-hollandv, #anns:630
+scene-1082, Night, big street, wait at intersection [18-11-21 11:41:07]   19s, singapore-hollandv, #anns:694
+scene-1083, Night, big street, bus, scooter, turn right [18-11-21 11:41:47]   20s, singapore-hollandv, #anns:897
+scene-1084, Night, scooter, peds, bus stop, parked ... [18-11-21 11:42:07]   20s, singapore-hollandv, #anns:1443
+scene-1085, Night, many peds, parked bicycles, turn... [18-11-21 11:42:27]   20s, singapore-hollandv, #anns:1526
+scene-1086, Night, bumps, parked car, peds, trash cans [18-11-21 11:42:48]   20s, singapore-hollandv, #anns:870
+scene-1087, Night, residential area, low traffic, t... [18-11-21 11:43:27]   20s, singapore-hollandv, #anns:678
+scene-1088, Night, peds, trash cans, ped walking do... [18-11-21 11:43:48]   20s, singapore-hollandv, #anns:1117
+scene-1089, Night, turn left, bump, trash cans, tur... [18-11-21 11:44:28]   20s, singapore-hollandv, #anns:673
+scene-1090, Night, trash cans, parked car, ped in d... [18-11-21 11:44:47]   20s, singapore-hollandv, #anns:1367
+scene-1091, Night, parked cars, peds, turn right, d... [18-11-21 11:45:27]   20s, singapore-hollandv, #anns:919
+scene-1092, Night, many peds, many trash cans, ped ... [18-11-21 11:46:27]   20s, singapore-hollandv, #anns:1063
+scene-1093, Night, wait at intersection, peds cross... [18-11-21 11:47:07]   20s, singapore-hollandv, #anns:2106
+scene-1094, Night, after rain, many peds, PMD, ped ... [18-11-21 11:47:27]   19s, singapore-hollandv, #anns:1762
+scene-1095, Night, rain, lane change, cross interse... [18-11-21 11:47:47]   20s, singapore-hollandv, #anns:611
+scene-1096, Night, wait at intersection, peds cross... [18-11-21 11:48:27]   20s, singapore-hollandv, #anns:929
+scene-1097, Night, scooter, start at intersection, ... [18-11-21 11:48:47]   20s, singapore-hollandv, #anns:753
+scene-1098, Night, peds, scooter, bus, waiting at i... [18-11-21 11:49:07]   20s, singapore-hollandv, #anns:977
+scene-1099, Night, wait at busy intersection, peds,... [18-11-21 11:49:27]   19s, singapore-hollandv, #anns:1110
+scene-1100, Night, peds in sidewalk, peds cross cro... [18-11-21 11:49:47]   19s, singapore-hollandv, #anns:935
+scene-1101, Night, buses, peds, rain, right turn [18-11-21 11:50:07]   20s, singapore-hollandv, #anns:561
+scene-1102, Night, rain, scooter, cars, high speed,... [18-11-21 11:54:07]   20s, singapore-hollandv, #anns:369
+scene-1104, Night, truck, rain, cross intersection [18-11-21 11:54:47]   20s, singapore-hollandv, #anns:765
+scene-1105, Night, ped, avoid parked car, parked cars [18-11-21 11:55:27]   20s, singapore-hollandv, #anns:435
+scene-1106, Night, rain, high speed, scooter, bus s... [18-11-21 11:59:33]   19s, singapore-hollandv, #anns:186
+scene-1107, Night, rain, high speed, scooter, dense... [18-11-21 11:59:53]   20s, singapore-hollandv, #anns:489
+scene-1108, Night, wet front camera, rain, bus, wai... [18-11-21 12:00:54]   19s, singapore-hollandv, #anns:656
+scene-1109, Night, rain, bus, lightning [18-11-21 12:01:34]   19s, singapore-hollandv, #anns:525
+scene-1110, Night, rain, bus, turn right, peds, bus... [18-11-21 12:01:53]   20s, singapore-hollandv, #anns:1165
+None
+scene-0161, Car overtaking, parking lot, peds, ped ... [18-05-21 15:07:23]   19s, boston-seaport, #anns:1970
+scene-0162, Leaving parking lot, parked cars, hidde... [18-05-21 15:07:43]   19s, boston-seaport, #anns:2230
+scene-0163, Drive along street with dozens of parke... [18-05-21 15:08:03]   19s, boston-seaport, #anns:1585
+scene-0164, Turn into narrow street, parked cars, p... [18-05-21 15:08:38]   19s, boston-seaport, #anns:745
+scene-0165, Pass crane, truck and construction work... [18-05-21 15:09:15]   19s, boston-seaport, #anns:1423
+scene-0166, Leaving narrow street, many cars [18-05-21 15:09:35]   19s, boston-seaport, #anns:1313
+scene-0167, Pass parked trucks, sitting pedestrians... [18-05-21 15:10:13]   19s, boston-seaport, #anns:1455
+scene-0168, Parking lot, peds, parked cars, parked ... [18-05-21 15:10:52]   19s, boston-seaport, #anns:1751
+scene-0170, Turn left, truck parked in the middle o... [18-05-21 15:13:37]   19s, boston-seaport, #anns:1430
+scene-0171, Densely parked trucks [18-05-21 15:13:57]   19s, boston-seaport, #anns:1149
+scene-0172, Bus indicates turn but does not go, ove... [18-05-21 15:14:17]   19s, boston-seaport, #anns:643
+scene-0173, Drive along road barriers [18-05-21 15:14:37]   19s, boston-seaport, #anns:2247
+scene-0174, Reflections, parked cars, trucks [18-05-21 15:14:57]   19s, boston-seaport, #anns:1714
+scene-0175, Truck, parked vehicles, bicycle, specia... [18-05-21 15:15:19]   19s, boston-seaport, #anns:1914
+scene-0176, Parked cars, extra-long bendy bus, bann... [18-05-21 15:16:17]   19s, boston-seaport, #anns:634
+scene-0268, Construction zone, stopped at red light... [18-07-11 03:57:19]   19s, singapore-onenorth, #anns:725
+scene-0269, Parked bicycles, peds sitting outside t... [18-07-11 03:58:12]   19s, singapore-onenorth, #anns:1156
+scene-0270, Peds, pedestrian walk on the roadside, ... [18-07-11 03:59:06]   19s, singapore-onenorth, #anns:1480
+scene-0271, Overtake parked car, parked bicycle [18-07-11 04:00:13]   19s, singapore-onenorth, #anns:344
+scene-0272, Stopped for oncoming car, motorcycle [18-07-11 04:00:33]   19s, singapore-onenorth, #anns:383
+scene-0273, Barriers, peds loading car trunk, lugga... [18-07-11 04:01:18]   19s, singapore-onenorth, #anns:897
+scene-0274, Peds, construction zone, construction w... [18-07-11 04:03:55]   19s, singapore-onenorth, #anns:2836
+scene-0275, Peds, bus, barriers, stopped at interse... [18-07-11 04:04:15]   19s, singapore-onenorth, #anns:2069
+scene-0276, Intersection, peds, cars, scooter, park... [18-07-11 04:05:06]   19s, singapore-onenorth, #anns:3253
+scene-0277, Jaywalker, peds, parked bike [18-07-11 04:05:29]   19s, singapore-onenorth, #anns:1652
+scene-0278, Motorcycle suddenly rushes out, truck, peds [18-07-11 04:06:01]   20s, singapore-onenorth, #anns:1135
+scene-0221, Pedestrian crossing, stopped vehicle [18-07-16 03:56:09]   19s, singapore-onenorth, #anns:501
+scene-0001, Construction, maneuver between several ... [18-07-18 03:12:10]   19s, singapore-onenorth, #anns:492
+scene-0002, Intersection, peds, waiting vehicle, pa... [18-07-18 03:15:19]   20s, singapore-onenorth, #anns:1238
+scene-0004, Random scene, arrive at intersection, c... [18-07-18 03:19:45]   19s, singapore-onenorth, #anns:3526
+scene-0005, Overtaken by taxi, construction site [18-07-18 03:21:44]   19s, singapore-onenorth, #anns:1078
+scene-0006, Sitting construction worker, parked bic... [18-07-18 03:22:36]   19s, singapore-onenorth, #anns:2027
+scene-0007, Van overtaking us, peds, jaywalker, bic... [18-07-18 03:24:18]   19s, singapore-onenorth, #anns:860
+scene-0008, Several moving pedestrians, parked card... [18-07-18 03:24:37]   19s, singapore-onenorth, #anns:609
+scene-0009, Peds crossing, parked cars, garbage, pe... [18-07-18 03:24:57]   19s, singapore-onenorth, #anns:332
+scene-0010, Parked motorcycle, person pickung up ga... [18-07-18 03:26:31]   19s, singapore-onenorth, #anns:380
+scene-0011, Turn left, pass trucks on both sides, c... [18-07-18 03:28:45]   20s, singapore-onenorth, #anns:765
+scene-0012, Nature, bus stop, parked cars, bus exit... [18-07-18 03:42:00]   19s, singapore-onenorth, #anns:96
+scene-0013, Follow bus, parked cars, trash cans, pa... [18-07-18 03:42:20]   19s, singapore-onenorth, #anns:456
+scene-0014, Follow bus, cross intersection, nature [18-07-18 03:43:17]   19s, singapore-onenorth, #anns:109
+scene-0015, Narrow road, following bus, bus on oppo... [18-07-18 03:43:37]   19s, singapore-onenorth, #anns:457
+scene-0016, Turn left, people on both sides, parked... [18-07-18 03:46:53]   19s, singapore-onenorth, #anns:943
+scene-0017, Barriers, peds, arriving at busy inters... [18-07-18 03:49:25]   19s, singapore-onenorth, #anns:2520
+scene-0018, Merge left, turn into unloading zone [18-07-18 03:49:52]   19s, singapore-onenorth, #anns:3301
+scene-0019, Turn left, waiting peds, turn left [18-07-18 03:51:02]   19s, singapore-onenorth, #anns:2490
+scene-0020, Turn right, walking peds, pedestrian in... [18-07-18 03:51:47]   19s, singapore-onenorth, #anns:704
+scene-0021, Wait at intersection, jaywalkers, parki... [18-07-18 03:52:57]   19s, singapore-onenorth, #anns:1982
+scene-0022, Barriers, construction, lane switch, tu... [18-07-18 03:53:18]   19s, singapore-onenorth, #anns:2067
+scene-0023, Overtake parked car, bus turning, motor... [18-07-18 03:53:41]   19s, singapore-onenorth, #anns:552
+scene-0024, Intersection, peds in cafe, parked moto... [18-07-18 03:54:04]   19s, singapore-onenorth, #anns:746
+scene-0025, Ped crossing street in front of ego vehicle [18-07-18 03:54:29]   19s, singapore-onenorth, #anns:894
+scene-0026, Parked cars, peds on the roadside [18-07-18 03:54:49]   19s, singapore-onenorth, #anns:925
+scene-0027, Delivery motorcycle turns left, veh tur... [18-07-18 03:55:18]   19s, singapore-onenorth, #anns:743
+scene-0028, Taxi parked on road, bicycle rack, many... [18-07-18 03:55:38]   19s, singapore-onenorth, #anns:1314
+scene-0029, Waiting, peds crossing intersection [18-07-18 03:55:58]   19s, singapore-onenorth, #anns:1831
+scene-0030, Two parked motorcycles, overtake [18-07-18 03:56:37]   19s, singapore-onenorth, #anns:746
+scene-0031, Construction, workers sitting on grass,... [18-07-18 03:57:02]   19s, singapore-onenorth, #anns:596
+scene-0032, Turn left, motorcycle driving, ped sitting [18-07-18 03:57:22]   19s, singapore-onenorth, #anns:131
+scene-0033, Low traffic, following bus [18-07-18 03:58:42]   19s, singapore-onenorth, #anns:189
+scene-0034, No traffic, dead end street, overtake p... [18-07-18 03:59:42]   19s, singapore-onenorth, #anns:95
+scene-0035, Parking lots, trash can, bump, scooter,... [18-07-24 02:43:03]   19s, singapore-onenorth, #anns:1056
+scene-0036, Parked bicycle, construction, peds, wor... [18-07-24 02:43:46]   19s, singapore-onenorth, #anns:1525
+scene-0038, Parked construction vehicles, peds, garbage [18-07-24 02:45:39]   20s, singapore-onenorth, #anns:434
+scene-0039, Busy street, parked cars, parking lot, ... [18-07-24 02:48:33]   19s, singapore-onenorth, #anns:809
+scene-0041, Turn left, arrive at busy intersection,... [18-07-24 03:04:50]   19s, singapore-onenorth, #anns:709
+scene-0042, Parked cars, many peds, parked bicycles... [18-07-24 03:05:52]   20s, singapore-onenorth, #anns:968
+scene-0043, Busy intersection, oncoming traffic, co... [18-07-24 03:06:49]   19s, singapore-onenorth, #anns:2014
+scene-0044, Truck turns, parked cars, bump, bikes [18-07-24 03:09:19]   19s, singapore-onenorth, #anns:376
+scene-0045, Full parking lot, peds, exiting from ca... [18-07-24 03:13:22]   19s, singapore-onenorth, #anns:1865
+scene-0046, Busy intersection, ped crossing, waitin... [18-07-24 03:14:02]   19s, singapore-onenorth, #anns:1806
+scene-0047, Construction workers close to road, veh... [18-07-24 03:15:33]   19s, singapore-onenorth, #anns:2018
+scene-0048, Construction, narrow road, construction... [18-07-24 03:15:56]   19s, singapore-onenorth, #anns:1067
+scene-0049, Construction, barriers behind net, park... [18-07-24 03:16:16]   19s, singapore-onenorth, #anns:1463
+scene-0050, Narrow street, seveal peds, shadows, tu... [18-07-24 03:17:59]   19s, singapore-onenorth, #anns:535
+scene-0051, Pass parked vehicles, peds, arrive at i... [18-07-24 03:18:26]   19s, singapore-onenorth, #anns:735
+scene-0052, Oncoming car in the same lane, overtake... [18-07-24 03:18:46]   19s, singapore-onenorth, #anns:344
+scene-0053, Cross intersection in group of cars, pe... [18-07-24 03:20:18]   19s, singapore-onenorth, #anns:828
+scene-0054, Turn left, many parked heavy trucks, wo... [18-07-24 03:21:12]   19s, singapore-onenorth, #anns:612
+scene-0055, Bus stop left, parked cars right, oncom... [18-07-24 03:23:03]   19s, singapore-onenorth, #anns:473
+scene-0056, Peds, nature, construction, trash can, ... [18-07-24 03:25:21]   20s, singapore-onenorth, #anns:333
+scene-0057, Jaywalkers, parked bike and scooter, pa... [18-07-24 03:25:41]   19s, singapore-onenorth, #anns:710
+scene-0058, Construction, strange cleaning vehicle ... [18-07-24 03:26:55]   19s, singapore-onenorth, #anns:1522
+scene-0059, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:35]   19s, singapore-onenorth, #anns:421
+scene-0060, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:55]   19s, singapore-onenorth, #anns:274
+scene-0061, Parked truck, construction, intersectio... [18-07-24 03:28:47]   19s, singapore-onenorth, #anns:4622
+scene-0199, Parked cars, ped [18-07-26 16:14:48]   20s, boston-seaport, #anns:564
+scene-0200, Parked cars, parking lot [18-07-26 16:15:48]   19s, boston-seaport, #anns:2485
+scene-0202, Parked cars, jaywalker, peds, parked bi... [18-07-26 16:16:28]   19s, boston-seaport, #anns:1323
+scene-0203, Construction, bus, turn right, crane, p... [18-07-26 16:16:48]   19s, boston-seaport, #anns:1986
+scene-0204, Parked cars, peds in sidewalk, narrow road [18-07-26 16:17:08]   19s, boston-seaport, #anns:2116
+scene-0206, Parked cars, peds, ped with luggage [18-07-26 16:17:38]   19s, boston-seaport, #anns:1682
+scene-0207, Heavy veh, peds, stopped by a truck [18-07-26 16:18:34]   19s, boston-seaport, #anns:952
+scene-0208, Stopped at stop line [18-07-26 16:18:54]   19s, boston-seaport, #anns:1836
+scene-0209, Heavy vehicles, container [18-07-26 16:19:34]   19s, boston-seaport, #anns:997
+scene-0210, Parked vehicles, construction vehicle, ... [18-07-26 16:19:54]   19s, boston-seaport, #anns:1154
+scene-0211, Parked cars, construction area, constru... [18-07-26 16:20:14]   19s, boston-seaport, #anns:1897
+scene-0212, Parked cars, oncoming heavy veh [18-07-26 16:21:01]   19s, boston-seaport, #anns:1781
+scene-0213, Jaywalkers, peds, approaching intersection [18-07-26 16:22:16]   19s, boston-seaport, #anns:1202
+scene-0214, Parked truck, ped, sitting peds, parked... [18-07-26 16:23:51]   19s, boston-seaport, #anns:1632
+scene-0315, Peds, bus stop, oncoming cars, parked l... [18-07-27 03:25:11]   19s, singapore-queensto, #anns:553
+scene-0316, Parked bicycles, ped, cars at opp lane [18-07-27 03:28:03]   19s, singapore-queensto, #anns:397
+scene-0317, Bus drops off passenger, overtake bus, ... [18-07-27 03:29:11]   19s, singapore-queensto, #anns:865
+scene-0318, Buses, overtake bus, peds, motorcycles [18-07-27 03:30:11]   19s, singapore-queensto, #anns:644
+scene-0177, Parking toll gate [18-07-27 03:37:48]   19s, singapore-queensto, #anns:143
+scene-0178, Parking lot, parked motorcycles, turn r... [18-07-27 03:38:19]   19s, singapore-queensto, #anns:824
+scene-0179, Ped walking to the ego car, parked truc... [18-07-27 03:38:48]   19s, singapore-queensto, #anns:629
+scene-0180, Parking lot with lots of parked cars [18-07-27 03:39:08]   19s, singapore-queensto, #anns:1421
+scene-0181, Turn left, toll gate, oncoming bus [18-07-27 03:40:01]   19s, singapore-queensto, #anns:156
+scene-0182, Peds, bus stop, taxi, narrow road, park... [18-07-27 03:40:44]   19s, singapore-queensto, #anns:509
+scene-0183, Parked motorcycle, bike, parking drivew... [18-07-27 03:41:22]   19s, singapore-queensto, #anns:251
+scene-0184, Many trees, narrow road [18-07-27 03:42:28]   20s, singapore-queensto, #anns:75
+scene-0185, Parking bay, peds, ped hesitates to cro... [18-07-27 03:43:30]   19s, singapore-queensto, #anns:230
+scene-0187, Bump, turn right, ped attempting to wal... [18-07-27 03:44:48]   19s, singapore-queensto, #anns:439
+scene-0188, Ego vehicle starts, many peds, parked b... [18-07-27 03:45:41]   16s, singapore-queensto, #anns:809
+scene-0218, Parking lot, walking peds, close-up ped... [18-07-27 16:08:41]   19s, boston-seaport, #anns:1881
+scene-0219, Stopped at t junction, parked cars, cars [18-07-27 16:09:25]   19s, boston-seaport, #anns:1979
+scene-0220, Parking lot, parked bikes in bike rack,... [18-07-27 16:10:11]   20s, boston-seaport, #anns:1930
+scene-0222, Jaywalkers, traffic police, sitting jay... [18-07-27 16:10:56]   19s, boston-seaport, #anns:1903
+scene-0224, Peds crossing crosswalk, arrive at inte... [18-07-27 16:11:57]   19s, boston-seaport, #anns:1200
+scene-0225, Wait at intersection, construction, ped... [18-07-27 16:12:40]   19s, boston-seaport, #anns:1242
+scene-0226, Heavy veh, turning heavy veh [18-07-27 16:13:21]   19s, boston-seaport, #anns:897
+scene-0227, Heavy traffic flow, stopped at red light [18-07-27 16:14:08]   19s, boston-seaport, #anns:1662
+scene-0228, Many parked cars, sign trailer, crane, ... [18-07-27 16:16:06]   19s, boston-seaport, #anns:1044
+scene-0229, Many parked cars, delivery van, peds, b... [18-07-27 16:16:26]   19s, boston-seaport, #anns:1106
+scene-0230, Parked cars, construction zone [18-07-27 16:16:46]   19s, boston-seaport, #anns:2054
+scene-0231, Wait at stop line, peds crossing crossw... [18-07-27 16:17:06]   19s, boston-seaport, #anns:2369
+scene-0232, Wait at stop line, bicycle riding insid... [18-07-27 16:18:37]   19s, boston-seaport, #anns:3469
+scene-0233, A number of pedestrians crossing, pedes... [18-07-27 16:19:36]   19s, boston-seaport, #anns:2517
+scene-0234, Truck, light turns green, peds, parked ... [18-07-27 16:20:29]   19s, boston-seaport, #anns:2604
+scene-0235, Parked cars, stopped behind the truck, ... [18-07-27 16:20:49]   19s, boston-seaport, #anns:2101
+scene-0236, Peds, congestion, parked cars [18-07-27 16:22:16]   20s, boston-seaport, #anns:3352
+scene-0237, Overtake heavy truck, stopped at inters... [18-07-27 16:23:00]   19s, boston-seaport, #anns:1915
+scene-0238, Many peds, ped with pet, stopped bicycl... [18-07-27 16:23:51]   19s, boston-seaport, #anns:2624
+scene-0239, Peds waiting to cross the road, peds cr... [18-07-27 16:24:26]   19s, boston-seaport, #anns:2606
+scene-0240, Peds crossing road, overtake cars, truc... [18-07-27 16:24:46]   19s, boston-seaport, #anns:2338
+scene-0241, Overtake large truck, peds, parked bicycle [18-07-27 16:25:06]   19s, boston-seaport, #anns:2750
+scene-0190, Nature, wait for traffic light [18-08-01 07:11:48]   19s, singapore-onenorth, #anns:262
+scene-0191, Turn left, parking lot [18-08-01 07:14:18]   19s, singapore-onenorth, #anns:286
+scene-0192, Stopped for cars at T-junction, jaywalk... [18-08-01 07:14:45]   20s, singapore-onenorth, #anns:661
+scene-0193, Vegetation, parking lot, turning cars [18-08-01 07:15:07]   19s, singapore-onenorth, #anns:920
+scene-0194, Parked car starts to move, two bicycles... [18-08-01 07:15:48]   19s, singapore-onenorth, #anns:1610
+scene-0195, Narrow road, bus, reduce speed for stop... [18-08-01 07:16:21]   19s, singapore-onenorth, #anns:354
+scene-0196, Nature, cross intersection, bus, bus st... [18-08-01 07:18:25]   19s, singapore-onenorth, #anns:153
+scene-0120, Parked motorcycles, parking lot, wait a... [18-08-01 08:33:08]   20s, singapore-onenorth, #anns:1658
+scene-0121, Peds, follow motorcycle, motorcycle tur... [18-08-01 08:35:31]   19s, singapore-onenorth, #anns:365
+scene-0122, Fast motorcycle on street ahead, stop, ... [18-08-01 08:36:56]   19s, singapore-onenorth, #anns:271
+scene-0123, Monument, truck, peds, turn left, downhill [18-08-01 08:38:18]   20s, singapore-onenorth, #anns:278
+scene-0124, Many peds, parked buses, parked cars [18-08-01 08:38:40]   19s, singapore-onenorth, #anns:1305
+scene-0125, Many parked cars, animal, many peds, wa... [18-08-01 08:39:00]   19s, singapore-onenorth, #anns:708
+scene-0126, Delayed left turn, jaywalker, parking l... [18-08-01 08:39:22]   19s, singapore-onenorth, #anns:541
+scene-0127, Enter car park, jaywalker, parked motor... [18-08-01 08:39:48]   20s, singapore-onenorth, #anns:1594
+scene-0128, Parking lot, parked scooters, parked ca... [18-08-01 08:40:28]   19s, singapore-onenorth, #anns:1095
+scene-0129, Parking lot, cross crosswalk, go over b... [18-08-01 08:40:50]   19s, singapore-onenorth, #anns:1628
+scene-0130, Peds crossing at crosswalk, drive along... [18-08-01 08:42:07]   19s, singapore-onenorth, #anns:1808
+scene-0131, Parking lot, peds [18-08-01 08:42:27]   19s, singapore-onenorth, #anns:1158
+scene-0132, Parked cars, turn left, parked bus [18-08-01 08:42:47]   19s, singapore-onenorth, #anns:1059
+scene-0133, Drive through parking lot, stopped bus,... [18-08-01 08:43:07]   19s, singapore-onenorth, #anns:1551
+scene-0134, Approach intersection, fence, turn left... [18-08-01 08:43:34]   19s, singapore-onenorth, #anns:1097
+scene-0135, Heavy traffic, sitting peds, parked mot... [18-08-01 08:43:54]   19s, singapore-onenorth, #anns:1020
+scene-0138, Bus stop, parked bicycles, bus stop, bi... [18-08-01 08:47:14]   19s, singapore-onenorth, #anns:287
+scene-0139, Ped standing, ped sitting, two parked m... [18-08-01 08:49:39]   19s, singapore-onenorth, #anns:582
+scene-0149, Wait at intersection, turn left, bushes... [18-08-01 09:04:26]   19s, singapore-onenorth, #anns:1219
+scene-0150, Oncoming scooter, scooters, busy inters... [18-08-01 09:05:06]   19s, singapore-onenorth, #anns:1519
+scene-0151, Turn right, busy intersection, construc... [18-08-01 09:05:26]   19s, singapore-onenorth, #anns:2282
+scene-0152, Parked bicycles, bump, overtake parked ... [18-08-01 09:06:15]   19s, singapore-onenorth, #anns:555
+scene-0154, Turn left, peds at restaurant, parked b... [18-08-01 09:09:15]   19s, singapore-onenorth, #anns:583
+scene-0155, Jaywalkers, turn left, stop for ped cro... [18-08-01 09:15:18]   19s, singapore-onenorth, #anns:1034
+scene-0157, Passing scooter, wait at intersection, ... [18-08-01 09:17:04]   19s, singapore-onenorth, #anns:125
+scene-0158, Worker stopped ego car, worker removes ... [18-08-01 09:19:15]   19s, singapore-onenorth, #anns:2346
+scene-0159, Peds crossing crosswalk, barrier being ... [18-08-01 09:19:40]   19s, singapore-onenorth, #anns:2274
+scene-0160, Wait for oncoming car to pass, narrow r... [18-08-01 09:21:27]   19s, singapore-onenorth, #anns:620
+scene-0092, Drive through passage, peds walking alo... [18-08-01 19:17:41]   19s, boston-seaport, #anns:1263
+scene-0093, Turn right, parking lots, cross interse... [18-08-01 19:19:42]   19s, boston-seaport, #anns:1633
+scene-0094, Oncoming cyclist, cars, wait at interse... [18-08-01 19:20:03]   19s, boston-seaport, #anns:718
+scene-0095, Wait at intersection, peds occluded, st... [18-08-01 19:20:49]   19s, boston-seaport, #anns:1026
+scene-0096, Cross busy intersection, cyclist nearby... [18-08-01 19:21:09]   19s, boston-seaport, #anns:1938
+scene-0097, Wait at red light, turns green, cross i... [18-08-01 19:22:25]   19s, boston-seaport, #anns:1693
+scene-0098, Parked cars, peds, bus stop, bicycle ra... [18-08-01 19:22:45]   19s, boston-seaport, #anns:893
+scene-0099, Parked vans, switch lane, construction ... [18-08-01 19:23:37]   19s, boston-seaport, #anns:1824
+scene-0100, Wait at red light, oncoming cyclist, pe... [18-08-01 19:24:31]   19s, boston-seaport, #anns:1744
+scene-0101, Concrete mixer spinning, traffic cones,... [18-08-01 19:25:14]   19s, boston-seaport, #anns:2447
+scene-0102, Turn right at intersection, cross bridg... [18-08-01 19:26:20]   19s, boston-seaport, #anns:1537
+scene-0103, Many peds right, wait for turning car, ... [18-08-01 19:26:43]   19s, boston-seaport, #anns:2046
+scene-0104, Start car, cross intersection, skyscrap... [18-08-01 19:27:49]   19s, boston-seaport, #anns:1760
+scene-0105, Parking lots, peds, parked cars, cars o... [18-08-01 19:28:09]   19s, boston-seaport, #anns:3324
+scene-0106, Drive between buildings under construct... [18-08-01 19:28:29]   19s, boston-seaport, #anns:2964
+scene-0107, Cross busy intersection, bendy bus chan... [18-08-01 19:28:50]   19s, boston-seaport, #anns:1474
+scene-0108, Construction zone, waiting for car to p... [18-08-01 19:30:25]   19s, boston-seaport, #anns:2042
+scene-0109, Cross roundabout, construction vehicle,... [18-08-01 19:30:47]   19s, boston-seaport, #anns:1960
+scene-0110, Parked car with open bonnet, parked car... [18-08-01 19:31:21]   19s, boston-seaport, #anns:1215
+scene-0062, Change lane, parked cars, overhead walkways [18-08-01 19:54:05]   19s, boston-seaport, #anns:561
+scene-0063, Exit passage, parking lot, flag, trucks... [18-08-01 19:54:32]   19s, boston-seaport, #anns:1671
+scene-0064, Parking lots, oncoming special electric... [18-08-01 19:54:52]   19s, boston-seaport, #anns:2360
+scene-0065, Wait at intersection, truck, peds, turn... [18-08-01 19:55:43]   19s, boston-seaport, #anns:1802
+scene-0066, Parking lots, parked truck, constructio... [18-08-01 19:56:43]   19s, boston-seaport, #anns:3003
+scene-0067, Exit construction, ped on crosswalk, co... [18-08-01 19:57:10]   19s, boston-seaport, #anns:2469
+scene-0068, Two turning trucks, wait, turn left [18-08-01 19:57:38]   19s, boston-seaport, #anns:1431
+scene-0069, Turn left, peds near parked bus, bird [18-08-01 19:58:00]   19s, boston-seaport, #anns:1185
+scene-0070, Peds, ped with bag, bus stop, parking l... [18-08-01 19:58:35]   19s, boston-seaport, #anns:1792
+scene-0071, Parked trucks, construction vehicles, r... [18-08-01 19:59:06]   20s, boston-seaport, #anns:908
+scene-0072, Wait at intersection, running ped [18-08-01 20:00:30]   19s, boston-seaport, #anns:1491
+scene-0073, Parked scooter, flock of pigeons, perso... [18-08-01 20:01:10]   19s, boston-seaport, #anns:1112
+scene-0074, Wait at intersection, turn left, bike r... [18-08-01 20:01:35]   19s, boston-seaport, #anns:1908
+scene-0075, Parked cars, oncoming semi, two oncomin... [18-08-01 20:01:58]   19s, boston-seaport, #anns:1305
+scene-0076, Turn right, follow cyclist, turn right [18-08-01 20:02:27]   19s, boston-seaport, #anns:1130
+scene-0003, Parking lot, barrier, exit parking lot [18-08-02 09:17:50]   19s, singapore-onenorth, #anns:1754
+scene-0344, Wait at intersection, construction, bus... [18-08-02 09:19:15]   19s, singapore-onenorth, #anns:2445
+scene-0345, Cross the intersection, construction, s... [18-08-02 09:19:42]   19s, singapore-onenorth, #anns:3276
+scene-0346, Cross intersection, scooter, nature, pe... [18-08-02 09:22:08]   19s, singapore-onenorth, #anns:267
+scene-0347, Avoid parked cars, lane change, stop at... [18-08-02 09:30:01]   19s, singapore-onenorth, #anns:683
+scene-0348, Turn right, bus, peds, narrow street [18-08-02 09:30:54]   19s, singapore-onenorth, #anns:912
+scene-0349, Cones, parked car blocking ego vehicle,... [18-08-02 09:32:38]   19s, singapore-onenorth, #anns:413
+scene-0350, Nature, parked truck, peds, peds with l... [18-08-02 09:32:57]   19s, singapore-onenorth, #anns:560
+scene-0351, Turn left, parked bus, concrete truck, ... [18-08-02 09:33:18]   19s, singapore-onenorth, #anns:1003
+scene-0352, Follow concrete truck, construction, tr... [18-08-02 09:33:38]   19s, singapore-onenorth, #anns:3392
+scene-0353, Start at intersection, cross intersecti... [18-08-02 09:34:30]   19s, singapore-onenorth, #anns:1073
+scene-0354, Start at intersection, truck, bus, cons... [18-08-02 09:35:58]   19s, singapore-onenorth, #anns:1658
+scene-0355, Construction worker, construction, bloc... [18-08-02 09:36:49]   19s, singapore-onenorth, #anns:5028
+scene-0356, Arrive at intersection, construction, d... [18-08-02 09:37:09]   19s, singapore-onenorth, #anns:3719
+scene-0357, Wait at intersection, digger turning, p... [18-08-02 09:37:28]   20s, singapore-onenorth, #anns:4281
+scene-0358, Wait at intersection, construction, hea... [18-08-02 09:37:48]   19s, singapore-onenorth, #anns:4271
+scene-0359, Bus stop, parked bicycle, sparsely popu... [18-08-02 09:39:10]   20s, singapore-onenorth, #anns:1153
+scene-0360, Parking lot, worker cleaning, garbage, ... [18-08-03 07:00:38]   20s, singapore-onenorth, #anns:2003
+scene-0361, Parking lot, turn left, cone [18-08-03 07:00:58]   20s, singapore-onenorth, #anns:1156
+scene-0362, Ped, parking lot, parked scooter, turn left [18-08-03 07:01:18]   20s, singapore-onenorth, #anns:1082
+scene-0382, Turn left, parking lot, peds, parked mo... [18-08-03 07:01:38]   20s, singapore-onenorth, #anns:2469
+scene-0363, Turn right, oncoming scooter, parked trucks [18-08-03 07:02:28]   20s, singapore-onenorth, #anns:426
+scene-0364, Followed by scooter, peds, bus stop, pa... [18-08-03 07:02:48]   20s, singapore-onenorth, #anns:809
+scene-0365, Jaywalker, offloading truck, parked bicycle [18-08-03 07:03:08]   20s, singapore-onenorth, #anns:784
+scene-0366, Weirdly stopped car, turn right at inte... [18-08-03 07:04:16]   19s, singapore-onenorth, #anns:591
+scene-0367, Buses, turn right [18-08-03 07:05:24]   19s, singapore-onenorth, #anns:79
+scene-0368, Arrive at busy intersection [18-08-03 07:07:13]   20s, singapore-onenorth, #anns:1581
+scene-0369, Start at busy intersection, turn right,... [18-08-03 07:07:56]   20s, singapore-onenorth, #anns:925
+scene-0370, Parked truck, cones, sitting peds, peds... [18-08-03 07:08:53]   20s, singapore-onenorth, #anns:993
+scene-0371, Peds, parked bus, oncoming scooter, par... [18-08-03 07:09:13]   19s, singapore-onenorth, #anns:446
+scene-0372, Turn left, peds, parked bicycle, bus stop [18-08-03 07:09:48]   19s, singapore-onenorth, #anns:1024
+scene-0375, Parking lot, turn right, peds [18-08-03 07:11:13]   19s, singapore-onenorth, #anns:1418
+scene-0373, Parking lot, peds, construction, a car ... [18-08-03 07:11:33]   20s, singapore-onenorth, #anns:1943
+scene-0374, Parking lot, vehicle reverses into park... [18-08-03 07:11:53]   20s, singapore-onenorth, #anns:1810
+scene-0376, Parking lot, peds, oncoming scooter [18-08-03 07:21:59]   20s, singapore-onenorth, #anns:1498
+scene-0377, Lane change, cyclist on side walk, cons... [18-08-03 07:23:29]   19s, singapore-onenorth, #anns:1104
+scene-0378, Construction zone, excavator, workers, ... [18-08-03 07:23:52]   19s, singapore-onenorth, #anns:905
+scene-0379, Parked cars, tricycle, narrow road, ove... [18-08-03 07:26:31]   19s, singapore-onenorth, #anns:444
+scene-0380, Parked cars, give way for oncoming vehicle [18-08-03 07:26:50]   20s, singapore-onenorth, #anns:275
+scene-0381, Ped crossing, peds, construction, parke... [18-08-03 07:27:47]   20s, singapore-onenorth, #anns:1894
+scene-0383, Peds sitting, turn left, parked bicycle... [18-08-03 07:32:02]   19s, singapore-onenorth, #anns:539
+scene-0384, Pass vehicles, turn right, person getti... [18-08-03 07:33:23]   20s, singapore-onenorth, #anns:220
+scene-0385, Turn left, construction, peds, parked b... [18-08-03 07:35:35]   20s, singapore-onenorth, #anns:1679
+scene-0386, Start at intersection, turn right, scoo... [18-08-03 07:37:58]   19s, singapore-onenorth, #anns:232
+scene-0254, Parked cars, long corridor, parking lot... [18-08-06 19:07:34]   19s, boston-seaport, #anns:865
+scene-0255, Parking lot, turn left [18-08-06 19:08:08]   19s, boston-seaport, #anns:2277
+scene-0256, Pass by a jaywalker, parked car, stoppe... [18-08-06 19:08:54]   19s, boston-seaport, #anns:877
+scene-0257, Wait at intersection, heavy trucks, bic... [18-08-06 19:09:57]   19s, boston-seaport, #anns:950
+scene-0258, Parked cars, cone, active cars, constru... [18-08-06 19:12:51]   19s, boston-seaport, #anns:1849
+scene-0259, Busy intersection, tram bus, constructi... [18-08-06 19:14:46]   19s, boston-seaport, #anns:2251
+scene-0260, Waiting at red light, in front of turni... [18-08-06 19:17:26]   20s, boston-seaport, #anns:1145
+scene-0261, Ped mending a bus, lots of barriers [18-08-06 19:19:54]   19s, boston-seaport, #anns:1938
+scene-0262, Peds crossing, turn right, construction [18-08-06 19:20:58]   20s, boston-seaport, #anns:2153
+scene-0263, Turning heavy truck, parked cars [18-08-06 19:22:01]   20s, boston-seaport, #anns:1085
+scene-0264, Parked cars, parked bicycles [18-08-06 19:22:41]   19s, boston-seaport, #anns:1650
+scene-0242, Heavy vehs, waiting at intersection for... [18-08-21 15:57:12]   20s, boston-seaport, #anns:1840
+scene-0243, Semi truck, stopped at red light [18-08-21 15:58:14]   19s, boston-seaport, #anns:1086
+scene-0244, Ped walking, stopped at red light [18-08-21 15:59:09]   19s, boston-seaport, #anns:2442
+scene-0245, Parked cars, peds, bridge, car overtaki... [18-08-21 16:00:09]   19s, boston-seaport, #anns:1740
+scene-0246, Traffic cones, overtake parked car, Con... [18-08-21 16:00:29]   19s, boston-seaport, #anns:2221
+scene-0247, Construction vehicle, cone, lots of bar... [18-08-21 16:01:07]   19s, boston-seaport, #anns:4534
+scene-0248, Wait at intersection, many peds [18-08-21 16:01:42]   20s, boston-seaport, #anns:2520
+scene-0249, Many peds, ped crossing road, parked cars [18-08-21 16:02:13]   19s, boston-seaport, #anns:2568
+scene-0250, Peds crossing road, bridge [18-08-21 16:02:47]   20s, boston-seaport, #anns:1960
+scene-0251, Cars, peds, bicycle, heavy traffic [18-08-21 16:03:19]   19s, boston-seaport, #anns:2784
+scene-0252, Many peds, parked bicycles, jaywalkers,... [18-08-21 16:03:52]   19s, boston-seaport, #anns:2253
+scene-0253, Moving cars, parked cars, heavy traffic [18-08-21 16:05:12]   20s, boston-seaport, #anns:3533
+scene-0329, Parked trucks, parked cars, avoid parke... [18-08-22 19:57:12]   19s, boston-seaport, #anns:1609
+scene-0330, Ped walking along the road, bus stops w... [18-08-22 19:58:48]   19s, boston-seaport, #anns:660
+scene-0331, Heavy truck, container, turn left [18-08-22 20:00:30]   19s, boston-seaport, #anns:1838
+scene-0332, Peds crossing, parked cars [18-08-22 20:04:06]   20s, boston-seaport, #anns:1793
+scene-0653, Parked cars, jaywalkers, parked truck [18-08-27 15:50:32]   20s, boston-seaport, #anns:2023
+scene-0654, Turn right, crane, policemen on road, p... [18-08-27 15:50:52]   20s, boston-seaport, #anns:2815
+scene-0655, Parking lot, parked cars, jaywalker, be... [18-08-27 15:51:32]   20s, boston-seaport, #anns:2332
+scene-0656, Parked cars, jaywalker, parked bicycle,... [18-08-27 15:51:52]   20s, boston-seaport, #anns:1867
+scene-0657, Parking lot, turn left, heavy truck [18-08-27 15:52:12]   20s, boston-seaport, #anns:2122
+scene-0658, Wait at intersection, peds crossing cro... [18-08-27 15:52:32]   20s, boston-seaport, #anns:739
+scene-0659, Peds, parking lot, large truck, scooter [18-08-27 15:53:12]   19s, boston-seaport, #anns:1531
+scene-0660, Painted truck, parked cars [18-08-27 15:53:52]   20s, boston-seaport, #anns:1167
+scene-0661, Parked cars, turn left, construction [18-08-27 15:54:12]   19s, boston-seaport, #anns:1195
+scene-0662, Parked cars, construction, wait at inte... [18-08-27 15:54:32]   20s, boston-seaport, #anns:2583
+scene-0663, Parked cars, turn left, parked bicycles... [18-08-27 15:54:52]   20s, boston-seaport, #anns:2082
+scene-0664, Huge truck, parked trucks [18-08-27 15:55:12]   20s, boston-seaport, #anns:1671
+scene-0328, Jaywalker, parked cars, right turn, rig... [18-08-27 15:57:37]   19s, boston-seaport, #anns:1479
+scene-0499, Construction zone, workers, parking lot... [18-08-28 17:40:51]   19s, boston-seaport, #anns:1784
+scene-0500, Left turn, large truck turns right, par... [18-08-28 17:41:56]   20s, boston-seaport, #anns:3227
+scene-0501, Parked vehicles, right bend, parked tru... [18-08-28 17:48:50]   19s, boston-seaport, #anns:1407
+scene-0502, Parked truck, right turn, jaywalkers, b... [18-08-28 17:49:10]   20s, boston-seaport, #anns:1044
+scene-0504, Construction zone, cross intersection, ... [18-08-28 17:50:36]   20s, boston-seaport, #anns:2209
+scene-0505, Passing under flyover, pedestrians in s... [18-08-28 17:51:16]   19s, boston-seaport, #anns:1214
+scene-0506, Oncoming bus, pedestrians [18-08-28 17:51:36]   20s, boston-seaport, #anns:1455
+scene-0507, Parked cars, peds, construction zone, o... [18-08-28 17:51:56]   20s, boston-seaport, #anns:2129
+scene-0508, Construction zone, roundabout junction [18-08-28 17:52:16]   20s, boston-seaport, #anns:2168
+scene-0509, Multi-storey carpark, oncoming truck, p... [18-08-28 17:53:01]   20s, boston-seaport, #anns:1079
+scene-0510, Turn left, parking lot, bicycle rack, p... [18-08-28 17:53:47]   20s, boston-seaport, #anns:1828
+scene-0511, Car attempting to park, peds, parked mo... [18-08-28 17:54:17]   20s, boston-seaport, #anns:2396
+scene-0512, Right bend, parked motorcyle, parked bi... [18-08-28 17:54:37]   20s, boston-seaport, #anns:2067
+scene-0513, Right bend, construction vehicles, an a... [18-08-28 17:54:57]   20s, boston-seaport, #anns:1071
+scene-0665, Sitting ped, parking lot, turn left, wa... [18-08-28 20:17:43]   20s, boston-seaport, #anns:1941
+scene-0666, Parking lot, jaywalker [18-08-28 20:18:30]   20s, boston-seaport, #anns:2055
+scene-0667, Bendy bus, peds having a picnic, overta... [18-08-28 20:18:50]   20s, boston-seaport, #anns:2055
+scene-0668, Parked bus, crane, construction [18-08-28 20:19:10]   20s, boston-seaport, #anns:1987
+scene-0669, Turn right, dense traffic, ped sitting ... [18-08-28 20:20:34]   20s, boston-seaport, #anns:1854
+scene-0670, Wait at intersection, heavy truck, pers... [18-08-28 20:21:22]   20s, boston-seaport, #anns:690
+scene-0671, Cars, heavy truck, personal mobility, a... [18-08-28 20:22:02]   20s, boston-seaport, #anns:1401
+scene-0672, Wait at intersection, heavy truck, pers... [18-08-28 20:23:02]   20s, boston-seaport, #anns:1064
+scene-0673, Construction, bus, wait at intersection... [18-08-28 20:24:02]   20s, boston-seaport, #anns:2036
+scene-0321, Ped, heavy traffic flow, peds, parked car [18-08-28 20:24:45]   19s, boston-seaport, #anns:1435
+scene-0674, Parked cars, bridge, wheelchair [18-08-28 20:25:22]   20s, boston-seaport, #anns:1289
+scene-0675, Excavator, wheelchair on road, construction [18-08-28 20:25:42]   19s, boston-seaport, #anns:2381
+scene-0676, Wheelchair, construction [18-08-28 20:26:02]   20s, boston-seaport, #anns:3373
+scene-0677, Wheelchair, construction, personal mobility [18-08-28 20:26:22]   20s, boston-seaport, #anns:3172
+scene-0678, Wheelchair, personal mobility, stroller... [18-08-28 20:26:42]   20s, boston-seaport, #anns:2781
+scene-0679, Personal mobility, wheel chair, constru... [18-08-28 20:27:02]   20s, boston-seaport, #anns:4297
+scene-0681, Wait at intersection, construction, bic... [18-08-28 20:28:36]   20s, boston-seaport, #anns:3988
+scene-0683, Wait at intersection, construction, sta... [18-08-28 20:29:17]   19s, boston-seaport, #anns:4433
+scene-0684, Bridge, many peds, bus [18-08-28 20:29:36]   20s, boston-seaport, #anns:2209
+scene-0685, Wait at crosswalk, many peds, turn righ... [18-08-28 20:29:59]   20s, boston-seaport, #anns:3205
+scene-0686, Many peds, jaywalkers, wait at intersec... [18-08-28 20:30:19]   20s, boston-seaport, #anns:2158
+scene-0323, Several peds crossing road at crosswalk [18-08-28 20:30:43]   19s, boston-seaport, #anns:2698
+scene-0687, Bicyclists, many peds in sidewalk, turn... [18-08-28 20:31:22]   20s, boston-seaport, #anns:2494
+scene-0688, Arrive at intersection, many peds, cycl... [18-08-28 20:32:14]   20s, boston-seaport, #anns:1783
+scene-0689, Wait at intersection until light turns ... [18-08-28 20:32:54]   20s, boston-seaport, #anns:1405
+scene-0324, Parked cars, cones, reduce speed for tr... [18-08-28 20:34:20]   20s, boston-seaport, #anns:3267
+scene-0552, Bendy bus, school bus, parking lot, tur... [18-08-28 20:45:36]   20s, boston-seaport, #anns:1010
+scene-0553, Wait at intersection, bicycle, large tr... [18-08-28 20:48:16]   20s, boston-seaport, #anns:1950
+scene-0554, Wait at intersection, ped crossing, ped... [18-08-28 20:48:36]   20s, boston-seaport, #anns:1949
+scene-0555, Cross intersection, construction, big truck [18-08-28 20:48:56]   20s, boston-seaport, #anns:2193
+scene-0514, Waiting to turn left, oncoming traffic,... [18-08-28 20:58:21]   20s, boston-seaport, #anns:3274
+scene-0515, Parking lot, construction zone [18-08-28 20:58:51]   20s, boston-seaport, #anns:1501
+scene-0517, Construction zone, constructing vehicle... [18-08-28 20:59:31]   19s, boston-seaport, #anns:1476
+scene-0518, Parking lot, peds, parked motorcyle, bi... [18-08-28 20:59:58]   20s, boston-seaport, #anns:3384
+scene-0695, Parked cars, peds, bicycle racks, cones... [18-08-29 20:04:14]   20s, boston-seaport, #anns:2079
+scene-0696, Cones, parked cars, ped crossing crosswalk [18-08-29 20:04:34]   20s, boston-seaport, #anns:1928
+scene-0697, Ped crossing road, parked cars, ped on ... [18-08-29 20:04:54]   20s, boston-seaport, #anns:1105
+scene-0698, Pullable object, peds on sidewalk, park... [18-08-29 20:05:14]   20s, boston-seaport, #anns:2398
+scene-0700, Overtake stopped cars, arrive at inters... [18-08-29 20:05:54]   19s, boston-seaport, #anns:2679
+scene-0701, Parked cars, ped on sidewalk, bicycle, ... [18-08-29 20:06:14]   20s, boston-seaport, #anns:2446
+scene-0703, Wait at intersection, cars, parking lot... [18-08-29 20:06:54]   20s, boston-seaport, #anns:1546
+scene-0704, Cars, bicycles, peds on sidewalk, parki... [18-08-29 20:07:28]   20s, boston-seaport, #anns:1201
+scene-0705, Wait at intersection, truck, peds cross... [18-08-29 20:08:08]   20s, boston-seaport, #anns:1070
+scene-0706, Cross intersection, cars, cones, cars o... [18-08-29 20:08:40]   20s, boston-seaport, #anns:2673
+scene-0707, Construction, peds on sidewalk, arrive ... [18-08-29 20:09:00]   20s, boston-seaport, #anns:1739
+scene-0708, Parked cars, peds on sidewalk, cones, p... [18-08-29 20:09:20]   20s, boston-seaport, #anns:1450
+scene-0709, Parked cars, peds on sidewalk, cones, t... [18-08-29 20:09:46]   20s, boston-seaport, #anns:2131
+scene-0710, Cones, parked cars, peds on sidewalk, t... [18-08-29 20:10:07]   19s, boston-seaport, #anns:3337
+scene-0711, Change lane, truck, cars, cones, ped on... [18-08-29 20:11:09]   20s, boston-seaport, #anns:5025
+scene-0712, Cones, cars, peds on sidewalk, truck, c... [18-08-29 20:11:30]   19s, boston-seaport, #anns:4580
+scene-0713, Bridge, cars, peds on sidewalk, truck, ... [18-08-29 20:11:50]   19s, boston-seaport, #anns:2149
+scene-0714, Wait at intersection, bridge, jaywalker... [18-08-29 20:12:09]   20s, boston-seaport, #anns:2696
+scene-0715, Wait at intersection, cars, peds on sid... [18-08-29 20:12:29]   20s, boston-seaport, #anns:1451
+scene-0716, Wait at intersection, ped crossing cros... [18-08-29 20:12:49]   20s, boston-seaport, #anns:2283
+scene-0717, Parked cars, peds on sidewalks, parked ... [18-08-29 20:13:09]   20s, boston-seaport, #anns:1451
+scene-0718, Jaywalkers, parked cars, parked trucks,... [18-08-29 20:13:30]   19s, boston-seaport, #anns:1665
+scene-0719, Jaywalkers, parked cars, parked trucks,... [18-08-29 20:13:50]   20s, boston-seaport, #anns:1697
+scene-0726, Wait at intersection, cars overtaking u... [18-08-29 20:17:02]   20s, boston-seaport, #anns:2512
+scene-0727, Wait at intersection, peds on sidewalks... [18-08-29 20:17:22]   19s, boston-seaport, #anns:3027
+scene-0728, Wait at intersection, peds crossing cro... [18-08-29 20:17:42]   19s, boston-seaport, #anns:1883
+scene-0730, Car overtaking us, cones, cross interse... [18-08-29 20:18:59]   20s, boston-seaport, #anns:2126
+scene-0731, Wait at intersection, cones, peds cross... [18-08-29 20:19:19]   20s, boston-seaport, #anns:1926
+scene-0733, Wait at intersection, parked cars, bicy... [18-08-29 20:19:59]   20s, boston-seaport, #anns:1646
+scene-0734, Wait at intersection, parked cars, cone... [18-08-29 20:20:19]   20s, boston-seaport, #anns:1881
+scene-0735, Cross intersection, flags, stopped bus,... [18-08-29 20:20:39]   20s, boston-seaport, #anns:1467
+scene-0736, Parked cars, ped crossing crosswalk, pa... [18-08-29 20:20:59]   20s, boston-seaport, #anns:2841
+scene-0737, Barrier, cyclist, parked motorcycle, pa... [18-08-29 20:21:32]   20s, boston-seaport, #anns:1741
+scene-0738, Trailers, peds on sidewalk, barrier, tr... [18-08-29 20:21:52]   20s, boston-seaport, #anns:2081
+scene-0519, Passing under flyover, oncoming truck, ... [18-08-30 14:33:56]   20s, boston-seaport, #anns:2206
+scene-0520, Pedestrian, parked vehicles [18-08-30 14:34:16]   20s, boston-seaport, #anns:1899
+scene-0521, Parking lot, ped, parked bicycle, peds ... [18-08-30 14:34:36]   20s, boston-seaport, #anns:1645
+scene-0522, Parked bicycle, pedestrian, parked cars... [18-08-30 14:34:56]   19s, boston-seaport, #anns:1895
+scene-0523, Oncoming bus, parked car on center divi... [18-08-30 14:35:16]   20s, boston-seaport, #anns:2577
+scene-0524, Parking lot, parked truck, pedestrian, ... [18-08-30 14:35:36]   20s, boston-seaport, #anns:1713
+scene-0739, Parking lot, peds, child standing in ve... [18-08-30 19:16:55]   20s, boston-seaport, #anns:1525
+scene-0740, Turn right, parking lot, parked cars, d... [18-08-30 19:17:15]   20s, boston-seaport, #anns:2428
+scene-0741, Parked cars, parking lot, peds on side walk [18-08-30 19:17:35]   20s, boston-seaport, #anns:2916
+scene-0744, Parked cars, parking lot, change lane a... [18-08-30 19:19:15]   20s, boston-seaport, #anns:1034
+scene-0746, Parked cars, parking lot, parked trucks... [18-08-30 19:19:55]   20s, boston-seaport, #anns:1210
+scene-0747, Wait at intersection, peds crossing cro... [18-08-30 19:20:15]   20s, boston-seaport, #anns:962
+scene-0749, Wait at intersection, parked large truc... [18-08-30 19:20:55]   20s, boston-seaport, #anns:596
+scene-0750, Wait at intersection, parking lot, traf... [18-08-30 19:21:15]   20s, boston-seaport, #anns:1303
+scene-0751, Parking lot, bicycle, ped entering car,... [18-08-30 19:21:35]   20s, boston-seaport, #anns:750
+scene-0752, Parked cars, crossing intersection, ove... [18-08-30 19:21:55]   20s, boston-seaport, #anns:1509
+scene-0757, Arrive at busy intersection, bus, wait ... [18-08-30 19:25:08]   20s, boston-seaport, #anns:592
+scene-0758, Ped crossing, construction vehicle, UPS... [18-08-30 19:25:28]   19s, boston-seaport, #anns:1008
+scene-0759, Wait at intersection, ped crossing cros... [18-08-30 19:25:48]   20s, boston-seaport, #anns:965
+scene-0760, Wait at intersection, ped crossing cros... [18-08-30 19:26:08]   20s, boston-seaport, #anns:601
+scene-0761, Construction vehicle, peds, animal, par... [18-08-30 19:26:28]   20s, boston-seaport, #anns:1200
+scene-0762, Parking lot, many peds, container, turn... [18-08-30 19:26:48]   20s, boston-seaport, #anns:1223
+scene-0763, Fence, parking lot, bicyclist, buses, p... [18-08-30 19:27:48]   20s, boston-seaport, #anns:2137
+scene-0764, Bicycle, parked cars, parked trucks, fo... [18-08-30 19:28:08]   20s, boston-seaport, #anns:1638
+scene-0765, Wait at intersection, parking lot, low ... [18-08-30 19:29:08]   20s, boston-seaport, #anns:924
+scene-0767, Parked cars, cones, trailer, peds, chil... [18-08-30 19:30:35]   20s, boston-seaport, #anns:1661
+scene-0768, Parked cars, truck overtaking us, peds ... [18-08-30 19:30:55]   20s, boston-seaport, #anns:1193
+scene-0769, Truck, parked cars, ped crossing crossw... [18-08-30 19:31:15]   20s, boston-seaport, #anns:963
+scene-0770, Stationary ego vehicle, parking lot, pe... [18-08-30 19:32:11]   20s, boston-seaport, #anns:976
+scene-0771, Stationary ego vehicle, person getting ... [18-08-30 19:32:49]   20s, boston-seaport, #anns:1596
+scene-0775, Stationary ego vehicle, parking lot, pe... [18-08-30 19:34:09]   20s, boston-seaport, #anns:1128
+scene-0777, Stationary ego vehicle, parking lot, pe... [18-08-30 19:34:54]   20s, boston-seaport, #anns:1090
+scene-0778, Parking lot, U turn, parked cars, peds [18-08-30 19:35:14]   20s, boston-seaport, #anns:791
+scene-0780, Parked cars, stop at red light, jaywalk... [18-08-30 19:36:12]   20s, boston-seaport, #anns:1149
+scene-0781, Stop at red light, bus, low traffic, pe... [18-08-30 19:36:32]   20s, boston-seaport, #anns:1168
+scene-0782, Parked cars, peds, crossing intersectio... [18-08-30 19:36:52]   20s, boston-seaport, #anns:1264
+scene-0783, Cars, parked cars, overtaking a bus, pe... [18-08-30 19:37:12]   20s, boston-seaport, #anns:1320
+scene-0784, Waiting at intersection, parked cars, b... [18-08-30 19:37:32]   20s, boston-seaport, #anns:1383
+scene-0525, Turn right, parking lot, peds waiting, ... [18-08-30 19:54:07]   20s, boston-seaport, #anns:2726
+scene-0526, Parking lot, wide biaising for parked c... [18-08-30 19:54:27]   20s, boston-seaport, #anns:2074
+scene-0527, Parking lot, lorry containers, pedestri... [18-08-30 19:54:47]   20s, boston-seaport, #anns:2134
+scene-0528, Avoiding large truck with oncoming car,... [18-08-30 19:55:24]   19s, boston-seaport, #anns:801
+scene-0529, Parked cars, parking lot [18-08-30 19:55:44]   20s, boston-seaport, #anns:961
+scene-0530, Parked cars, parking lot, container, st... [18-08-30 19:56:04]   20s, boston-seaport, #anns:1048
+scene-0531, Turn right, oncoming traffic, parking l... [18-08-30 19:56:24]   20s, boston-seaport, #anns:1614
+scene-0532, Many trash cans, wait at intersection, ... [18-08-30 19:56:44]   20s, boston-seaport, #anns:1147
+scene-0533, Parked cars, pedestrian, animal [18-08-30 19:58:28]   20s, boston-seaport, #anns:1518
+scene-0534, Parked cars, pedestrian, parked truck, ... [18-08-30 19:58:54]   20s, boston-seaport, #anns:1488
+scene-0535, Construction zones, construction vehicl... [18-08-30 20:00:27]   20s, boston-seaport, #anns:511
+scene-0536, Turning right at intersection, narrow p... [18-08-30 20:01:07]   20s, boston-seaport, #anns:942
+scene-0537, Construction zones, construction vehicl... [18-08-30 20:01:27]   20s, boston-seaport, #anns:1280
+scene-0538, Ton of pedestrians in park, parking lot... [18-08-30 20:01:47]   20s, boston-seaport, #anns:2388
+scene-0539, Jaywalkers, bicycle racks, bus, parked ... [18-08-30 20:02:07]   20s, boston-seaport, #anns:1745
+scene-0541, Parked truck, parked cars, pedestrian c... [18-08-30 20:03:07]   20s, boston-seaport, #anns:1000
+scene-0542, Blinking traffic light [18-08-30 20:03:27]   20s, boston-seaport, #anns:628
+scene-0543, Oncoming truck, pedestrian, parking lot... [18-08-30 20:04:27]   19s, boston-seaport, #anns:1354
+scene-0544, Parked cars, peds, pedestrian crossing ... [18-08-30 20:04:47]   20s, boston-seaport, #anns:1577
+scene-0545, Pedestrian, parked cars, parked bicycles [18-08-30 20:05:47]   20s, boston-seaport, #anns:1418
+scene-0546, Wait at intersection, peds, parked cars... [18-08-30 20:06:27]   20s, boston-seaport, #anns:1561
+scene-0283, Parking lot, right turn, approach polic... [18-08-31 15:20:03]   19s, boston-seaport, #anns:2447
+scene-0284, Police lets us pass, left turn, ped sta... [18-08-31 15:20:27]   19s, boston-seaport, #anns:1485
+scene-0285, Cross intersection, construction, barri... [18-08-31 15:20:54]   20s, boston-seaport, #anns:2382
+scene-0286, Wait at intersection, turn right, follo... [18-08-31 15:21:58]   19s, boston-seaport, #anns:1683
+scene-0287, Overtake heavy truck, stopped motorcycl... [18-08-31 15:22:18]   20s, boston-seaport, #anns:1130
+scene-0288, Ped crossing, crane crossing intersecti... [18-08-31 15:22:38]   19s, boston-seaport, #anns:832
+scene-0289, Dense traffic, car overtaking us, digit... [18-08-31 15:23:46]   19s, boston-seaport, #anns:1147
+scene-0290, Light turns green at busy intersection,... [18-08-31 15:24:39]   19s, boston-seaport, #anns:993
+scene-0291, Big street, construction, SUV overtaking [18-08-31 15:24:59]   19s, boston-seaport, #anns:1791
+scene-0292, Lane change, construction [18-08-31 15:25:22]   19s, boston-seaport, #anns:2048
+scene-0293, Construction, parked cars [18-08-31 15:25:42]   19s, boston-seaport, #anns:3533
+scene-0294, Bridge, skateboarder, wheelchair, peds,... [18-08-31 15:26:02]   19s, boston-seaport, #anns:912
+scene-0295, Wait at intersection, cars and trucks c... [18-08-31 15:26:38]   20s, boston-seaport, #anns:1686
+scene-0296, Wait at intersection, cyclist crossing ... [18-08-31 15:26:58]   19s, boston-seaport, #anns:1683
+scene-0297, Right turn, peds crossing, cross inters... [18-08-31 15:27:18]   19s, boston-seaport, #anns:1808
+scene-0298, Turn right, cross bridge, peds [18-08-31 15:27:38]   19s, boston-seaport, #anns:1018
+scene-0299, Cross bridge, peds, ban, parked bicycle [18-08-31 15:27:58]   20s, boston-seaport, #anns:1320
+scene-0300, Bike rack, peds walking, parked cars, j... [18-08-31 15:28:18]   19s, boston-seaport, #anns:2119
+scene-0301, Arrive at intersection, ped loading car... [18-08-31 15:28:38]   19s, boston-seaport, #anns:738
+scene-0302, Huge parking lot, dense traffic [18-08-31 15:29:57]   20s, boston-seaport, #anns:3406
+scene-0303, Cross intersection, construction, large... [18-08-31 15:30:22]   20s, boston-seaport, #anns:2723
+scene-0304, Cross intersection, turning truck, park... [18-08-31 15:31:48]   19s, boston-seaport, #anns:1565
+scene-0305, Barriers, parked cars [18-08-31 15:32:08]   20s, boston-seaport, #anns:2093
+scene-0306, Parked cars, bicyclist waiting in the m... [18-08-31 15:32:30]   19s, boston-seaport, #anns:1830
+scene-0556, Turn left, oncoming vehicle, pedestrian... [18-08-31 15:38:19]   19s, boston-seaport, #anns:841
+scene-0557, Parked cars, pedestrian, stopped at int... [18-08-31 15:44:33]   20s, boston-seaport, #anns:718
+scene-0558, Turning right, parked cars, peds, parke... [18-08-31 15:45:18]   20s, boston-seaport, #anns:1334
+scene-0559, Passing intersection, pedestrian, parke... [18-08-31 15:46:40]   20s, boston-seaport, #anns:1164
+scene-0560, Arrive at intersection, parked cars, st... [18-08-31 15:47:00]   19s, boston-seaport, #anns:931
+scene-0561, Wait at intersection, turning left, car... [18-08-31 15:47:40]   20s, boston-seaport, #anns:1389
+scene-0562, Parked cars, pedestrians, pedestrians o... [18-08-31 15:48:14]   20s, boston-seaport, #anns:2622
+scene-0563, Change lane and stop, slight traffic co... [18-08-31 15:49:54]   20s, boston-seaport, #anns:1639
+scene-0564, Parked car, pedestrian, turning right, ... [18-08-31 15:50:34]   19s, boston-seaport, #anns:1759
+scene-0565, Turning right, pedestrian with suitcase... [18-08-31 15:50:54]   19s, boston-seaport, #anns:1794
+scene-0388, Cross intersection, bridge, arrive at i... [18-08-31 15:57:25]   20s, boston-seaport, #anns:985
+scene-0389, Go straight, parked cars, dense traffic... [18-08-31 15:58:22]   20s, boston-seaport, #anns:1221
+scene-0390, Go straight, parked cars, bendy bus [18-08-31 15:58:42]   20s, boston-seaport, #anns:1629
+scene-0391, Go straight, two bicycles, turn right, ... [18-08-31 15:59:02]   20s, boston-seaport, #anns:1684
+scene-0392, Cross intersection, bicyclist crossing,... [18-08-31 16:00:19]   20s, boston-seaport, #anns:1419
+scene-0393, Turn right, reflections, parked cars [18-08-31 16:00:58]   20s, boston-seaport, #anns:718
+scene-0394, Parked cars, jaywalker [18-08-31 16:01:18]   20s, boston-seaport, #anns:1543
+scene-0395, Ped walking dog, peds, parking lot, tru... [18-08-31 16:01:38]   20s, boston-seaport, #anns:1633
+scene-0396, Parked cars, parking lot, peds [18-08-31 16:01:58]   20s, boston-seaport, #anns:2107
+scene-0397, Stroller, peds, dense traffic, turn left [18-08-31 16:03:01]   20s, boston-seaport, #anns:1812
+scene-0398, Very dense traffic, congestion, overtak... [18-08-31 16:03:21]   20s, boston-seaport, #anns:1339
+scene-0440, Rain, small crane, parking lot [18-09-18 16:08:27]   20s, boston-seaport, #anns:1316
+scene-0441, Rain, cross intersection, lane change, ... [18-09-18 16:08:47]   20s, boston-seaport, #anns:2900
+scene-0442, Rain, parked truck trailers, parked cars [18-09-18 16:09:07]   20s, boston-seaport, #anns:1403
+scene-0443, Rain, crane, parking lot, overtake stop... [18-09-18 16:10:04]   20s, boston-seaport, #anns:1660
+scene-0444, Rain, parked vehicles, parking lot, ben... [18-09-18 16:10:24]   20s, boston-seaport, #anns:1638
+scene-0445, Rain, parking lot [18-09-18 16:10:44]   20s, boston-seaport, #anns:1473
+scene-0446, Rain, turn left, turn left [18-09-18 16:11:04]   20s, boston-seaport, #anns:1132
+scene-0447, Rain, parking lot, turn left [18-09-18 16:12:00]   19s, boston-seaport, #anns:2176
+scene-0448, Rain, parked trailers, parked trucks, f... [18-09-18 16:12:20]   20s, boston-seaport, #anns:1299
+scene-0449, Rain, parking lot, turn left, barriers,... [18-09-18 16:12:40]   20s, boston-seaport, #anns:1402
+scene-0450, Rain, parking lot, many trucks, peds [18-09-18 16:13:30]   19s, boston-seaport, #anns:1786
+scene-0451, Rain, turn right, truck [18-09-18 16:14:05]   20s, boston-seaport, #anns:960
+scene-0452, Rain, wet ground, bendy bus, parked car [18-09-18 16:14:25]   20s, boston-seaport, #anns:903
+scene-0453, Rain, turn right, truck [18-09-18 16:14:45]   20s, boston-seaport, #anns:1299
+scene-0454, Rain, turn left, bike rack, parking lot [18-09-18 16:15:05]   20s, boston-seaport, #anns:1909
+scene-0455, Rain, bus, jaywalker, parking lot, park... [18-09-18 16:15:25]   20s, boston-seaport, #anns:2731
+scene-0456, Rain, parking lot, bicycle rack, turn r... [18-09-18 16:15:45]   20s, boston-seaport, #anns:1864
+scene-0457, Rain, turn right, parking lot, wait at ... [18-09-18 16:55:31]   20s, boston-seaport, #anns:2465
+scene-0458, Rain, turn left, bus stop, parked cars [18-09-18 16:55:51]   20s, boston-seaport, #anns:1748
+scene-0459, Rain, parking lot, crane [18-09-18 16:56:11]   20s, boston-seaport, #anns:2380
+scene-0461, Rain, turn right, heavy truck with empt... [18-09-18 16:56:51]   20s, boston-seaport, #anns:1222
+scene-0462, Rain, cross intersection, parking lot, ... [18-09-18 16:57:11]   20s, boston-seaport, #anns:1249
+scene-0463, Rain, FedEx truck loaded on trailer, tr... [18-09-18 16:57:31]   20s, boston-seaport, #anns:1058
+scene-0464, Rain, wait at intersection, ped crossin... [18-09-18 16:58:01]   20s, boston-seaport, #anns:1229
+scene-0465, Rain, start at intersection, wet ground... [18-09-18 16:58:47]   20s, boston-seaport, #anns:1162
+scene-0467, Rain, wait at intersection, flipped con... [18-09-18 16:59:21]   20s, boston-seaport, #anns:1411
+scene-0468, Rain, wait at intersection, flipped con... [18-09-18 16:59:41]   20s, boston-seaport, #anns:1024
+scene-0469, Rain, truck, cross intersection, ped, p... [18-09-18 17:00:01]   20s, boston-seaport, #anns:1214
+scene-0471, Rain, parked cars, construction [18-09-18 17:00:41]   19s, boston-seaport, #anns:2077
+scene-0472, Rain, construction, wheel barrows [18-09-18 17:01:01]   19s, boston-seaport, #anns:2415
+scene-0474, Rain, start at intersection, bridge, ra... [18-09-18 17:02:21]   20s, boston-seaport, #anns:2172
+scene-0475, Rain, bridge, peds shrinking due to rai... [18-09-18 17:02:41]   20s, boston-seaport, #anns:1401
+scene-0476, Rain, turn right, peds, bridge, peds wi... [18-09-18 17:03:01]   20s, boston-seaport, #anns:1028
+scene-0477, Rain, bridge, peds crossing, peds sidew... [18-09-18 17:03:21]   20s, boston-seaport, #anns:1020
+scene-0478, Rain, waiting traffic light, oncoming b... [18-09-18 17:03:41]   19s, boston-seaport, #anns:1373
+scene-0479, Rain, many peds, jaywalker, bicycle rac... [18-09-18 17:04:01]   20s, boston-seaport, #anns:2046
+scene-0480, Rain, parked cars, bicycle, parking lot [18-09-18 17:04:56]   19s, boston-seaport, #anns:2392
+scene-0566, Rain, turn right, parked cars, car turn... [18-09-18 17:11:06]   20s, boston-seaport, #anns:2061
+scene-0568, Rain, parked cars, parked truck on the lane [18-09-18 17:12:16]   20s, boston-seaport, #anns:651
+scene-0570, Rain, wait at intersection, turn right,... [18-09-18 17:12:56]   20s, boston-seaport, #anns:2130
+scene-0571, Rain, many parked trucks, cross interse... [18-09-18 17:13:16]   20s, boston-seaport, #anns:1088
+scene-0572, Rain, parked trailers, fence, parked ca... [18-09-18 17:13:36]   20s, boston-seaport, #anns:1082
+scene-0573, Rain, parked cars, ped, parked trucks, ... [18-09-18 17:13:56]   20s, boston-seaport, #anns:1251
+scene-0574, Rain, turn left, parked cars, wait at i... [18-09-18 17:14:16]   20s, boston-seaport, #anns:902
+scene-0575, Rain, parked cars, cones, construction ... [18-09-18 17:14:36]   20s, boston-seaport, #anns:1075
+scene-0576, Rain, construction, ped on road, turn right [18-09-18 17:15:01]   19s, boston-seaport, #anns:1332
+scene-0577, Rain, turn right, bicycle rack, cross i... [18-09-18 17:15:41]   20s, boston-seaport, #anns:524
+scene-0578, Rain, cross intersection [18-09-18 17:16:41]   20s, boston-seaport, #anns:1506
+scene-0580, Rain, long street, parked car [18-09-18 17:17:41]   20s, boston-seaport, #anns:899
+scene-0582, Rain, parked cars, turn right, peds, we... [18-09-18 17:18:43]   20s, boston-seaport, #anns:778
+scene-0583, Rain, parking lot, stopped briefly at i... [18-09-18 17:19:03]   20s, boston-seaport, #anns:1728
+scene-0584, Rain, turn right, exiting car, parking lot [18-09-18 17:43:31]   20s, boston-seaport, #anns:2386
+scene-0585, Rain, construction vehicles, cross inte... [18-09-18 17:44:31]   20s, boston-seaport, #anns:2716
+scene-0586, Rain, construction, parked car, close t... [18-09-18 17:44:51]   20s, boston-seaport, #anns:3048
+scene-0587, Rain, wait at intersection, truck [18-09-18 17:45:11]   20s, boston-seaport, #anns:1642
+scene-0588, Rain, turn right, parking lot [18-09-18 17:45:31]   19s, boston-seaport, #anns:1572
+scene-0589, Rain, turn right, cars waiting at inter... [18-09-18 17:46:11]   20s, boston-seaport, #anns:646
+scene-0590, Rain, cluster of traffic cones, wait at... [18-09-18 17:46:31]   19s, boston-seaport, #anns:1192
+scene-0591, Rain, cross intersection, wait at inter... [18-09-18 17:46:51]   20s, boston-seaport, #anns:894
+scene-0592, Rain, wait at intersection, turn left, ... [18-09-18 17:47:51]   20s, boston-seaport, #anns:1679
+scene-0593, Rain, wait at intersection, peds crossing [18-09-18 17:48:43]   20s, boston-seaport, #anns:890
+scene-0594, Rain, turn right, arrive at intersectio... [18-09-18 17:49:03]   20s, boston-seaport, #anns:1546
+scene-0595, Rain, wait at intersection, peds, const... [18-09-18 17:49:43]   20s, boston-seaport, #anns:847
+scene-0596, Rain, wait at intersection, start at in... [18-09-18 17:53:16]   20s, boston-seaport, #anns:1468
+scene-0597, Rain, parked cars, peds and children, p... [18-09-18 17:53:36]   20s, boston-seaport, #anns:1456
+scene-0598, Rain, construction, turn right, roundabout [18-09-18 17:54:36]   20s, boston-seaport, #anns:2138
+scene-0599, Rain, peds, construction, turn right, c... [18-09-18 17:54:56]   20s, boston-seaport, #anns:1823
+scene-0600, Rain, parked busses, parking lot [18-09-18 17:55:16]   20s, boston-seaport, #anns:1053
+scene-0625, Rain, peds, construction [18-09-18 18:36:53]   20s, boston-seaport, #anns:921
+scene-0626, Rain, construction, bendy bus, roundabout [18-09-18 18:37:13]   20s, boston-seaport, #anns:1831
+scene-0627, Rain, industrial [18-09-18 18:37:53]   20s, boston-seaport, #anns:859
+scene-0629, Rain, industrial, turn twice [18-09-18 18:38:33]   20s, boston-seaport, #anns:2256
+scene-0630, Rain, construction, fence, special cons... [18-09-18 18:39:06]   20s, boston-seaport, #anns:684
+scene-0632, Rain, industrial, turn right, turn righ... [18-09-18 18:39:46]   20s, boston-seaport, #anns:351
+scene-0633, Rain, industrial, parked trucks at park... [18-09-18 18:40:35]   20s, boston-seaport, #anns:796
+scene-0634, Rain, industrial, parking lot, semi bac... [18-09-18 18:40:55]   20s, boston-seaport, #anns:2416
+scene-0635, Stationary in rain, semi backing up [18-09-18 18:41:15]   20s, boston-seaport, #anns:1807
+scene-0636, Rain, turn right, parked trucks [18-09-18 18:41:55]   20s, boston-seaport, #anns:819
+scene-0637, Rain, parked cars, peds, jaywalker, wat... [18-09-18 18:42:55]   19s, boston-seaport, #anns:1498
+scene-0638, Rain, turn left, water reflections, jay... [18-09-18 18:43:15]   20s, boston-seaport, #anns:1233
+scene-0639, Rain, arrive at intersection, parked ve... [18-09-18 18:45:24]   20s, boston-seaport, #anns:1128
+scene-0640, Rain, cross bridge, truck [18-09-18 18:45:44]   19s, boston-seaport, #anns:715
+scene-0641, Rain, cross intersection, parked cars, ... [18-09-18 18:46:04]   20s, boston-seaport, #anns:1246
+scene-0642, Rain, parked cars, parked bicycle [18-09-18 18:46:24]   20s, boston-seaport, #anns:1143
+scene-0643, Rain, parked cars, bicycle rack, parked... [18-09-18 18:46:44]   20s, boston-seaport, #anns:1164
+scene-0644, Rain, parked cars, parking lot, ped, pa... [18-09-18 18:47:04]   19s, boston-seaport, #anns:1127
+scene-0645, Rain, parked cars, wait at intersection... [18-09-18 18:47:24]   20s, boston-seaport, #anns:1123
+scene-0646, Heavy, parking lot, truck, concrete bar... [18-09-18 18:47:44]   20s, boston-seaport, #anns:1664
+scene-0647, Rain, parked cars, parked buses [18-09-18 18:48:04]   20s, boston-seaport, #anns:2437
+scene-0648, Rain, cross intersection, reflections, ... [18-09-18 18:48:24]   20s, boston-seaport, #anns:1227
+scene-0649, Rain, parked scooter, parked bicycle, w... [18-09-18 18:48:44]   20s, boston-seaport, #anns:294
+scene-0650, Rain, reflections, parking lot, arrive ... [18-09-18 18:50:01]   20s, boston-seaport, #anns:1798
+scene-0651, Rain, start at intersection, parked car... [18-09-18 18:50:41]   20s, boston-seaport, #anns:1102
+scene-0652, Rain, wait at intersection, peds crossi... [18-09-18 18:51:25]   20s, boston-seaport, #anns:1434
+scene-0868, Rain, turn right, bridge, peds, ships, ... [18-09-18 18:55:26]   20s, boston-seaport, #anns:567
+scene-0869, Rain, peds, bridge, parked cars, parkin... [18-09-18 18:55:45]   20s, boston-seaport, #anns:2226
+scene-0870, Rain, waiting at red light, parked cars... [18-09-18 18:56:23]   20s, boston-seaport, #anns:1179
+scene-0871, Rain, parked cars, parked bicycle, peds... [18-09-18 18:56:43]   20s, boston-seaport, #anns:1049
+scene-0872, Rain, peds, truck, wait at red light, p... [18-09-18 18:57:03]   20s, boston-seaport, #anns:1421
+scene-0873, Rain, waiting at intersection, jaywalke... [18-09-18 18:57:38]   20s, boston-seaport, #anns:2161
+scene-0875, Rain, wait at intersection, constructio... [18-09-18 18:58:52]   19s, boston-seaport, #anns:2682
+scene-0876, Rain, construction site, cones, barrier... [18-09-18 18:59:12]   20s, boston-seaport, #anns:2540
+scene-0877, Rain, parked cars, barriers, cones, con... [18-09-18 18:59:33]   19s, boston-seaport, #anns:2170
+scene-0878, Rain, bus, parked cars, parked scooter,... [18-09-18 18:59:52]   20s, boston-seaport, #anns:952
+scene-0880, Rain, parked cars, parked bicycle, park... [18-09-18 19:00:32]   20s, boston-seaport, #anns:1364
+scene-0882, Rain, wait at intersection, truck, park... [18-09-18 19:02:12]   20s, boston-seaport, #anns:878
+scene-0883, Rain, peds, parking lot, truck, waiting... [18-09-18 19:02:32]   20s, boston-seaport, #anns:2240
+scene-0884, Rain, jaywalker, truck, parked cars, st... [18-09-18 19:03:33]   20s, boston-seaport, #anns:598
+scene-0885, Rain, truck, peds, parked cars, ships [18-09-18 19:03:53]   20s, boston-seaport, #anns:802
+scene-0886, Rain, peds, truck, ships, cones, parked... [18-09-18 19:04:13]   20s, boston-seaport, #anns:1576
+scene-0887, Rain, truck, peds, waiting at intersection [18-09-18 19:04:33]   20s, boston-seaport, #anns:949
+scene-0888, Rain, peds, truck, cones, parked cars, ... [18-09-18 19:04:53]   20s, boston-seaport, #anns:1767
+scene-0889, Rain, wait at intersection, bicycle rac... [18-09-18 19:05:13]   20s, boston-seaport, #anns:3029
+scene-0890, Rain, parking lot, parked cars, truck, ... [18-09-18 19:05:33]   20s, boston-seaport, #anns:2110
+scene-0891, Rain, parking lot, parked bicycles, par... [18-09-18 19:05:53]   19s, boston-seaport, #anns:3484
+scene-0892, Rain, parked cars, barriers, peds, park... [18-09-18 19:06:13]   20s, boston-seaport, #anns:2320
+scene-0893, Rain, parked cars, peds, cross intersec... [18-09-18 19:06:33]   20s, boston-seaport, #anns:2320
+scene-0894, Rain, parked cars, peds, cones, jaywalk... [18-09-18 19:06:53]   20s, boston-seaport, #anns:2024
+scene-0895, Rain, parked cars, cones, peds, car lea... [18-09-18 19:07:13]   20s, boston-seaport, #anns:1304
+scene-0896, Rain, parked cars, peds, construction, ... [18-09-18 19:07:33]   20s, boston-seaport, #anns:994
+scene-0897, Rain, parked cars, parking lot, ped cro... [18-09-18 19:07:54]   20s, boston-seaport, #anns:980
+scene-0898, Rain, parked cars, peds, peds crossing ... [18-09-18 19:08:34]   20s, boston-seaport, #anns:1064
+scene-0899, Rain, parked cars, peds, cross intersec... [18-09-18 19:09:37]   20s, boston-seaport, #anns:1024
+scene-0900, Rain, parked cars, peds, parked bicycle... [18-09-18 19:09:57]   20s, boston-seaport, #anns:2547
+scene-0901, Rain, parked cars, parking lot, peds, p... [18-09-18 19:10:17]   20s, boston-seaport, #anns:3182
+scene-0902, Rain, parked cars, parked bicycle, park... [18-09-18 19:10:37]   20s, boston-seaport, #anns:1445
+scene-0903, Rain, wait at intersection, bicycle rac... [18-09-18 19:11:17]   19s, boston-seaport, #anns:1192
+scene-0904, Rain, parked cars, bus, peds, barriers,... [18-09-18 19:12:25]   20s, boston-seaport, #anns:1841
+scene-0905, Rain, construction site, barriers, cone... [18-09-18 19:12:45]   19s, boston-seaport, #anns:1193
+scene-0906, Rain, parked cars, parked bicycle, peds... [18-09-18 19:13:05]   20s, boston-seaport, #anns:1652
+scene-0907, Rain, turn right, parked cars, parking ... [18-09-18 19:13:25]   19s, boston-seaport, #anns:940
+scene-0908, Rain, parked cars, truck, parked scoote... [18-09-18 19:13:45]   20s, boston-seaport, #anns:834
+scene-0909, Rain, ped, cones, parked cars, construc... [18-09-18 19:14:05]   20s, boston-seaport, #anns:1130
+scene-0910, Rain, parked cars, sign trailer, constr... [18-09-18 19:14:25]   19s, boston-seaport, #anns:1544
+scene-0911, Rain, parked cars, trucks, peds crossin... [18-09-18 19:14:45]   20s, boston-seaport, #anns:1314
+scene-0912, Rain, parked cars, trucks, parking lot,... [18-09-18 19:15:25]   20s, boston-seaport, #anns:1418
+scene-0913, Rain, parked cars, semi trailers, barri... [18-09-18 19:16:05]   19s, boston-seaport, #anns:2984
+scene-0914, Rain, parking lot, bicycle rack, buses,... [18-09-18 19:16:45]   20s, boston-seaport, #anns:1074
+scene-0915, Rain, parked cars, turn left, peds, bus... [18-09-18 19:19:05]   20s, boston-seaport, #anns:1573
+scene-0803, Cars, peds on sidewalk, parked bicycles... [18-09-18 19:27:21]   19s, boston-seaport, #anns:1050
+scene-0804, Rain, Truck, ped on sidewalk, cars, bus... [18-09-18 19:27:41]   20s, boston-seaport, #anns:1291
+scene-0805, Parked cars, truck, trash can, bus, ped... [18-09-18 19:28:01]   20s, boston-seaport, #anns:1048
+scene-0806, Rain, Wait at intersection, ped push a ... [18-09-18 19:28:21]   20s, boston-seaport, #anns:1143
+scene-0808, Rain, trucks, cars, ped crossing crossw... [18-09-18 19:29:21]   20s, boston-seaport, #anns:1235
+scene-0809, Truck, cars, cones, trailer, car overta... [18-09-18 19:29:41]   20s, boston-seaport, #anns:1308
+scene-0810, Rain. Truck, buses, cars, peds, jaywalk... [18-09-18 19:30:01]   19s, boston-seaport, #anns:917
+scene-0811, Rain, Wait at intersection, trucks, car... [18-09-18 19:31:21]   20s, boston-seaport, #anns:820
+scene-0812, Truck, cars, peds on sidewalk, cones, c... [18-09-18 19:31:41]   20s, boston-seaport, #anns:883
+scene-0813, Rain, Wait at intersection, trucks, car... [18-09-18 19:32:20]   20s, boston-seaport, #anns:372
+scene-0815, Rain, wait at intersection, truck, turn... [18-09-18 19:33:00]   19s, boston-seaport, #anns:963
+scene-0816, Rain, cones, cars, barrier, trailers, t... [18-09-18 19:33:40]   20s, boston-seaport, #anns:1621
+scene-0817, Trailer, parking lots, cones, bridge, t... [18-09-18 19:34:20]   20s, boston-seaport, #anns:1016
+scene-0819, Rain, trucks, parking lot, wait at inte... [18-09-18 19:37:46]   20s, boston-seaport, #anns:918
+scene-0820, Rain, Cross intersection, cross interse... [18-09-18 19:38:06]   20s, boston-seaport, #anns:1271
+scene-0821, Parking lot, parked trucks, trailers, c... [18-09-18 19:38:26]   20s, boston-seaport, #anns:1937
+scene-0822, Rain, parked cars, peds on sidewalk, co... [18-09-18 19:38:46]   20s, boston-seaport, #anns:1478
+scene-0975, Wait at intersection, many peds, bus, cars [18-09-25 03:13:43]   20s, singapore-onenorth, #anns:702
+scene-0976, Wait at intersection, many peds, cars, ... [18-09-25 03:14:03]   20s, singapore-onenorth, #anns:630
+scene-0977, Wait at intersection, many peds, ped pu... [18-09-25 03:14:43]   20s, singapore-onenorth, #anns:786
+scene-0978, Wait at intersection, cars, motorcycle,... [18-09-25 03:15:03]   20s, singapore-onenorth, #anns:543
+scene-0979, Many peds, motorcycle, cars, cross inte... [18-09-25 03:15:23]   20s, singapore-onenorth, #anns:1001
+scene-0980, Construction, many peds, lane blocked, ... [18-09-25 03:15:52]   20s, singapore-onenorth, #anns:2213
+scene-0981, Construction workers, cones, many barri... [18-09-25 03:16:12]   20s, singapore-onenorth, #anns:2600
+scene-0982, Truck, barrier, many peds, cones, cars,... [18-09-25 03:16:32]   20s, singapore-onenorth, #anns:2967
+scene-0983, Construction vehicle, cones, peds cross... [18-09-25 03:16:52]   20s, singapore-onenorth, #anns:2240
+scene-0984, Parked bicycles, many peds, jaywalker, ... [18-09-25 03:17:12]   20s, singapore-onenorth, #anns:1023
+scene-0988, Parking lot, turn right, cross intersec... [18-09-25 03:18:32]   20s, singapore-onenorth, #anns:1900
+scene-0989, Many peds, cross intersection, ped cros... [18-09-25 03:18:52]   20s, singapore-onenorth, #anns:803
+scene-0990, Parked bicycles, peds on sidewalk, park... [18-09-25 03:19:12]   20s, singapore-onenorth, #anns:1262
+scene-0991, Parking lot, cones, ped on sidewalk [18-09-25 03:20:12]   20s, singapore-onenorth, #anns:1876
+scene-0962, Bus, many peds, changing lane, parked v... [18-09-25 05:19:15]   20s, singapore-onenorth, #anns:559
+scene-0963, Motorcycle, wait at intersection, cones... [18-09-25 05:19:35]   19s, singapore-onenorth, #anns:1712
+scene-0966, Many peds, construction, peds unloading... [18-09-25 05:20:59]   20s, singapore-onenorth, #anns:1985
+scene-0967, Peds on sidewalk, parked cars, parked m... [18-09-25 05:21:39]   20s, singapore-onenorth, #anns:734
+scene-0968, Wait at intersection, peds on sidewalk,... [18-09-25 05:22:34]   20s, singapore-onenorth, #anns:1537
+scene-0969, Cones, cars, many peds, changing lane, ... [18-09-25 05:22:54]   20s, singapore-onenorth, #anns:1910
+scene-0971, Cross T junction, peds, parked motorcyc... [18-09-25 05:23:34]   19s, singapore-onenorth, #anns:1544
+scene-0972, Parked bicycles, peds, ped walk along t... [18-09-25 05:23:54]   20s, singapore-onenorth, #anns:1119
+scene-0945, Enter road, turn left, workers, constru... [18-09-26 03:17:45]   20s, singapore-onenorth, #anns:3010
+scene-0947, Many peds, jaywalker, parked motorcycle... [18-09-26 03:18:25]   20s, singapore-onenorth, #anns:1126
+scene-0949, Parking lot, barriers, people at parkin... [18-09-26 03:20:10]   20s, singapore-onenorth, #anns:1821
+scene-0952, Parked vehicles, construction worker, p... [18-09-26 03:21:59]   20s, singapore-onenorth, #anns:584
+scene-0953, Peds in sidewalk, parked vehicles, jayw... [18-09-26 03:22:39]   20s, singapore-onenorth, #anns:473
+scene-0955, Parked scooter, peds, parked bicycles, ... [18-09-26 03:23:19]   20s, singapore-onenorth, #anns:657
+scene-0956, Many peds, stopped car, peds crossing c... [18-09-26 03:23:39]   20s, singapore-onenorth, #anns:1164
+scene-0957, Waiting at red light, peds, motorcycle [18-09-26 03:23:59]   20s, singapore-onenorth, #anns:787
+scene-0958, Motorcycle, peds, ped crossing crosswal... [18-09-26 03:24:19]   20s, singapore-onenorth, #anns:849
+scene-0959, Parked vehicles, person lifting box, pe... [18-09-26 03:24:39]   20s, singapore-onenorth, #anns:682
+scene-0960, Parked motorcycle, motorcyclist, parked... [18-09-26 03:24:59]   20s, singapore-onenorth, #anns:428
+scene-0961, Construction workers, barriers, constru... [18-09-26 03:25:19]   20s, singapore-onenorth, #anns:829
+scene-0399, Wait at highway-like intersection, many... [18-09-27 07:33:41]   20s, singapore-hollandv, #anns:1471
+scene-0400, Wait at highway-like intersection, many... [18-09-27 07:34:01]   19s, singapore-hollandv, #anns:860
+scene-0401, Turn right, residential area, construct... [18-09-27 07:34:32]   20s, singapore-hollandv, #anns:993
+scene-0402, Residential area, many cars on the oppo... [18-09-27 07:34:52]   20s, singapore-hollandv, #anns:1281
+scene-0403, Residential area, parked bike, rubbish ... [18-09-27 07:35:12]   20s, singapore-hollandv, #anns:516
+scene-0405, Residential area, turn right, cross int... [18-09-27 07:35:52]   20s, singapore-hollandv, #anns:505
+scene-0406, Residential area, many trash cans, jayw... [18-09-27 07:36:12]   20s, singapore-hollandv, #anns:829
+scene-0407, Residential area, taxi turn right, rubb... [18-09-27 07:36:32]   20s, singapore-hollandv, #anns:665
+scene-0408, Residential area, narrow road, overtake... [18-09-27 07:36:52]   20s, singapore-hollandv, #anns:401
+scene-0410, Residential area, bicycle, bump [18-09-27 07:37:32]   20s, singapore-hollandv, #anns:887
+scene-0411, Residential area, parked bike, rubbish bins [18-09-27 07:37:52]   20s, singapore-hollandv, #anns:1266
+scene-0412, Residential area, rubbish bins, ped hol... [18-09-27 07:38:12]   20s, singapore-hollandv, #anns:726
+scene-0413, Nature, trash cans, narrow road, bump, ... [18-09-27 07:38:32]   20s, singapore-hollandv, #anns:608
+scene-0414, Residential area, turn right, parked bi... [18-09-27 07:38:52]   20s, singapore-hollandv, #anns:552
+scene-0415, Residential area, movable trash cans, n... [18-09-27 07:39:12]   19s, singapore-hollandv, #anns:235
+scene-0416, Nature, garbage bins, driving uphill on... [18-09-27 07:39:32]   20s, singapore-hollandv, #anns:430
+scene-0417, Nature, overtake parked van, rubbish bins [18-09-27 07:39:52]   20s, singapore-hollandv, #anns:262
+scene-0418, Nature, construction worker [18-09-27 07:40:12]   20s, singapore-hollandv, #anns:582
+scene-0419, Residential area, trash cans, stroller,... [18-09-27 07:40:43]   20s, singapore-hollandv, #anns:744
+scene-0794, Wait at intersection, many vehicles, mo... [18-10-02 02:51:44]   20s, singapore-queensto, #anns:1427
+scene-0795, Motorcycle, cars, trucks, bus, cross in... [18-10-02 02:52:04]   20s, singapore-queensto, #anns:1425
+scene-0796, Scooter, peds on sidewalk, bus, cars, t... [18-10-02 02:52:24]   20s, singapore-queensto, #anns:708
+scene-0797, Cars, bus passing by, car overtaking us... [18-10-02 02:52:44]   20s, singapore-queensto, #anns:353
+scene-0798, Start at intersection, dense traffic, s... [18-10-02 02:53:24]   20s, singapore-queensto, #anns:676
+scene-0799, Cars, cross intersection, motorcycle ov... [18-10-02 02:53:44]   20s, singapore-queensto, #anns:625
+scene-0800, Peds on sidewalk, cones, bus, cross int... [18-10-02 02:54:04]   20s, singapore-queensto, #anns:529
+scene-0802, Cones, cross intersection, peds on side... [18-10-02 02:54:44]   20s, singapore-queensto, #anns:691
+scene-0786, Wait at intersection, construction work... [18-10-02 02:59:18]   19s, singapore-queensto, #anns:755
+scene-0787, Parked bicycles, bus stop, peds at bus ... [18-10-02 02:59:38]   19s, singapore-queensto, #anns:402
+scene-0789, Wait at intersection, ped crossing cros... [18-10-02 03:00:18]   20s, singapore-queensto, #anns:647
+scene-0790, Start from intersection, peds siiting, ... [18-10-02 03:00:38]   20s, singapore-queensto, #anns:743
+scene-0791, Peds on sidewalk, children, cross inter... [18-10-02 03:00:58]   20s, singapore-queensto, #anns:458
+scene-0792, Ped on sidewalk, peds, parked bicycle, ... [18-10-02 03:01:18]   19s, singapore-queensto, #anns:743
+scene-0916, Parking lot, bicycle rack, parked bicyc... [18-10-08 07:37:13]   20s, singapore-queensto, #anns:2387
+scene-0917, Peds, jaywalkers, nature, parking lot, ... [18-10-08 07:38:13]   20s, singapore-queensto, #anns:776
+scene-0919, Greeneries, parking lot, parked car, pe... [18-10-08 07:40:33]   20s, singapore-queensto, #anns:94
+scene-0920, Motorcycle, parked cars, peds, truck [18-10-08 07:40:53]   20s, singapore-queensto, #anns:365
+scene-0921, Bus, peds, truck, turn left [18-10-08 07:41:28]   20s, singapore-queensto, #anns:324
+scene-0922, Buses, peds [18-10-08 07:42:40]   20s, singapore-queensto, #anns:392
+scene-0923, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:45:04]   19s, singapore-queensto, #anns:443
+scene-0924, Cleaner cleaning street, nature, parked... [18-10-08 07:47:09]   20s, singapore-queensto, #anns:530
+scene-0925, Wait, peds crossing crosswalk, bus [18-10-08 07:48:29]   20s, singapore-queensto, #anns:490
+scene-0926, Intersection, turn right, ped on the si... [18-10-08 07:49:09]   20s, singapore-queensto, #anns:481
+scene-0927, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:49:29]   20s, singapore-queensto, #anns:793
+scene-0928, Peds on sidewalk, parked cars, intersec... [18-10-08 07:49:49]   19s, singapore-queensto, #anns:1456
+scene-0929, Ped, car, turn right, peds on sidewalk,... [18-10-08 07:50:09]   19s, singapore-queensto, #anns:320
+scene-0930, Intersection, ped on sidewalk, motorcyc... [18-10-08 07:50:29]   20s, singapore-queensto, #anns:603
+scene-0931, Turn right, parked scooters, nature, pa... [18-10-08 07:50:49]   20s, singapore-queensto, #anns:1368
+scene-0420, Exit parking lot, turn left, peds, park... [18-10-08 07:52:30]   20s, singapore-queensto, #anns:1628
+scene-0421, Gate, peds at sidewalk, following by a ... [18-10-08 07:52:50]   20s, singapore-queensto, #anns:463
+scene-0422, Buses, overtake stopped car, peds, arri... [18-10-08 07:53:10]   19s, singapore-queensto, #anns:595
+scene-0423, Many peds, peds walking in street, turn... [18-10-08 07:53:30]   20s, singapore-queensto, #anns:1616
+scene-0424, Bump, peds, bus, turn left [18-10-08 07:53:50]   20s, singapore-queensto, #anns:859
+scene-0425, Turn left, scooter, turn left, bus with... [18-10-08 07:54:10]   20s, singapore-queensto, #anns:526
+scene-0426, Bus, unloading van, peds, parking lot, ... [18-10-08 07:54:30]   20s, singapore-queensto, #anns:751
+scene-0427, Parking lot, many peds, bump, buses, co... [18-10-08 07:54:50]   20s, singapore-queensto, #anns:1262
+scene-0428, Avoid congestion, drive uphill, barrier... [18-10-08 07:57:00]   20s, singapore-queensto, #anns:722
+scene-0429, Half-open parking garage, parked scoote... [18-10-08 07:57:20]   20s, singapore-queensto, #anns:952
+scene-0430, Nature, garbage [18-10-08 07:57:40]   20s, singapore-queensto, #anns:243
+scene-0431, Nature, low traffic, ped, parked scoote... [18-10-08 07:58:00]   20s, singapore-queensto, #anns:413
+scene-0432, Nature, parking bay, bus stop, many ped... [18-10-08 07:58:20]   19s, singapore-queensto, #anns:666
+scene-0433, Unusual buildings, ped, slope, low traffic [18-10-08 07:58:40]   20s, singapore-queensto, #anns:81
+scene-0434, Unusual buildings, crosswalk, bump, low... [18-10-08 07:59:00]   20s, singapore-queensto, #anns:59
+scene-0435, Unusual buildings, slope, turn right, p... [18-10-08 07:59:20]   20s, singapore-queensto, #anns:390
+scene-0436, Turn left, scooter, arrive at intersection [18-10-08 07:59:49]   20s, singapore-queensto, #anns:642
+scene-0437, Low traffic, cross intersection, crossw... [18-10-08 08:01:19]   19s, singapore-queensto, #anns:147
+scene-0438, Peds, bus stop, barriers [18-10-08 08:01:39]   20s, singapore-queensto, #anns:287
+scene-0439, Parking lot, peds, parked bicycle [18-10-08 08:01:59]   20s, singapore-queensto, #anns:671
+scene-0847, Bicycle rack, motorcycle, bus stops, lo... [18-10-08 08:03:29]   20s, singapore-queensto, #anns:94
+scene-0848, Parked bicycle, jaywalker, bus, peds on... [18-10-08 08:03:49]   20s, singapore-queensto, #anns:670
+scene-0849, Cars, cross intersection, peds on sidew... [18-10-08 08:04:09]   20s, singapore-queensto, #anns:451
+scene-0850, Car overtaking us, peds on sidewalk, cones [18-10-08 08:04:29]   20s, singapore-queensto, #anns:326
+scene-0851, Cones, cross intersection, construction... [18-10-08 08:04:49]   20s, singapore-queensto, #anns:1017
+scene-0852, Many peds, jaywalkers, cars, parked mot... [18-10-08 08:05:09]   20s, singapore-queensto, #anns:839
+scene-0853, Turn left, cars [18-10-08 08:05:29]   20s, singapore-queensto, #anns:830
+scene-0854, Lane change, dense traffic, buses, cars... [18-10-08 08:05:49]   20s, singapore-queensto, #anns:668
+scene-0855, Ped on sidewalk, turn right, truck, car... [18-10-08 08:06:09]   20s, singapore-queensto, #anns:689
+scene-0856, Parked buses, parked bicycles, many ped... [18-10-08 08:07:17]   20s, singapore-queensto, #anns:445
+scene-0858, Bus, cars, motorcycles, turn left, peds... [18-10-08 08:08:37]   20s, singapore-queensto, #anns:963
+scene-0860, Parking lot, peds on sidewalk, jaywalke... [18-10-08 08:09:17]   20s, singapore-queensto, #anns:637
+scene-0861, Wait at intersection, nature, scooters,... [18-10-08 08:09:37]   20s, singapore-queensto, #anns:826
+scene-0862, Motorcycles, parked bicycle, cross inte... [18-10-08 08:09:57]   19s, singapore-queensto, #anns:773
+scene-0863, Turn right, motorcycle, cross intersect... [18-10-08 08:10:17]   20s, singapore-queensto, #anns:574
+scene-0864, Car passing by, parking lot, cones, bus... [18-10-08 08:10:37]   20s, singapore-queensto, #anns:812
+scene-0865, Many peds, parking lot, parked bicycle,... [18-10-08 08:10:57]   20s, singapore-queensto, #anns:999
+scene-0866, Cross intersection, parking lot, peds o... [18-10-08 08:11:37]   20s, singapore-queensto, #anns:815
+scene-0992, Night, ped in dark, parked cars [18-11-14 10:58:01]   20s, singapore-queensto, #anns:306
+scene-0994, Night, bump, ped in dark, low traffic, ... [18-11-14 10:59:21]   20s, singapore-queensto, #anns:141
+scene-0995, Night, ped, bus, slope, flyover [18-11-14 10:59:41]   19s, singapore-queensto, #anns:199
+scene-0996, Night, gate, bus, bus stop, cyclist, peds [18-11-14 11:00:01]   20s, singapore-queensto, #anns:499
+scene-0997, Night, bridge, oncoming cars, scooter, ... [18-11-14 11:00:41]   20s, singapore-queensto, #anns:254
+scene-0998, Night, roundabout, bus, ped crossing cr... [18-11-14 11:01:01]   20s, singapore-queensto, #anns:610
+scene-0999, Night, ped, slope, distant cars, view down [18-11-14 11:01:21]   20s, singapore-queensto, #anns:639
+scene-1000, Night, turn right, peds, lights [18-11-14 11:01:41]   20s, singapore-queensto, #anns:482
+scene-1001, Night, bump, bus, peds, lights [18-11-14 11:02:21]   20s, singapore-queensto, #anns:541
+scene-1002, Night, lane change, bump, turn left, pe... [18-11-14 11:03:01]   20s, singapore-queensto, #anns:486
+scene-1003, Night, ped running, peds, bus [18-11-14 11:03:41]   20s, singapore-queensto, #anns:563
+scene-1004, Night, many peds, parking lots [18-11-14 11:04:21]   20s, singapore-queensto, #anns:1564
+scene-1005, Night, bus, peds, crosswalk, parking lot [18-11-14 11:04:41]   20s, singapore-queensto, #anns:655
+scene-1006, Night, bus, peds, parked cars, sitting ped [18-11-14 11:05:01]   20s, singapore-queensto, #anns:824
+scene-1007, Night, truck, turn left [18-11-14 11:05:21]   19s, singapore-queensto, #anns:312
+scene-1008, Night, peds in dark, lights, scooters, ... [18-11-14 11:06:01]   19s, singapore-queensto, #anns:445
+scene-1009, Night, peds on sidewalk, slope, motorcy... [18-11-14 11:06:21]   20s, singapore-queensto, #anns:548
+scene-1010, Night, bus, peds wearing dark clothes, ... [18-11-14 11:06:41]   20s, singapore-queensto, #anns:210
+scene-1011, Night, bus, parked cars, peds [18-11-14 11:09:52]   20s, singapore-queensto, #anns:389
+scene-1012, Night, peds, cars [18-11-14 11:10:12]   20s, singapore-queensto, #anns:299
+scene-1013, Night, cars, bus [18-11-14 11:10:32]   20s, singapore-queensto, #anns:203
+scene-1014, Night, bump, cars, turn right, bus, ped... [18-11-14 11:10:52]   20s, singapore-queensto, #anns:548
+scene-1015, Night, peds, bus stop, turn left, low t... [18-11-14 11:11:12]   19s, singapore-queensto, #anns:301
+scene-1016, Night, peds, bus stop, bump, ped crossi... [18-11-14 11:13:55]   19s, singapore-queensto, #anns:1148
+scene-1017, Night, ped, cars, bump, scooter, congestion [18-11-14 11:14:15]   19s, singapore-queensto, #anns:1132
+scene-1018, Night, turn right, cars, bus, bus stop,... [18-11-14 11:14:35]   20s, singapore-queensto, #anns:598
+scene-1019, Night, scooter, light, peds crossing cr... [18-11-14 11:15:00]   20s, singapore-queensto, #anns:1763
+scene-1020, Night, peds, bus, bus stop [18-11-14 11:15:20]   19s, singapore-queensto, #anns:372
+scene-1021, Night, peds in dark, arrive at intersec... [18-11-14 11:15:40]   20s, singapore-queensto, #anns:285
+scene-1022, Night, bus, bump, scooter, peds, very d... [18-11-14 11:16:00]   20s, singapore-queensto, #anns:548
+scene-1023, Night, bus, wait [18-11-14 11:16:20]   20s, singapore-queensto, #anns:470
+scene-1024, Night, peds, bus [18-11-14 11:16:40]   20s, singapore-queensto, #anns:510
+scene-1025, Night, peds, parked cars, cyclist [18-11-14 11:19:22]   20s, singapore-queensto, #anns:495
+scene-1044, Night, motorcycles, dense traffic, cong... [18-11-21 11:11:31]   20s, singapore-hollandv, #anns:973
+scene-1045, Night, wait at intersection, dense traf... [18-11-21 11:11:51]   20s, singapore-hollandv, #anns:863
+scene-1046, Night, wait at intersection, dense traf... [18-11-21 11:12:11]   20s, singapore-hollandv, #anns:1001
+scene-1047, Night, dense traffic, congestion, motor... [18-11-21 11:12:51]   20s, singapore-hollandv, #anns:970
+scene-1048, Night, dense traffic, congestion, motor... [18-11-21 11:13:11]   20s, singapore-hollandv, #anns:1073
+scene-1049, Night, bump, motorcycle, bus, high spee... [18-11-21 11:13:31]   20s, singapore-hollandv, #anns:1140
+scene-1050, Night, many trash cans, followed by sco... [18-11-21 11:13:51]   19s, singapore-hollandv, #anns:808
+scene-1051, Night, bus, motorcycle, bus stop [18-11-21 11:14:11]   20s, singapore-hollandv, #anns:292
+scene-1052, Night, bump, parked car, trash bin [18-11-21 11:15:31]   20s, singapore-hollandv, #anns:1082
+scene-1053, Night, rain, bump, peds, congestion, pa... [18-11-21 11:15:51]   20s, singapore-hollandv, #anns:888
+scene-1054, Night, turn left, bumps, lightning [18-11-21 11:16:31]   19s, singapore-hollandv, #anns:439
+scene-1055, Night, bump, dark, ped in dark [18-11-21 11:17:11]   20s, singapore-hollandv, #anns:674
+scene-1056, Night, construction, trash bins, bump, ... [18-11-21 11:17:31]   20s, singapore-hollandv, #anns:742
+scene-1057, Night, trash cans, dark, nature, slope,... [18-11-21 11:18:51]   20s, singapore-hollandv, #anns:211
+scene-1058, Night, nature, car, turn, peds in sidew... [18-11-21 11:19:11]   20s, singapore-hollandv, #anns:266
+scene-1059, Night, residential, car turning [18-11-21 11:22:02]   20s, singapore-hollandv, #anns:723
+scene-1060, Night, rain, turn, ped in dark [18-11-21 11:22:22]   20s, singapore-hollandv, #anns:166
+scene-1061, Night, turn, trash can, residential [18-11-21 11:23:22]   20s, singapore-hollandv, #anns:199
+scene-1062, Night, difficult lighting, parked bicyc... [18-11-21 11:23:42]   20s, singapore-hollandv, #anns:612
+scene-1063, Night, bump, ped, difficult lighting, t... [18-11-21 11:24:42]   20s, singapore-hollandv, #anns:229
+scene-1064, Night, trash cans, wait for scooter, tu... [18-11-21 11:25:22]   20s, singapore-hollandv, #anns:473
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186
+scene-1066, Night, bump, scooter, difficult lighting [18-11-21 11:26:02]   20s, singapore-hollandv, #anns:347
+scene-1067, Night, rain, bump, ped in dark, arrive ... [18-11-21 11:26:22]   20s, singapore-hollandv, #anns:381
+scene-1068, Night, wait at intersection, motorcycle... [18-11-21 11:26:42]   20s, singapore-hollandv, #anns:329
+scene-1069, Night, truck, congestion, parked bicycle [18-11-21 11:27:02]   20s, singapore-hollandv, #anns:621
+scene-1070, Night, congestion, peds, motorcycle [18-11-21 11:27:22]   20s, singapore-hollandv, #anns:333
+scene-1071, Night, scooters, peds, parked bicycle, ... [18-11-21 11:27:42]   20s, singapore-hollandv, #anns:319
+scene-1072, Night, bus stop, scooter, trash can pus... [18-11-21 11:28:22]   19s, singapore-hollandv, #anns:1058
+scene-1073, Night, scooters, turn left, dense traffic [18-11-21 11:29:02]   19s, singapore-hollandv, #anns:622
+scene-1074, Night, rain, high speed, bus stop, bus,... [18-11-21 11:38:27]   19s, singapore-hollandv, #anns:191
+scene-1075, Night, bus, parked cars, bus stop, peds... [18-11-21 11:38:47]   20s, singapore-hollandv, #anns:1075
+scene-1076, Night, trash cans, scooter, ped, turn left [18-11-21 11:39:07]   20s, singapore-hollandv, #anns:946
+scene-1077, Night, big street, bus stop, high speed... [18-11-21 11:39:27]   20s, singapore-hollandv, #anns:890
+scene-1078, Night, big street, high speed, scooters... [18-11-21 11:39:47]   20s, singapore-hollandv, #anns:420
+scene-1079, Night, big street, high speed, arrive a... [18-11-21 11:40:07]   19s, singapore-hollandv, #anns:378
+scene-1080, Night, big street, dense traffic, scooters [18-11-21 11:40:27]   20s, singapore-hollandv, #anns:759
+scene-1081, Night, rain, big street, congestion, ca... [18-11-21 11:40:47]   20s, singapore-hollandv, #anns:630
+scene-1082, Night, big street, wait at intersection [18-11-21 11:41:07]   19s, singapore-hollandv, #anns:694
+scene-1083, Night, big street, bus, scooter, turn right [18-11-21 11:41:47]   20s, singapore-hollandv, #anns:897
+scene-1084, Night, scooter, peds, bus stop, parked ... [18-11-21 11:42:07]   20s, singapore-hollandv, #anns:1443
+scene-1085, Night, many peds, parked bicycles, turn... [18-11-21 11:42:27]   20s, singapore-hollandv, #anns:1526
+scene-1086, Night, bumps, parked car, peds, trash cans [18-11-21 11:42:48]   20s, singapore-hollandv, #anns:870
+scene-1087, Night, residential area, low traffic, t... [18-11-21 11:43:27]   20s, singapore-hollandv, #anns:678
+scene-1088, Night, peds, trash cans, ped walking do... [18-11-21 11:43:48]   20s, singapore-hollandv, #anns:1117
+scene-1089, Night, turn left, bump, trash cans, tur... [18-11-21 11:44:28]   20s, singapore-hollandv, #anns:673
+scene-1090, Night, trash cans, parked car, ped in d... [18-11-21 11:44:47]   20s, singapore-hollandv, #anns:1367
+scene-1091, Night, parked cars, peds, turn right, d... [18-11-21 11:45:27]   20s, singapore-hollandv, #anns:919
+scene-1092, Night, many peds, many trash cans, ped ... [18-11-21 11:46:27]   20s, singapore-hollandv, #anns:1063
+scene-1093, Night, wait at intersection, peds cross... [18-11-21 11:47:07]   20s, singapore-hollandv, #anns:2106
+scene-1094, Night, after rain, many peds, PMD, ped ... [18-11-21 11:47:27]   19s, singapore-hollandv, #anns:1762
+scene-1095, Night, rain, lane change, cross interse... [18-11-21 11:47:47]   20s, singapore-hollandv, #anns:611
+scene-1096, Night, wait at intersection, peds cross... [18-11-21 11:48:27]   20s, singapore-hollandv, #anns:929
+scene-1097, Night, scooter, start at intersection, ... [18-11-21 11:48:47]   20s, singapore-hollandv, #anns:753
+scene-1098, Night, peds, scooter, bus, waiting at i... [18-11-21 11:49:07]   20s, singapore-hollandv, #anns:977
+scene-1099, Night, wait at busy intersection, peds,... [18-11-21 11:49:27]   19s, singapore-hollandv, #anns:1110
+scene-1100, Night, peds in sidewalk, peds cross cro... [18-11-21 11:49:47]   19s, singapore-hollandv, #anns:935
+scene-1101, Night, buses, peds, rain, right turn [18-11-21 11:50:07]   20s, singapore-hollandv, #anns:561
+scene-1102, Night, rain, scooter, cars, high speed,... [18-11-21 11:54:07]   20s, singapore-hollandv, #anns:369
+scene-1104, Night, truck, rain, cross intersection [18-11-21 11:54:47]   20s, singapore-hollandv, #anns:765
+scene-1105, Night, ped, avoid parked car, parked cars [18-11-21 11:55:27]   20s, singapore-hollandv, #anns:435
+scene-1106, Night, rain, high speed, scooter, bus s... [18-11-21 11:59:33]   19s, singapore-hollandv, #anns:186
+scene-1107, Night, rain, high speed, scooter, dense... [18-11-21 11:59:53]   20s, singapore-hollandv, #anns:489
+scene-1108, Night, wet front camera, rain, bus, wai... [18-11-21 12:00:54]   19s, singapore-hollandv, #anns:656
+scene-1109, Night, rain, bus, lightning [18-11-21 12:01:34]   19s, singapore-hollandv, #anns:525
+scene-1110, Night, rain, bus, turn right, peds, bus... [18-11-21 12:01:53]   20s, singapore-hollandv, #anns:1165
+None

@@ -54,11 +54,11 @@ python scripts/gen_depth_gt.py
 ### Tutorials
 **Train.**
 ```
-python [EXP_PATH] --amp_backend native -b 8 --gpus 8
+python /home/notebook/data/group/zhangrongyu/code/BEVDepth/exps/bev_depth_lss_r50_256x704_128x128_24e.py --amp_backend native -b 8 --gpus 2
 ```
 **Eval.**
 ```
-python [EXP_PATH] --ckpt_path [CKPT_PATH] -e -b 8 --gpus 8
+python /home/notebook/data/group/zhangrongyu/code/BEVDepth/exps/bev_depth_lss_r50_256x704_128x128_24e.py --ckpt_path /home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bev-uda-boston/lightning_logs/version_0/checkpoints/epoch=23-step=23543.ckpt -e -b 4 --gpus 1
 ```
 
 ### Benchmark

@@ -1,0 +1,298 @@
+scene-0440, Rain, small crane, parking lot [18-09-18 16:08:27]   20s, boston-seaport, #anns:1316
+scene-0441, Rain, cross intersection, lane change, ... [18-09-18 16:08:47]   20s, boston-seaport, #anns:2900
+scene-0442, Rain, parked truck trailers, parked cars [18-09-18 16:09:07]   20s, boston-seaport, #anns:1403
+scene-0443, Rain, crane, parking lot, overtake stop... [18-09-18 16:10:04]   20s, boston-seaport, #anns:1660
+scene-0444, Rain, parked vehicles, parking lot, ben... [18-09-18 16:10:24]   20s, boston-seaport, #anns:1638
+scene-0445, Rain, parking lot [18-09-18 16:10:44]   20s, boston-seaport, #anns:1473
+scene-0446, Rain, turn left, turn left [18-09-18 16:11:04]   20s, boston-seaport, #anns:1132
+scene-0447, Rain, parking lot, turn left [18-09-18 16:12:00]   19s, boston-seaport, #anns:2176
+scene-0448, Rain, parked trailers, parked trucks, f... [18-09-18 16:12:20]   20s, boston-seaport, #anns:1299
+scene-0449, Rain, parking lot, turn left, barriers,... [18-09-18 16:12:40]   20s, boston-seaport, #anns:1402
+scene-0450, Rain, parking lot, many trucks, peds [18-09-18 16:13:30]   19s, boston-seaport, #anns:1786
+scene-0451, Rain, turn right, truck [18-09-18 16:14:05]   20s, boston-seaport, #anns:960
+scene-0452, Rain, wet ground, bendy bus, parked car [18-09-18 16:14:25]   20s, boston-seaport, #anns:903
+scene-0453, Rain, turn right, truck [18-09-18 16:14:45]   20s, boston-seaport, #anns:1299
+scene-0454, Rain, turn left, bike rack, parking lot [18-09-18 16:15:05]   20s, boston-seaport, #anns:1909
+scene-0455, Rain, bus, jaywalker, parking lot, park... [18-09-18 16:15:25]   20s, boston-seaport, #anns:2731
+scene-0456, Rain, parking lot, bicycle rack, turn r... [18-09-18 16:15:45]   20s, boston-seaport, #anns:1864
+scene-0457, Rain, turn right, parking lot, wait at ... [18-09-18 16:55:31]   20s, boston-seaport, #anns:2465
+scene-0458, Rain, turn left, bus stop, parked cars [18-09-18 16:55:51]   20s, boston-seaport, #anns:1748
+scene-0459, Rain, parking lot, crane [18-09-18 16:56:11]   20s, boston-seaport, #anns:2380
+scene-0461, Rain, turn right, heavy truck with empt... [18-09-18 16:56:51]   20s, boston-seaport, #anns:1222
+scene-0462, Rain, cross intersection, parking lot, ... [18-09-18 16:57:11]   20s, boston-seaport, #anns:1249
+scene-0463, Rain, FedEx truck loaded on trailer, tr... [18-09-18 16:57:31]   20s, boston-seaport, #anns:1058
+scene-0464, Rain, wait at intersection, ped crossin... [18-09-18 16:58:01]   20s, boston-seaport, #anns:1229
+scene-0465, Rain, start at intersection, wet ground... [18-09-18 16:58:47]   20s, boston-seaport, #anns:1162
+scene-0467, Rain, wait at intersection, flipped con... [18-09-18 16:59:21]   20s, boston-seaport, #anns:1411
+scene-0468, Rain, wait at intersection, flipped con... [18-09-18 16:59:41]   20s, boston-seaport, #anns:1024
+scene-0469, Rain, truck, cross intersection, ped, p... [18-09-18 17:00:01]   20s, boston-seaport, #anns:1214
+scene-0471, Rain, parked cars, construction [18-09-18 17:00:41]   19s, boston-seaport, #anns:2077
+scene-0472, Rain, construction, wheel barrows [18-09-18 17:01:01]   19s, boston-seaport, #anns:2415
+scene-0474, Rain, start at intersection, bridge, ra... [18-09-18 17:02:21]   20s, boston-seaport, #anns:2172
+scene-0475, Rain, bridge, peds shrinking due to rai... [18-09-18 17:02:41]   20s, boston-seaport, #anns:1401
+scene-0476, Rain, turn right, peds, bridge, peds wi... [18-09-18 17:03:01]   20s, boston-seaport, #anns:1028
+scene-0477, Rain, bridge, peds crossing, peds sidew... [18-09-18 17:03:21]   20s, boston-seaport, #anns:1020
+scene-0478, Rain, waiting traffic light, oncoming b... [18-09-18 17:03:41]   19s, boston-seaport, #anns:1373
+scene-0479, Rain, many peds, jaywalker, bicycle rac... [18-09-18 17:04:01]   20s, boston-seaport, #anns:2046
+scene-0480, Rain, parked cars, bicycle, parking lot [18-09-18 17:04:56]   19s, boston-seaport, #anns:2392
+scene-0566, Rain, turn right, parked cars, car turn... [18-09-18 17:11:06]   20s, boston-seaport, #anns:2061
+scene-0568, Rain, parked cars, parked truck on the lane [18-09-18 17:12:16]   20s, boston-seaport, #anns:651
+scene-0570, Rain, wait at intersection, turn right,... [18-09-18 17:12:56]   20s, boston-seaport, #anns:2130
+scene-0571, Rain, many parked trucks, cross interse... [18-09-18 17:13:16]   20s, boston-seaport, #anns:1088
+scene-0572, Rain, parked trailers, fence, parked ca... [18-09-18 17:13:36]   20s, boston-seaport, #anns:1082
+scene-0573, Rain, parked cars, ped, parked trucks, ... [18-09-18 17:13:56]   20s, boston-seaport, #anns:1251
+scene-0574, Rain, turn left, parked cars, wait at i... [18-09-18 17:14:16]   20s, boston-seaport, #anns:902
+scene-0575, Rain, parked cars, cones, construction ... [18-09-18 17:14:36]   20s, boston-seaport, #anns:1075
+scene-0576, Rain, construction, ped on road, turn right [18-09-18 17:15:01]   19s, boston-seaport, #anns:1332
+scene-0577, Rain, turn right, bicycle rack, cross i... [18-09-18 17:15:41]   20s, boston-seaport, #anns:524
+scene-0578, Rain, cross intersection [18-09-18 17:16:41]   20s, boston-seaport, #anns:1506
+scene-0580, Rain, long street, parked car [18-09-18 17:17:41]   20s, boston-seaport, #anns:899
+scene-0582, Rain, parked cars, turn right, peds, we... [18-09-18 17:18:43]   20s, boston-seaport, #anns:778
+scene-0583, Rain, parking lot, stopped briefly at i... [18-09-18 17:19:03]   20s, boston-seaport, #anns:1728
+scene-0584, Rain, turn right, exiting car, parking lot [18-09-18 17:43:31]   20s, boston-seaport, #anns:2386
+scene-0585, Rain, construction vehicles, cross inte... [18-09-18 17:44:31]   20s, boston-seaport, #anns:2716
+scene-0586, Rain, construction, parked car, close t... [18-09-18 17:44:51]   20s, boston-seaport, #anns:3048
+scene-0587, Rain, wait at intersection, truck [18-09-18 17:45:11]   20s, boston-seaport, #anns:1642
+scene-0588, Rain, turn right, parking lot [18-09-18 17:45:31]   19s, boston-seaport, #anns:1572
+scene-0589, Rain, turn right, cars waiting at inter... [18-09-18 17:46:11]   20s, boston-seaport, #anns:646
+scene-0590, Rain, cluster of traffic cones, wait at... [18-09-18 17:46:31]   19s, boston-seaport, #anns:1192
+scene-0591, Rain, cross intersection, wait at inter... [18-09-18 17:46:51]   20s, boston-seaport, #anns:894
+scene-0592, Rain, wait at intersection, turn left, ... [18-09-18 17:47:51]   20s, boston-seaport, #anns:1679
+scene-0593, Rain, wait at intersection, peds crossing [18-09-18 17:48:43]   20s, boston-seaport, #anns:890
+scene-0594, Rain, turn right, arrive at intersectio... [18-09-18 17:49:03]   20s, boston-seaport, #anns:1546
+scene-0595, Rain, wait at intersection, peds, const... [18-09-18 17:49:43]   20s, boston-seaport, #anns:847
+scene-0596, Rain, wait at intersection, start at in... [18-09-18 17:53:16]   20s, boston-seaport, #anns:1468
+scene-0597, Rain, parked cars, peds and children, p... [18-09-18 17:53:36]   20s, boston-seaport, #anns:1456
+scene-0598, Rain, construction, turn right, roundabout [18-09-18 17:54:36]   20s, boston-seaport, #anns:2138
+scene-0599, Rain, peds, construction, turn right, c... [18-09-18 17:54:56]   20s, boston-seaport, #anns:1823
+scene-0600, Rain, parked busses, parking lot [18-09-18 17:55:16]   20s, boston-seaport, #anns:1053
+scene-0625, Rain, peds, construction [18-09-18 18:36:53]   20s, boston-seaport, #anns:921
+scene-0626, Rain, construction, bendy bus, roundabout [18-09-18 18:37:13]   20s, boston-seaport, #anns:1831
+scene-0627, Rain, industrial [18-09-18 18:37:53]   20s, boston-seaport, #anns:859
+scene-0629, Rain, industrial, turn twice [18-09-18 18:38:33]   20s, boston-seaport, #anns:2256
+scene-0630, Rain, construction, fence, special cons... [18-09-18 18:39:06]   20s, boston-seaport, #anns:684
+scene-0632, Rain, industrial, turn right, turn righ... [18-09-18 18:39:46]   20s, boston-seaport, #anns:351
+scene-0633, Rain, industrial, parked trucks at park... [18-09-18 18:40:35]   20s, boston-seaport, #anns:796
+scene-0634, Rain, industrial, parking lot, semi bac... [18-09-18 18:40:55]   20s, boston-seaport, #anns:2416
+scene-0636, Rain, turn right, parked trucks [18-09-18 18:41:55]   20s, boston-seaport, #anns:819
+scene-0637, Rain, parked cars, peds, jaywalker, wat... [18-09-18 18:42:55]   19s, boston-seaport, #anns:1498
+scene-0638, Rain, turn left, water reflections, jay... [18-09-18 18:43:15]   20s, boston-seaport, #anns:1233
+scene-0639, Rain, arrive at intersection, parked ve... [18-09-18 18:45:24]   20s, boston-seaport, #anns:1128
+scene-0640, Rain, cross bridge, truck [18-09-18 18:45:44]   19s, boston-seaport, #anns:715
+scene-0641, Rain, cross intersection, parked cars, ... [18-09-18 18:46:04]   20s, boston-seaport, #anns:1246
+scene-0642, Rain, parked cars, parked bicycle [18-09-18 18:46:24]   20s, boston-seaport, #anns:1143
+scene-0643, Rain, parked cars, bicycle rack, parked... [18-09-18 18:46:44]   20s, boston-seaport, #anns:1164
+scene-0644, Rain, parked cars, parking lot, ped, pa... [18-09-18 18:47:04]   19s, boston-seaport, #anns:1127
+scene-0645, Rain, parked cars, wait at intersection... [18-09-18 18:47:24]   20s, boston-seaport, #anns:1123
+scene-0647, Rain, parked cars, parked buses [18-09-18 18:48:04]   20s, boston-seaport, #anns:2437
+scene-0648, Rain, cross intersection, reflections, ... [18-09-18 18:48:24]   20s, boston-seaport, #anns:1227
+scene-0649, Rain, parked scooter, parked bicycle, w... [18-09-18 18:48:44]   20s, boston-seaport, #anns:294
+scene-0650, Rain, reflections, parking lot, arrive ... [18-09-18 18:50:01]   20s, boston-seaport, #anns:1798
+scene-0651, Rain, start at intersection, parked car... [18-09-18 18:50:41]   20s, boston-seaport, #anns:1102
+scene-0652, Rain, wait at intersection, peds crossi... [18-09-18 18:51:25]   20s, boston-seaport, #anns:1434
+scene-0868, Rain, turn right, bridge, peds, ships, ... [18-09-18 18:55:26]   20s, boston-seaport, #anns:567
+scene-0869, Rain, peds, bridge, parked cars, parkin... [18-09-18 18:55:45]   20s, boston-seaport, #anns:2226
+scene-0870, Rain, waiting at red light, parked cars... [18-09-18 18:56:23]   20s, boston-seaport, #anns:1179
+scene-0871, Rain, parked cars, parked bicycle, peds... [18-09-18 18:56:43]   20s, boston-seaport, #anns:1049
+scene-0872, Rain, peds, truck, wait at red light, p... [18-09-18 18:57:03]   20s, boston-seaport, #anns:1421
+scene-0873, Rain, waiting at intersection, jaywalke... [18-09-18 18:57:38]   20s, boston-seaport, #anns:2161
+scene-0875, Rain, wait at intersection, constructio... [18-09-18 18:58:52]   19s, boston-seaport, #anns:2682
+scene-0876, Rain, construction site, cones, barrier... [18-09-18 18:59:12]   20s, boston-seaport, #anns:2540
+scene-0877, Rain, parked cars, barriers, cones, con... [18-09-18 18:59:33]   19s, boston-seaport, #anns:2170
+scene-0878, Rain, bus, parked cars, parked scooter,... [18-09-18 18:59:52]   20s, boston-seaport, #anns:952
+scene-0880, Rain, parked cars, parked bicycle, park... [18-09-18 19:00:32]   20s, boston-seaport, #anns:1364
+scene-0882, Rain, wait at intersection, truck, park... [18-09-18 19:02:12]   20s, boston-seaport, #anns:878
+scene-0883, Rain, peds, parking lot, truck, waiting... [18-09-18 19:02:32]   20s, boston-seaport, #anns:2240
+scene-0884, Rain, jaywalker, truck, parked cars, st... [18-09-18 19:03:33]   20s, boston-seaport, #anns:598
+scene-0885, Rain, truck, peds, parked cars, ships [18-09-18 19:03:53]   20s, boston-seaport, #anns:802
+scene-0886, Rain, peds, truck, ships, cones, parked... [18-09-18 19:04:13]   20s, boston-seaport, #anns:1576
+scene-0887, Rain, truck, peds, waiting at intersection [18-09-18 19:04:33]   20s, boston-seaport, #anns:949
+scene-0888, Rain, peds, truck, cones, parked cars, ... [18-09-18 19:04:53]   20s, boston-seaport, #anns:1767
+scene-0889, Rain, wait at intersection, bicycle rac... [18-09-18 19:05:13]   20s, boston-seaport, #anns:3029
+scene-0890, Rain, parking lot, parked cars, truck, ... [18-09-18 19:05:33]   20s, boston-seaport, #anns:2110
+scene-0891, Rain, parking lot, parked bicycles, par... [18-09-18 19:05:53]   19s, boston-seaport, #anns:3484
+scene-0892, Rain, parked cars, barriers, peds, park... [18-09-18 19:06:13]   20s, boston-seaport, #anns:2320
+scene-0893, Rain, parked cars, peds, cross intersec... [18-09-18 19:06:33]   20s, boston-seaport, #anns:2320
+scene-0894, Rain, parked cars, peds, cones, jaywalk... [18-09-18 19:06:53]   20s, boston-seaport, #anns:2024
+scene-0895, Rain, parked cars, cones, peds, car lea... [18-09-18 19:07:13]   20s, boston-seaport, #anns:1304
+scene-0896, Rain, parked cars, peds, construction, ... [18-09-18 19:07:33]   20s, boston-seaport, #anns:994
+scene-0897, Rain, parked cars, parking lot, ped cro... [18-09-18 19:07:54]   20s, boston-seaport, #anns:980
+scene-0898, Rain, parked cars, peds, peds crossing ... [18-09-18 19:08:34]   20s, boston-seaport, #anns:1064
+scene-0899, Rain, parked cars, peds, cross intersec... [18-09-18 19:09:37]   20s, boston-seaport, #anns:1024
+scene-0900, Rain, parked cars, peds, parked bicycle... [18-09-18 19:09:57]   20s, boston-seaport, #anns:2547
+scene-0901, Rain, parked cars, parking lot, peds, p... [18-09-18 19:10:17]   20s, boston-seaport, #anns:3182
+scene-0902, Rain, parked cars, parked bicycle, park... [18-09-18 19:10:37]   20s, boston-seaport, #anns:1445
+scene-0903, Rain, wait at intersection, bicycle rac... [18-09-18 19:11:17]   19s, boston-seaport, #anns:1192
+scene-0904, Rain, parked cars, bus, peds, barriers,... [18-09-18 19:12:25]   20s, boston-seaport, #anns:1841
+scene-0905, Rain, construction site, barriers, cone... [18-09-18 19:12:45]   19s, boston-seaport, #anns:1193
+scene-0906, Rain, parked cars, parked bicycle, peds... [18-09-18 19:13:05]   20s, boston-seaport, #anns:1652
+scene-0907, Rain, turn right, parked cars, parking ... [18-09-18 19:13:25]   19s, boston-seaport, #anns:940
+scene-0908, Rain, parked cars, truck, parked scoote... [18-09-18 19:13:45]   20s, boston-seaport, #anns:834
+scene-0909, Rain, ped, cones, parked cars, construc... [18-09-18 19:14:05]   20s, boston-seaport, #anns:1130
+scene-0910, Rain, parked cars, sign trailer, constr... [18-09-18 19:14:25]   19s, boston-seaport, #anns:1544
+scene-0911, Rain, parked cars, trucks, peds crossin... [18-09-18 19:14:45]   20s, boston-seaport, #anns:1314
+scene-0912, Rain, parked cars, trucks, parking lot,... [18-09-18 19:15:25]   20s, boston-seaport, #anns:1418
+scene-0913, Rain, parked cars, semi trailers, barri... [18-09-18 19:16:05]   19s, boston-seaport, #anns:2984
+scene-0914, Rain, parking lot, bicycle rack, buses,... [18-09-18 19:16:45]   20s, boston-seaport, #anns:1074
+scene-0915, Rain, parked cars, turn left, peds, bus... [18-09-18 19:19:05]   20s, boston-seaport, #anns:1573
+scene-0804, Rain, Truck, ped on sidewalk, cars, bus... [18-09-18 19:27:41]   20s, boston-seaport, #anns:1291
+scene-0806, Rain, Wait at intersection, ped push a ... [18-09-18 19:28:21]   20s, boston-seaport, #anns:1143
+scene-0808, Rain, trucks, cars, ped crossing crossw... [18-09-18 19:29:21]   20s, boston-seaport, #anns:1235
+scene-0810, Rain. Truck, buses, cars, peds, jaywalk... [18-09-18 19:30:01]   19s, boston-seaport, #anns:917
+scene-0811, Rain, Wait at intersection, trucks, car... [18-09-18 19:31:21]   20s, boston-seaport, #anns:820
+scene-0813, Rain, Wait at intersection, trucks, car... [18-09-18 19:32:20]   20s, boston-seaport, #anns:372
+scene-0815, Rain, wait at intersection, truck, turn... [18-09-18 19:33:00]   19s, boston-seaport, #anns:963
+scene-0816, Rain, cones, cars, barrier, trailers, t... [18-09-18 19:33:40]   20s, boston-seaport, #anns:1621
+scene-0819, Rain, trucks, parking lot, wait at inte... [18-09-18 19:37:46]   20s, boston-seaport, #anns:918
+scene-0820, Rain, Cross intersection, cross interse... [18-09-18 19:38:06]   20s, boston-seaport, #anns:1271
+scene-0822, Rain, parked cars, peds on sidewalk, co... [18-09-18 19:38:46]   20s, boston-seaport, #anns:1478
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186
+scene-0440, Rain, small crane, parking lot [18-09-18 16:08:27]   20s, boston-seaport, #anns:1316
+scene-0441, Rain, cross intersection, lane change, ... [18-09-18 16:08:47]   20s, boston-seaport, #anns:2900
+scene-0442, Rain, parked truck trailers, parked cars [18-09-18 16:09:07]   20s, boston-seaport, #anns:1403
+scene-0443, Rain, crane, parking lot, overtake stop... [18-09-18 16:10:04]   20s, boston-seaport, #anns:1660
+scene-0444, Rain, parked vehicles, parking lot, ben... [18-09-18 16:10:24]   20s, boston-seaport, #anns:1638
+scene-0445, Rain, parking lot [18-09-18 16:10:44]   20s, boston-seaport, #anns:1473
+scene-0446, Rain, turn left, turn left [18-09-18 16:11:04]   20s, boston-seaport, #anns:1132
+scene-0447, Rain, parking lot, turn left [18-09-18 16:12:00]   19s, boston-seaport, #anns:2176
+scene-0448, Rain, parked trailers, parked trucks, f... [18-09-18 16:12:20]   20s, boston-seaport, #anns:1299
+scene-0449, Rain, parking lot, turn left, barriers,... [18-09-18 16:12:40]   20s, boston-seaport, #anns:1402
+scene-0450, Rain, parking lot, many trucks, peds [18-09-18 16:13:30]   19s, boston-seaport, #anns:1786
+scene-0451, Rain, turn right, truck [18-09-18 16:14:05]   20s, boston-seaport, #anns:960
+scene-0452, Rain, wet ground, bendy bus, parked car [18-09-18 16:14:25]   20s, boston-seaport, #anns:903
+scene-0453, Rain, turn right, truck [18-09-18 16:14:45]   20s, boston-seaport, #anns:1299
+scene-0454, Rain, turn left, bike rack, parking lot [18-09-18 16:15:05]   20s, boston-seaport, #anns:1909
+scene-0455, Rain, bus, jaywalker, parking lot, park... [18-09-18 16:15:25]   20s, boston-seaport, #anns:2731
+scene-0456, Rain, parking lot, bicycle rack, turn r... [18-09-18 16:15:45]   20s, boston-seaport, #anns:1864
+scene-0457, Rain, turn right, parking lot, wait at ... [18-09-18 16:55:31]   20s, boston-seaport, #anns:2465
+scene-0458, Rain, turn left, bus stop, parked cars [18-09-18 16:55:51]   20s, boston-seaport, #anns:1748
+scene-0459, Rain, parking lot, crane [18-09-18 16:56:11]   20s, boston-seaport, #anns:2380
+scene-0461, Rain, turn right, heavy truck with empt... [18-09-18 16:56:51]   20s, boston-seaport, #anns:1222
+scene-0462, Rain, cross intersection, parking lot, ... [18-09-18 16:57:11]   20s, boston-seaport, #anns:1249
+scene-0463, Rain, FedEx truck loaded on trailer, tr... [18-09-18 16:57:31]   20s, boston-seaport, #anns:1058
+scene-0464, Rain, wait at intersection, ped crossin... [18-09-18 16:58:01]   20s, boston-seaport, #anns:1229
+scene-0465, Rain, start at intersection, wet ground... [18-09-18 16:58:47]   20s, boston-seaport, #anns:1162
+scene-0467, Rain, wait at intersection, flipped con... [18-09-18 16:59:21]   20s, boston-seaport, #anns:1411
+scene-0468, Rain, wait at intersection, flipped con... [18-09-18 16:59:41]   20s, boston-seaport, #anns:1024
+scene-0469, Rain, truck, cross intersection, ped, p... [18-09-18 17:00:01]   20s, boston-seaport, #anns:1214
+scene-0471, Rain, parked cars, construction [18-09-18 17:00:41]   19s, boston-seaport, #anns:2077
+scene-0472, Rain, construction, wheel barrows [18-09-18 17:01:01]   19s, boston-seaport, #anns:2415
+scene-0474, Rain, start at intersection, bridge, ra... [18-09-18 17:02:21]   20s, boston-seaport, #anns:2172
+scene-0475, Rain, bridge, peds shrinking due to rai... [18-09-18 17:02:41]   20s, boston-seaport, #anns:1401
+scene-0476, Rain, turn right, peds, bridge, peds wi... [18-09-18 17:03:01]   20s, boston-seaport, #anns:1028
+scene-0477, Rain, bridge, peds crossing, peds sidew... [18-09-18 17:03:21]   20s, boston-seaport, #anns:1020
+scene-0478, Rain, waiting traffic light, oncoming b... [18-09-18 17:03:41]   19s, boston-seaport, #anns:1373
+scene-0479, Rain, many peds, jaywalker, bicycle rac... [18-09-18 17:04:01]   20s, boston-seaport, #anns:2046
+scene-0480, Rain, parked cars, bicycle, parking lot [18-09-18 17:04:56]   19s, boston-seaport, #anns:2392
+scene-0566, Rain, turn right, parked cars, car turn... [18-09-18 17:11:06]   20s, boston-seaport, #anns:2061
+scene-0568, Rain, parked cars, parked truck on the lane [18-09-18 17:12:16]   20s, boston-seaport, #anns:651
+scene-0570, Rain, wait at intersection, turn right,... [18-09-18 17:12:56]   20s, boston-seaport, #anns:2130
+scene-0571, Rain, many parked trucks, cross interse... [18-09-18 17:13:16]   20s, boston-seaport, #anns:1088
+scene-0572, Rain, parked trailers, fence, parked ca... [18-09-18 17:13:36]   20s, boston-seaport, #anns:1082
+scene-0573, Rain, parked cars, ped, parked trucks, ... [18-09-18 17:13:56]   20s, boston-seaport, #anns:1251
+scene-0574, Rain, turn left, parked cars, wait at i... [18-09-18 17:14:16]   20s, boston-seaport, #anns:902
+scene-0575, Rain, parked cars, cones, construction ... [18-09-18 17:14:36]   20s, boston-seaport, #anns:1075
+scene-0576, Rain, construction, ped on road, turn right [18-09-18 17:15:01]   19s, boston-seaport, #anns:1332
+scene-0577, Rain, turn right, bicycle rack, cross i... [18-09-18 17:15:41]   20s, boston-seaport, #anns:524
+scene-0578, Rain, cross intersection [18-09-18 17:16:41]   20s, boston-seaport, #anns:1506
+scene-0580, Rain, long street, parked car [18-09-18 17:17:41]   20s, boston-seaport, #anns:899
+scene-0582, Rain, parked cars, turn right, peds, we... [18-09-18 17:18:43]   20s, boston-seaport, #anns:778
+scene-0583, Rain, parking lot, stopped briefly at i... [18-09-18 17:19:03]   20s, boston-seaport, #anns:1728
+scene-0584, Rain, turn right, exiting car, parking lot [18-09-18 17:43:31]   20s, boston-seaport, #anns:2386
+scene-0585, Rain, construction vehicles, cross inte... [18-09-18 17:44:31]   20s, boston-seaport, #anns:2716
+scene-0586, Rain, construction, parked car, close t... [18-09-18 17:44:51]   20s, boston-seaport, #anns:3048
+scene-0587, Rain, wait at intersection, truck [18-09-18 17:45:11]   20s, boston-seaport, #anns:1642
+scene-0588, Rain, turn right, parking lot [18-09-18 17:45:31]   19s, boston-seaport, #anns:1572
+scene-0589, Rain, turn right, cars waiting at inter... [18-09-18 17:46:11]   20s, boston-seaport, #anns:646
+scene-0590, Rain, cluster of traffic cones, wait at... [18-09-18 17:46:31]   19s, boston-seaport, #anns:1192
+scene-0591, Rain, cross intersection, wait at inter... [18-09-18 17:46:51]   20s, boston-seaport, #anns:894
+scene-0592, Rain, wait at intersection, turn left, ... [18-09-18 17:47:51]   20s, boston-seaport, #anns:1679
+scene-0593, Rain, wait at intersection, peds crossing [18-09-18 17:48:43]   20s, boston-seaport, #anns:890
+scene-0594, Rain, turn right, arrive at intersectio... [18-09-18 17:49:03]   20s, boston-seaport, #anns:1546
+scene-0595, Rain, wait at intersection, peds, const... [18-09-18 17:49:43]   20s, boston-seaport, #anns:847
+scene-0596, Rain, wait at intersection, start at in... [18-09-18 17:53:16]   20s, boston-seaport, #anns:1468
+scene-0597, Rain, parked cars, peds and children, p... [18-09-18 17:53:36]   20s, boston-seaport, #anns:1456
+scene-0598, Rain, construction, turn right, roundabout [18-09-18 17:54:36]   20s, boston-seaport, #anns:2138
+scene-0599, Rain, peds, construction, turn right, c... [18-09-18 17:54:56]   20s, boston-seaport, #anns:1823
+scene-0600, Rain, parked busses, parking lot [18-09-18 17:55:16]   20s, boston-seaport, #anns:1053
+scene-0625, Rain, peds, construction [18-09-18 18:36:53]   20s, boston-seaport, #anns:921
+scene-0626, Rain, construction, bendy bus, roundabout [18-09-18 18:37:13]   20s, boston-seaport, #anns:1831
+scene-0627, Rain, industrial [18-09-18 18:37:53]   20s, boston-seaport, #anns:859
+scene-0629, Rain, industrial, turn twice [18-09-18 18:38:33]   20s, boston-seaport, #anns:2256
+scene-0630, Rain, construction, fence, special cons... [18-09-18 18:39:06]   20s, boston-seaport, #anns:684
+scene-0632, Rain, industrial, turn right, turn righ... [18-09-18 18:39:46]   20s, boston-seaport, #anns:351
+scene-0633, Rain, industrial, parked trucks at park... [18-09-18 18:40:35]   20s, boston-seaport, #anns:796
+scene-0634, Rain, industrial, parking lot, semi bac... [18-09-18 18:40:55]   20s, boston-seaport, #anns:2416
+scene-0636, Rain, turn right, parked trucks [18-09-18 18:41:55]   20s, boston-seaport, #anns:819
+scene-0637, Rain, parked cars, peds, jaywalker, wat... [18-09-18 18:42:55]   19s, boston-seaport, #anns:1498
+scene-0638, Rain, turn left, water reflections, jay... [18-09-18 18:43:15]   20s, boston-seaport, #anns:1233
+scene-0639, Rain, arrive at intersection, parked ve... [18-09-18 18:45:24]   20s, boston-seaport, #anns:1128
+scene-0640, Rain, cross bridge, truck [18-09-18 18:45:44]   19s, boston-seaport, #anns:715
+scene-0641, Rain, cross intersection, parked cars, ... [18-09-18 18:46:04]   20s, boston-seaport, #anns:1246
+scene-0642, Rain, parked cars, parked bicycle [18-09-18 18:46:24]   20s, boston-seaport, #anns:1143
+scene-0643, Rain, parked cars, bicycle rack, parked... [18-09-18 18:46:44]   20s, boston-seaport, #anns:1164
+scene-0644, Rain, parked cars, parking lot, ped, pa... [18-09-18 18:47:04]   19s, boston-seaport, #anns:1127
+scene-0645, Rain, parked cars, wait at intersection... [18-09-18 18:47:24]   20s, boston-seaport, #anns:1123
+scene-0647, Rain, parked cars, parked buses [18-09-18 18:48:04]   20s, boston-seaport, #anns:2437
+scene-0648, Rain, cross intersection, reflections, ... [18-09-18 18:48:24]   20s, boston-seaport, #anns:1227
+scene-0649, Rain, parked scooter, parked bicycle, w... [18-09-18 18:48:44]   20s, boston-seaport, #anns:294
+scene-0650, Rain, reflections, parking lot, arrive ... [18-09-18 18:50:01]   20s, boston-seaport, #anns:1798
+scene-0651, Rain, start at intersection, parked car... [18-09-18 18:50:41]   20s, boston-seaport, #anns:1102
+scene-0652, Rain, wait at intersection, peds crossi... [18-09-18 18:51:25]   20s, boston-seaport, #anns:1434
+scene-0868, Rain, turn right, bridge, peds, ships, ... [18-09-18 18:55:26]   20s, boston-seaport, #anns:567
+scene-0869, Rain, peds, bridge, parked cars, parkin... [18-09-18 18:55:45]   20s, boston-seaport, #anns:2226
+scene-0870, Rain, waiting at red light, parked cars... [18-09-18 18:56:23]   20s, boston-seaport, #anns:1179
+scene-0871, Rain, parked cars, parked bicycle, peds... [18-09-18 18:56:43]   20s, boston-seaport, #anns:1049
+scene-0872, Rain, peds, truck, wait at red light, p... [18-09-18 18:57:03]   20s, boston-seaport, #anns:1421
+scene-0873, Rain, waiting at intersection, jaywalke... [18-09-18 18:57:38]   20s, boston-seaport, #anns:2161
+scene-0875, Rain, wait at intersection, constructio... [18-09-18 18:58:52]   19s, boston-seaport, #anns:2682
+scene-0876, Rain, construction site, cones, barrier... [18-09-18 18:59:12]   20s, boston-seaport, #anns:2540
+scene-0877, Rain, parked cars, barriers, cones, con... [18-09-18 18:59:33]   19s, boston-seaport, #anns:2170
+scene-0878, Rain, bus, parked cars, parked scooter,... [18-09-18 18:59:52]   20s, boston-seaport, #anns:952
+scene-0880, Rain, parked cars, parked bicycle, park... [18-09-18 19:00:32]   20s, boston-seaport, #anns:1364
+scene-0882, Rain, wait at intersection, truck, park... [18-09-18 19:02:12]   20s, boston-seaport, #anns:878
+scene-0883, Rain, peds, parking lot, truck, waiting... [18-09-18 19:02:32]   20s, boston-seaport, #anns:2240
+scene-0884, Rain, jaywalker, truck, parked cars, st... [18-09-18 19:03:33]   20s, boston-seaport, #anns:598
+scene-0885, Rain, truck, peds, parked cars, ships [18-09-18 19:03:53]   20s, boston-seaport, #anns:802
+scene-0886, Rain, peds, truck, ships, cones, parked... [18-09-18 19:04:13]   20s, boston-seaport, #anns:1576
+scene-0887, Rain, truck, peds, waiting at intersection [18-09-18 19:04:33]   20s, boston-seaport, #anns:949
+scene-0888, Rain, peds, truck, cones, parked cars, ... [18-09-18 19:04:53]   20s, boston-seaport, #anns:1767
+scene-0889, Rain, wait at intersection, bicycle rac... [18-09-18 19:05:13]   20s, boston-seaport, #anns:3029
+scene-0890, Rain, parking lot, parked cars, truck, ... [18-09-18 19:05:33]   20s, boston-seaport, #anns:2110
+scene-0891, Rain, parking lot, parked bicycles, par... [18-09-18 19:05:53]   19s, boston-seaport, #anns:3484
+scene-0892, Rain, parked cars, barriers, peds, park... [18-09-18 19:06:13]   20s, boston-seaport, #anns:2320
+scene-0893, Rain, parked cars, peds, cross intersec... [18-09-18 19:06:33]   20s, boston-seaport, #anns:2320
+scene-0894, Rain, parked cars, peds, cones, jaywalk... [18-09-18 19:06:53]   20s, boston-seaport, #anns:2024
+scene-0895, Rain, parked cars, cones, peds, car lea... [18-09-18 19:07:13]   20s, boston-seaport, #anns:1304
+scene-0896, Rain, parked cars, peds, construction, ... [18-09-18 19:07:33]   20s, boston-seaport, #anns:994
+scene-0897, Rain, parked cars, parking lot, ped cro... [18-09-18 19:07:54]   20s, boston-seaport, #anns:980
+scene-0898, Rain, parked cars, peds, peds crossing ... [18-09-18 19:08:34]   20s, boston-seaport, #anns:1064
+scene-0899, Rain, parked cars, peds, cross intersec... [18-09-18 19:09:37]   20s, boston-seaport, #anns:1024
+scene-0900, Rain, parked cars, peds, parked bicycle... [18-09-18 19:09:57]   20s, boston-seaport, #anns:2547
+scene-0901, Rain, parked cars, parking lot, peds, p... [18-09-18 19:10:17]   20s, boston-seaport, #anns:3182
+scene-0902, Rain, parked cars, parked bicycle, park... [18-09-18 19:10:37]   20s, boston-seaport, #anns:1445
+scene-0903, Rain, wait at intersection, bicycle rac... [18-09-18 19:11:17]   19s, boston-seaport, #anns:1192
+scene-0904, Rain, parked cars, bus, peds, barriers,... [18-09-18 19:12:25]   20s, boston-seaport, #anns:1841
+scene-0905, Rain, construction site, barriers, cone... [18-09-18 19:12:45]   19s, boston-seaport, #anns:1193
+scene-0906, Rain, parked cars, parked bicycle, peds... [18-09-18 19:13:05]   20s, boston-seaport, #anns:1652
+scene-0907, Rain, turn right, parked cars, parking ... [18-09-18 19:13:25]   19s, boston-seaport, #anns:940
+scene-0908, Rain, parked cars, truck, parked scoote... [18-09-18 19:13:45]   20s, boston-seaport, #anns:834
+scene-0909, Rain, ped, cones, parked cars, construc... [18-09-18 19:14:05]   20s, boston-seaport, #anns:1130
+scene-0910, Rain, parked cars, sign trailer, constr... [18-09-18 19:14:25]   19s, boston-seaport, #anns:1544
+scene-0911, Rain, parked cars, trucks, peds crossin... [18-09-18 19:14:45]   20s, boston-seaport, #anns:1314
+scene-0912, Rain, parked cars, trucks, parking lot,... [18-09-18 19:15:25]   20s, boston-seaport, #anns:1418
+scene-0913, Rain, parked cars, semi trailers, barri... [18-09-18 19:16:05]   19s, boston-seaport, #anns:2984
+scene-0914, Rain, parking lot, bicycle rack, buses,... [18-09-18 19:16:45]   20s, boston-seaport, #anns:1074
+scene-0915, Rain, parked cars, turn left, peds, bus... [18-09-18 19:19:05]   20s, boston-seaport, #anns:1573
+scene-0804, Rain, Truck, ped on sidewalk, cars, bus... [18-09-18 19:27:41]   20s, boston-seaport, #anns:1291
+scene-0806, Rain, Wait at intersection, ped push a ... [18-09-18 19:28:21]   20s, boston-seaport, #anns:1143
+scene-0808, Rain, trucks, cars, ped crossing crossw... [18-09-18 19:29:21]   20s, boston-seaport, #anns:1235
+scene-0810, Rain. Truck, buses, cars, peds, jaywalk... [18-09-18 19:30:01]   19s, boston-seaport, #anns:917
+scene-0811, Rain, Wait at intersection, trucks, car... [18-09-18 19:31:21]   20s, boston-seaport, #anns:820
+scene-0813, Rain, Wait at intersection, trucks, car... [18-09-18 19:32:20]   20s, boston-seaport, #anns:372
+scene-0815, Rain, wait at intersection, truck, turn... [18-09-18 19:33:00]   19s, boston-seaport, #anns:963
+scene-0816, Rain, cones, cars, barrier, trailers, t... [18-09-18 19:33:40]   20s, boston-seaport, #anns:1621
+scene-0819, Rain, trucks, parking lot, wait at inte... [18-09-18 19:37:46]   20s, boston-seaport, #anns:918
+scene-0820, Rain, Cross intersection, cross interse... [18-09-18 19:38:06]   20s, boston-seaport, #anns:1271
+scene-0822, Rain, parked cars, peds on sidewalk, co... [18-09-18 19:38:46]   20s, boston-seaport, #anns:1478
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186

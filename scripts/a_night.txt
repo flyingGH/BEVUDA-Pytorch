@@ -1,0 +1,198 @@
+scene-0992, Night, ped in dark, parked cars [18-11-14 10:58:01]   20s, singapore-queensto, #anns:306
+scene-0994, Night, bump, ped in dark, low traffic, ... [18-11-14 10:59:21]   20s, singapore-queensto, #anns:141
+scene-0995, Night, ped, bus, slope, flyover [18-11-14 10:59:41]   19s, singapore-queensto, #anns:199
+scene-0996, Night, gate, bus, bus stop, cyclist, peds [18-11-14 11:00:01]   20s, singapore-queensto, #anns:499
+scene-0997, Night, bridge, oncoming cars, scooter, ... [18-11-14 11:00:41]   20s, singapore-queensto, #anns:254
+scene-0998, Night, roundabout, bus, ped crossing cr... [18-11-14 11:01:01]   20s, singapore-queensto, #anns:610
+scene-0999, Night, ped, slope, distant cars, view down [18-11-14 11:01:21]   20s, singapore-queensto, #anns:639
+scene-1000, Night, turn right, peds, lights [18-11-14 11:01:41]   20s, singapore-queensto, #anns:482
+scene-1001, Night, bump, bus, peds, lights [18-11-14 11:02:21]   20s, singapore-queensto, #anns:541
+scene-1002, Night, lane change, bump, turn left, pe... [18-11-14 11:03:01]   20s, singapore-queensto, #anns:486
+scene-1003, Night, ped running, peds, bus [18-11-14 11:03:41]   20s, singapore-queensto, #anns:563
+scene-1004, Night, many peds, parking lots [18-11-14 11:04:21]   20s, singapore-queensto, #anns:1564
+scene-1005, Night, bus, peds, crosswalk, parking lot [18-11-14 11:04:41]   20s, singapore-queensto, #anns:655
+scene-1006, Night, bus, peds, parked cars, sitting ped [18-11-14 11:05:01]   20s, singapore-queensto, #anns:824
+scene-1007, Night, truck, turn left [18-11-14 11:05:21]   19s, singapore-queensto, #anns:312
+scene-1008, Night, peds in dark, lights, scooters, ... [18-11-14 11:06:01]   19s, singapore-queensto, #anns:445
+scene-1009, Night, peds on sidewalk, slope, motorcy... [18-11-14 11:06:21]   20s, singapore-queensto, #anns:548
+scene-1010, Night, bus, peds wearing dark clothes, ... [18-11-14 11:06:41]   20s, singapore-queensto, #anns:210
+scene-1011, Night, bus, parked cars, peds [18-11-14 11:09:52]   20s, singapore-queensto, #anns:389
+scene-1012, Night, peds, cars [18-11-14 11:10:12]   20s, singapore-queensto, #anns:299
+scene-1013, Night, cars, bus [18-11-14 11:10:32]   20s, singapore-queensto, #anns:203
+scene-1014, Night, bump, cars, turn right, bus, ped... [18-11-14 11:10:52]   20s, singapore-queensto, #anns:548
+scene-1015, Night, peds, bus stop, turn left, low t... [18-11-14 11:11:12]   19s, singapore-queensto, #anns:301
+scene-1016, Night, peds, bus stop, bump, ped crossi... [18-11-14 11:13:55]   19s, singapore-queensto, #anns:1148
+scene-1017, Night, ped, cars, bump, scooter, congestion [18-11-14 11:14:15]   19s, singapore-queensto, #anns:1132
+scene-1018, Night, turn right, cars, bus, bus stop,... [18-11-14 11:14:35]   20s, singapore-queensto, #anns:598
+scene-1019, Night, scooter, light, peds crossing cr... [18-11-14 11:15:00]   20s, singapore-queensto, #anns:1763
+scene-1020, Night, peds, bus, bus stop [18-11-14 11:15:20]   19s, singapore-queensto, #anns:372
+scene-1021, Night, peds in dark, arrive at intersec... [18-11-14 11:15:40]   20s, singapore-queensto, #anns:285
+scene-1022, Night, bus, bump, scooter, peds, very d... [18-11-14 11:16:00]   20s, singapore-queensto, #anns:548
+scene-1023, Night, bus, wait [18-11-14 11:16:20]   20s, singapore-queensto, #anns:470
+scene-1024, Night, peds, bus [18-11-14 11:16:40]   20s, singapore-queensto, #anns:510
+scene-1025, Night, peds, parked cars, cyclist [18-11-14 11:19:22]   20s, singapore-queensto, #anns:495
+scene-1044, Night, motorcycles, dense traffic, cong... [18-11-21 11:11:31]   20s, singapore-hollandv, #anns:973
+scene-1045, Night, wait at intersection, dense traf... [18-11-21 11:11:51]   20s, singapore-hollandv, #anns:863
+scene-1046, Night, wait at intersection, dense traf... [18-11-21 11:12:11]   20s, singapore-hollandv, #anns:1001
+scene-1047, Night, dense traffic, congestion, motor... [18-11-21 11:12:51]   20s, singapore-hollandv, #anns:970
+scene-1048, Night, dense traffic, congestion, motor... [18-11-21 11:13:11]   20s, singapore-hollandv, #anns:1073
+scene-1049, Night, bump, motorcycle, bus, high spee... [18-11-21 11:13:31]   20s, singapore-hollandv, #anns:1140
+scene-1050, Night, many trash cans, followed by sco... [18-11-21 11:13:51]   19s, singapore-hollandv, #anns:808
+scene-1051, Night, bus, motorcycle, bus stop [18-11-21 11:14:11]   20s, singapore-hollandv, #anns:292
+scene-1052, Night, bump, parked car, trash bin [18-11-21 11:15:31]   20s, singapore-hollandv, #anns:1082
+scene-1053, Night, rain, bump, peds, congestion, pa... [18-11-21 11:15:51]   20s, singapore-hollandv, #anns:888
+scene-1054, Night, turn left, bumps, lightning [18-11-21 11:16:31]   19s, singapore-hollandv, #anns:439
+scene-1055, Night, bump, dark, ped in dark [18-11-21 11:17:11]   20s, singapore-hollandv, #anns:674
+scene-1056, Night, construction, trash bins, bump, ... [18-11-21 11:17:31]   20s, singapore-hollandv, #anns:742
+scene-1057, Night, trash cans, dark, nature, slope,... [18-11-21 11:18:51]   20s, singapore-hollandv, #anns:211
+scene-1058, Night, nature, car, turn, peds in sidew... [18-11-21 11:19:11]   20s, singapore-hollandv, #anns:266
+scene-1059, Night, residential, car turning [18-11-21 11:22:02]   20s, singapore-hollandv, #anns:723
+scene-1060, Night, rain, turn, ped in dark [18-11-21 11:22:22]   20s, singapore-hollandv, #anns:166
+scene-1061, Night, turn, trash can, residential [18-11-21 11:23:22]   20s, singapore-hollandv, #anns:199
+scene-1062, Night, difficult lighting, parked bicyc... [18-11-21 11:23:42]   20s, singapore-hollandv, #anns:612
+scene-1063, Night, bump, ped, difficult lighting, t... [18-11-21 11:24:42]   20s, singapore-hollandv, #anns:229
+scene-1064, Night, trash cans, wait for scooter, tu... [18-11-21 11:25:22]   20s, singapore-hollandv, #anns:473
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186
+scene-1066, Night, bump, scooter, difficult lighting [18-11-21 11:26:02]   20s, singapore-hollandv, #anns:347
+scene-1067, Night, rain, bump, ped in dark, arrive ... [18-11-21 11:26:22]   20s, singapore-hollandv, #anns:381
+scene-1068, Night, wait at intersection, motorcycle... [18-11-21 11:26:42]   20s, singapore-hollandv, #anns:329
+scene-1069, Night, truck, congestion, parked bicycle [18-11-21 11:27:02]   20s, singapore-hollandv, #anns:621
+scene-1070, Night, congestion, peds, motorcycle [18-11-21 11:27:22]   20s, singapore-hollandv, #anns:333
+scene-1071, Night, scooters, peds, parked bicycle, ... [18-11-21 11:27:42]   20s, singapore-hollandv, #anns:319
+scene-1072, Night, bus stop, scooter, trash can pus... [18-11-21 11:28:22]   19s, singapore-hollandv, #anns:1058
+scene-1073, Night, scooters, turn left, dense traffic [18-11-21 11:29:02]   19s, singapore-hollandv, #anns:622
+scene-1074, Night, rain, high speed, bus stop, bus,... [18-11-21 11:38:27]   19s, singapore-hollandv, #anns:191
+scene-1075, Night, bus, parked cars, bus stop, peds... [18-11-21 11:38:47]   20s, singapore-hollandv, #anns:1075
+scene-1076, Night, trash cans, scooter, ped, turn left [18-11-21 11:39:07]   20s, singapore-hollandv, #anns:946
+scene-1077, Night, big street, bus stop, high speed... [18-11-21 11:39:27]   20s, singapore-hollandv, #anns:890
+scene-1078, Night, big street, high speed, scooters... [18-11-21 11:39:47]   20s, singapore-hollandv, #anns:420
+scene-1079, Night, big street, high speed, arrive a... [18-11-21 11:40:07]   19s, singapore-hollandv, #anns:378
+scene-1080, Night, big street, dense traffic, scooters [18-11-21 11:40:27]   20s, singapore-hollandv, #anns:759
+scene-1081, Night, rain, big street, congestion, ca... [18-11-21 11:40:47]   20s, singapore-hollandv, #anns:630
+scene-1082, Night, big street, wait at intersection [18-11-21 11:41:07]   19s, singapore-hollandv, #anns:694
+scene-1083, Night, big street, bus, scooter, turn right [18-11-21 11:41:47]   20s, singapore-hollandv, #anns:897
+scene-1084, Night, scooter, peds, bus stop, parked ... [18-11-21 11:42:07]   20s, singapore-hollandv, #anns:1443
+scene-1085, Night, many peds, parked bicycles, turn... [18-11-21 11:42:27]   20s, singapore-hollandv, #anns:1526
+scene-1086, Night, bumps, parked car, peds, trash cans [18-11-21 11:42:48]   20s, singapore-hollandv, #anns:870
+scene-1087, Night, residential area, low traffic, t... [18-11-21 11:43:27]   20s, singapore-hollandv, #anns:678
+scene-1088, Night, peds, trash cans, ped walking do... [18-11-21 11:43:48]   20s, singapore-hollandv, #anns:1117
+scene-1089, Night, turn left, bump, trash cans, tur... [18-11-21 11:44:28]   20s, singapore-hollandv, #anns:673
+scene-1090, Night, trash cans, parked car, ped in d... [18-11-21 11:44:47]   20s, singapore-hollandv, #anns:1367
+scene-1091, Night, parked cars, peds, turn right, d... [18-11-21 11:45:27]   20s, singapore-hollandv, #anns:919
+scene-1092, Night, many peds, many trash cans, ped ... [18-11-21 11:46:27]   20s, singapore-hollandv, #anns:1063
+scene-1093, Night, wait at intersection, peds cross... [18-11-21 11:47:07]   20s, singapore-hollandv, #anns:2106
+scene-1094, Night, after rain, many peds, PMD, ped ... [18-11-21 11:47:27]   19s, singapore-hollandv, #anns:1762
+scene-1095, Night, rain, lane change, cross interse... [18-11-21 11:47:47]   20s, singapore-hollandv, #anns:611
+scene-1096, Night, wait at intersection, peds cross... [18-11-21 11:48:27]   20s, singapore-hollandv, #anns:929
+scene-1097, Night, scooter, start at intersection, ... [18-11-21 11:48:47]   20s, singapore-hollandv, #anns:753
+scene-1098, Night, peds, scooter, bus, waiting at i... [18-11-21 11:49:07]   20s, singapore-hollandv, #anns:977
+scene-1099, Night, wait at busy intersection, peds,... [18-11-21 11:49:27]   19s, singapore-hollandv, #anns:1110
+scene-1100, Night, peds in sidewalk, peds cross cro... [18-11-21 11:49:47]   19s, singapore-hollandv, #anns:935
+scene-1101, Night, buses, peds, rain, right turn [18-11-21 11:50:07]   20s, singapore-hollandv, #anns:561
+scene-1102, Night, rain, scooter, cars, high speed,... [18-11-21 11:54:07]   20s, singapore-hollandv, #anns:369
+scene-1104, Night, truck, rain, cross intersection [18-11-21 11:54:47]   20s, singapore-hollandv, #anns:765
+scene-1105, Night, ped, avoid parked car, parked cars [18-11-21 11:55:27]   20s, singapore-hollandv, #anns:435
+scene-1106, Night, rain, high speed, scooter, bus s... [18-11-21 11:59:33]   19s, singapore-hollandv, #anns:186
+scene-1107, Night, rain, high speed, scooter, dense... [18-11-21 11:59:53]   20s, singapore-hollandv, #anns:489
+scene-1108, Night, wet front camera, rain, bus, wai... [18-11-21 12:00:54]   19s, singapore-hollandv, #anns:656
+scene-1109, Night, rain, bus, lightning [18-11-21 12:01:34]   19s, singapore-hollandv, #anns:525
+scene-1110, Night, rain, bus, turn right, peds, bus... [18-11-21 12:01:53]   20s, singapore-hollandv, #anns:1165
+scene-0992, Night, ped in dark, parked cars [18-11-14 10:58:01]   20s, singapore-queensto, #anns:306
+scene-0994, Night, bump, ped in dark, low traffic, ... [18-11-14 10:59:21]   20s, singapore-queensto, #anns:141
+scene-0995, Night, ped, bus, slope, flyover [18-11-14 10:59:41]   19s, singapore-queensto, #anns:199
+scene-0996, Night, gate, bus, bus stop, cyclist, peds [18-11-14 11:00:01]   20s, singapore-queensto, #anns:499
+scene-0997, Night, bridge, oncoming cars, scooter, ... [18-11-14 11:00:41]   20s, singapore-queensto, #anns:254
+scene-0998, Night, roundabout, bus, ped crossing cr... [18-11-14 11:01:01]   20s, singapore-queensto, #anns:610
+scene-0999, Night, ped, slope, distant cars, view down [18-11-14 11:01:21]   20s, singapore-queensto, #anns:639
+scene-1000, Night, turn right, peds, lights [18-11-14 11:01:41]   20s, singapore-queensto, #anns:482
+scene-1001, Night, bump, bus, peds, lights [18-11-14 11:02:21]   20s, singapore-queensto, #anns:541
+scene-1002, Night, lane change, bump, turn left, pe... [18-11-14 11:03:01]   20s, singapore-queensto, #anns:486
+scene-1003, Night, ped running, peds, bus [18-11-14 11:03:41]   20s, singapore-queensto, #anns:563
+scene-1004, Night, many peds, parking lots [18-11-14 11:04:21]   20s, singapore-queensto, #anns:1564
+scene-1005, Night, bus, peds, crosswalk, parking lot [18-11-14 11:04:41]   20s, singapore-queensto, #anns:655
+scene-1006, Night, bus, peds, parked cars, sitting ped [18-11-14 11:05:01]   20s, singapore-queensto, #anns:824
+scene-1007, Night, truck, turn left [18-11-14 11:05:21]   19s, singapore-queensto, #anns:312
+scene-1008, Night, peds in dark, lights, scooters, ... [18-11-14 11:06:01]   19s, singapore-queensto, #anns:445
+scene-1009, Night, peds on sidewalk, slope, motorcy... [18-11-14 11:06:21]   20s, singapore-queensto, #anns:548
+scene-1010, Night, bus, peds wearing dark clothes, ... [18-11-14 11:06:41]   20s, singapore-queensto, #anns:210
+scene-1011, Night, bus, parked cars, peds [18-11-14 11:09:52]   20s, singapore-queensto, #anns:389
+scene-1012, Night, peds, cars [18-11-14 11:10:12]   20s, singapore-queensto, #anns:299
+scene-1013, Night, cars, bus [18-11-14 11:10:32]   20s, singapore-queensto, #anns:203
+scene-1014, Night, bump, cars, turn right, bus, ped... [18-11-14 11:10:52]   20s, singapore-queensto, #anns:548
+scene-1015, Night, peds, bus stop, turn left, low t... [18-11-14 11:11:12]   19s, singapore-queensto, #anns:301
+scene-1016, Night, peds, bus stop, bump, ped crossi... [18-11-14 11:13:55]   19s, singapore-queensto, #anns:1148
+scene-1017, Night, ped, cars, bump, scooter, congestion [18-11-14 11:14:15]   19s, singapore-queensto, #anns:1132
+scene-1018, Night, turn right, cars, bus, bus stop,... [18-11-14 11:14:35]   20s, singapore-queensto, #anns:598
+scene-1019, Night, scooter, light, peds crossing cr... [18-11-14 11:15:00]   20s, singapore-queensto, #anns:1763
+scene-1020, Night, peds, bus, bus stop [18-11-14 11:15:20]   19s, singapore-queensto, #anns:372
+scene-1021, Night, peds in dark, arrive at intersec... [18-11-14 11:15:40]   20s, singapore-queensto, #anns:285
+scene-1022, Night, bus, bump, scooter, peds, very d... [18-11-14 11:16:00]   20s, singapore-queensto, #anns:548
+scene-1023, Night, bus, wait [18-11-14 11:16:20]   20s, singapore-queensto, #anns:470
+scene-1024, Night, peds, bus [18-11-14 11:16:40]   20s, singapore-queensto, #anns:510
+scene-1025, Night, peds, parked cars, cyclist [18-11-14 11:19:22]   20s, singapore-queensto, #anns:495
+scene-1044, Night, motorcycles, dense traffic, cong... [18-11-21 11:11:31]   20s, singapore-hollandv, #anns:973
+scene-1045, Night, wait at intersection, dense traf... [18-11-21 11:11:51]   20s, singapore-hollandv, #anns:863
+scene-1046, Night, wait at intersection, dense traf... [18-11-21 11:12:11]   20s, singapore-hollandv, #anns:1001
+scene-1047, Night, dense traffic, congestion, motor... [18-11-21 11:12:51]   20s, singapore-hollandv, #anns:970
+scene-1048, Night, dense traffic, congestion, motor... [18-11-21 11:13:11]   20s, singapore-hollandv, #anns:1073
+scene-1049, Night, bump, motorcycle, bus, high spee... [18-11-21 11:13:31]   20s, singapore-hollandv, #anns:1140
+scene-1050, Night, many trash cans, followed by sco... [18-11-21 11:13:51]   19s, singapore-hollandv, #anns:808
+scene-1051, Night, bus, motorcycle, bus stop [18-11-21 11:14:11]   20s, singapore-hollandv, #anns:292
+scene-1052, Night, bump, parked car, trash bin [18-11-21 11:15:31]   20s, singapore-hollandv, #anns:1082
+scene-1053, Night, rain, bump, peds, congestion, pa... [18-11-21 11:15:51]   20s, singapore-hollandv, #anns:888
+scene-1054, Night, turn left, bumps, lightning [18-11-21 11:16:31]   19s, singapore-hollandv, #anns:439
+scene-1055, Night, bump, dark, ped in dark [18-11-21 11:17:11]   20s, singapore-hollandv, #anns:674
+scene-1056, Night, construction, trash bins, bump, ... [18-11-21 11:17:31]   20s, singapore-hollandv, #anns:742
+scene-1057, Night, trash cans, dark, nature, slope,... [18-11-21 11:18:51]   20s, singapore-hollandv, #anns:211
+scene-1058, Night, nature, car, turn, peds in sidew... [18-11-21 11:19:11]   20s, singapore-hollandv, #anns:266
+scene-1059, Night, residential, car turning [18-11-21 11:22:02]   20s, singapore-hollandv, #anns:723
+scene-1060, Night, rain, turn, ped in dark [18-11-21 11:22:22]   20s, singapore-hollandv, #anns:166
+scene-1061, Night, turn, trash can, residential [18-11-21 11:23:22]   20s, singapore-hollandv, #anns:199
+scene-1062, Night, difficult lighting, parked bicyc... [18-11-21 11:23:42]   20s, singapore-hollandv, #anns:612
+scene-1063, Night, bump, ped, difficult lighting, t... [18-11-21 11:24:42]   20s, singapore-hollandv, #anns:229
+scene-1064, Night, trash cans, wait for scooter, tu... [18-11-21 11:25:22]   20s, singapore-hollandv, #anns:473
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186
+scene-1066, Night, bump, scooter, difficult lighting [18-11-21 11:26:02]   20s, singapore-hollandv, #anns:347
+scene-1067, Night, rain, bump, ped in dark, arrive ... [18-11-21 11:26:22]   20s, singapore-hollandv, #anns:381
+scene-1068, Night, wait at intersection, motorcycle... [18-11-21 11:26:42]   20s, singapore-hollandv, #anns:329
+scene-1069, Night, truck, congestion, parked bicycle [18-11-21 11:27:02]   20s, singapore-hollandv, #anns:621
+scene-1070, Night, congestion, peds, motorcycle [18-11-21 11:27:22]   20s, singapore-hollandv, #anns:333
+scene-1071, Night, scooters, peds, parked bicycle, ... [18-11-21 11:27:42]   20s, singapore-hollandv, #anns:319
+scene-1072, Night, bus stop, scooter, trash can pus... [18-11-21 11:28:22]   19s, singapore-hollandv, #anns:1058
+scene-1073, Night, scooters, turn left, dense traffic [18-11-21 11:29:02]   19s, singapore-hollandv, #anns:622
+scene-1074, Night, rain, high speed, bus stop, bus,... [18-11-21 11:38:27]   19s, singapore-hollandv, #anns:191
+scene-1075, Night, bus, parked cars, bus stop, peds... [18-11-21 11:38:47]   20s, singapore-hollandv, #anns:1075
+scene-1076, Night, trash cans, scooter, ped, turn left [18-11-21 11:39:07]   20s, singapore-hollandv, #anns:946
+scene-1077, Night, big street, bus stop, high speed... [18-11-21 11:39:27]   20s, singapore-hollandv, #anns:890
+scene-1078, Night, big street, high speed, scooters... [18-11-21 11:39:47]   20s, singapore-hollandv, #anns:420
+scene-1079, Night, big street, high speed, arrive a... [18-11-21 11:40:07]   19s, singapore-hollandv, #anns:378
+scene-1080, Night, big street, dense traffic, scooters [18-11-21 11:40:27]   20s, singapore-hollandv, #anns:759
+scene-1081, Night, rain, big street, congestion, ca... [18-11-21 11:40:47]   20s, singapore-hollandv, #anns:630
+scene-1082, Night, big street, wait at intersection [18-11-21 11:41:07]   19s, singapore-hollandv, #anns:694
+scene-1083, Night, big street, bus, scooter, turn right [18-11-21 11:41:47]   20s, singapore-hollandv, #anns:897
+scene-1084, Night, scooter, peds, bus stop, parked ... [18-11-21 11:42:07]   20s, singapore-hollandv, #anns:1443
+scene-1085, Night, many peds, parked bicycles, turn... [18-11-21 11:42:27]   20s, singapore-hollandv, #anns:1526
+scene-1086, Night, bumps, parked car, peds, trash cans [18-11-21 11:42:48]   20s, singapore-hollandv, #anns:870
+scene-1087, Night, residential area, low traffic, t... [18-11-21 11:43:27]   20s, singapore-hollandv, #anns:678
+scene-1088, Night, peds, trash cans, ped walking do... [18-11-21 11:43:48]   20s, singapore-hollandv, #anns:1117
+scene-1089, Night, turn left, bump, trash cans, tur... [18-11-21 11:44:28]   20s, singapore-hollandv, #anns:673
+scene-1090, Night, trash cans, parked car, ped in d... [18-11-21 11:44:47]   20s, singapore-hollandv, #anns:1367
+scene-1091, Night, parked cars, peds, turn right, d... [18-11-21 11:45:27]   20s, singapore-hollandv, #anns:919
+scene-1092, Night, many peds, many trash cans, ped ... [18-11-21 11:46:27]   20s, singapore-hollandv, #anns:1063
+scene-1093, Night, wait at intersection, peds cross... [18-11-21 11:47:07]   20s, singapore-hollandv, #anns:2106
+scene-1094, Night, after rain, many peds, PMD, ped ... [18-11-21 11:47:27]   19s, singapore-hollandv, #anns:1762
+scene-1095, Night, rain, lane change, cross interse... [18-11-21 11:47:47]   20s, singapore-hollandv, #anns:611
+scene-1096, Night, wait at intersection, peds cross... [18-11-21 11:48:27]   20s, singapore-hollandv, #anns:929
+scene-1097, Night, scooter, start at intersection, ... [18-11-21 11:48:47]   20s, singapore-hollandv, #anns:753
+scene-1098, Night, peds, scooter, bus, waiting at i... [18-11-21 11:49:07]   20s, singapore-hollandv, #anns:977
+scene-1099, Night, wait at busy intersection, peds,... [18-11-21 11:49:27]   19s, singapore-hollandv, #anns:1110
+scene-1100, Night, peds in sidewalk, peds cross cro... [18-11-21 11:49:47]   19s, singapore-hollandv, #anns:935
+scene-1101, Night, buses, peds, rain, right turn [18-11-21 11:50:07]   20s, singapore-hollandv, #anns:561
+scene-1102, Night, rain, scooter, cars, high speed,... [18-11-21 11:54:07]   20s, singapore-hollandv, #anns:369
+scene-1104, Night, truck, rain, cross intersection [18-11-21 11:54:47]   20s, singapore-hollandv, #anns:765
+scene-1105, Night, ped, avoid parked car, parked cars [18-11-21 11:55:27]   20s, singapore-hollandv, #anns:435
+scene-1106, Night, rain, high speed, scooter, bus s... [18-11-21 11:59:33]   19s, singapore-hollandv, #anns:186
+scene-1107, Night, rain, high speed, scooter, dense... [18-11-21 11:59:53]   20s, singapore-hollandv, #anns:489
+scene-1108, Night, wet front camera, rain, bus, wai... [18-11-21 12:00:54]   19s, singapore-hollandv, #anns:656
+scene-1109, Night, rain, bus, lightning [18-11-21 12:01:34]   19s, singapore-hollandv, #anns:525
+scene-1110, Night, rain, bus, turn right, peds, bus... [18-11-21 12:01:53]   20s, singapore-hollandv, #anns:1165

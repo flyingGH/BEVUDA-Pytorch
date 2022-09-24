@@ -1,0 +1,766 @@
+scene-0268, Construction zone, stopped at red light... [18-07-11 03:57:19]   19s, singapore-onenorth, #anns:725
+scene-0269, Parked bicycles, peds sitting outside t... [18-07-11 03:58:12]   19s, singapore-onenorth, #anns:1156
+scene-0270, Peds, pedestrian walk on the roadside, ... [18-07-11 03:59:06]   19s, singapore-onenorth, #anns:1480
+scene-0271, Overtake parked car, parked bicycle [18-07-11 04:00:13]   19s, singapore-onenorth, #anns:344
+scene-0272, Stopped for oncoming car, motorcycle [18-07-11 04:00:33]   19s, singapore-onenorth, #anns:383
+scene-0273, Barriers, peds loading car trunk, lugga... [18-07-11 04:01:18]   19s, singapore-onenorth, #anns:897
+scene-0274, Peds, construction zone, construction w... [18-07-11 04:03:55]   19s, singapore-onenorth, #anns:2836
+scene-0275, Peds, bus, barriers, stopped at interse... [18-07-11 04:04:15]   19s, singapore-onenorth, #anns:2069
+scene-0276, Intersection, peds, cars, scooter, park... [18-07-11 04:05:06]   19s, singapore-onenorth, #anns:3253
+scene-0277, Jaywalker, peds, parked bike [18-07-11 04:05:29]   19s, singapore-onenorth, #anns:1652
+scene-0278, Motorcycle suddenly rushes out, truck, peds [18-07-11 04:06:01]   20s, singapore-onenorth, #anns:1135
+scene-0221, Pedestrian crossing, stopped vehicle [18-07-16 03:56:09]   19s, singapore-onenorth, #anns:501
+scene-0001, Construction, maneuver between several ... [18-07-18 03:12:10]   19s, singapore-onenorth, #anns:492
+scene-0002, Intersection, peds, waiting vehicle, pa... [18-07-18 03:15:19]   20s, singapore-onenorth, #anns:1238
+scene-0004, Random scene, arrive at intersection, c... [18-07-18 03:19:45]   19s, singapore-onenorth, #anns:3526
+scene-0005, Overtaken by taxi, construction site [18-07-18 03:21:44]   19s, singapore-onenorth, #anns:1078
+scene-0006, Sitting construction worker, parked bic... [18-07-18 03:22:36]   19s, singapore-onenorth, #anns:2027
+scene-0007, Van overtaking us, peds, jaywalker, bic... [18-07-18 03:24:18]   19s, singapore-onenorth, #anns:860
+scene-0008, Several moving pedestrians, parked card... [18-07-18 03:24:37]   19s, singapore-onenorth, #anns:609
+scene-0009, Peds crossing, parked cars, garbage, pe... [18-07-18 03:24:57]   19s, singapore-onenorth, #anns:332
+scene-0010, Parked motorcycle, person pickung up ga... [18-07-18 03:26:31]   19s, singapore-onenorth, #anns:380
+scene-0011, Turn left, pass trucks on both sides, c... [18-07-18 03:28:45]   20s, singapore-onenorth, #anns:765
+scene-0012, Nature, bus stop, parked cars, bus exit... [18-07-18 03:42:00]   19s, singapore-onenorth, #anns:96
+scene-0013, Follow bus, parked cars, trash cans, pa... [18-07-18 03:42:20]   19s, singapore-onenorth, #anns:456
+scene-0014, Follow bus, cross intersection, nature [18-07-18 03:43:17]   19s, singapore-onenorth, #anns:109
+scene-0015, Narrow road, following bus, bus on oppo... [18-07-18 03:43:37]   19s, singapore-onenorth, #anns:457
+scene-0016, Turn left, people on both sides, parked... [18-07-18 03:46:53]   19s, singapore-onenorth, #anns:943
+scene-0017, Barriers, peds, arriving at busy inters... [18-07-18 03:49:25]   19s, singapore-onenorth, #anns:2520
+scene-0018, Merge left, turn into unloading zone [18-07-18 03:49:52]   19s, singapore-onenorth, #anns:3301
+scene-0019, Turn left, waiting peds, turn left [18-07-18 03:51:02]   19s, singapore-onenorth, #anns:2490
+scene-0020, Turn right, walking peds, pedestrian in... [18-07-18 03:51:47]   19s, singapore-onenorth, #anns:704
+scene-0021, Wait at intersection, jaywalkers, parki... [18-07-18 03:52:57]   19s, singapore-onenorth, #anns:1982
+scene-0022, Barriers, construction, lane switch, tu... [18-07-18 03:53:18]   19s, singapore-onenorth, #anns:2067
+scene-0023, Overtake parked car, bus turning, motor... [18-07-18 03:53:41]   19s, singapore-onenorth, #anns:552
+scene-0024, Intersection, peds in cafe, parked moto... [18-07-18 03:54:04]   19s, singapore-onenorth, #anns:746
+scene-0025, Ped crossing street in front of ego vehicle [18-07-18 03:54:29]   19s, singapore-onenorth, #anns:894
+scene-0026, Parked cars, peds on the roadside [18-07-18 03:54:49]   19s, singapore-onenorth, #anns:925
+scene-0027, Delivery motorcycle turns left, veh tur... [18-07-18 03:55:18]   19s, singapore-onenorth, #anns:743
+scene-0028, Taxi parked on road, bicycle rack, many... [18-07-18 03:55:38]   19s, singapore-onenorth, #anns:1314
+scene-0029, Waiting, peds crossing intersection [18-07-18 03:55:58]   19s, singapore-onenorth, #anns:1831
+scene-0030, Two parked motorcycles, overtake [18-07-18 03:56:37]   19s, singapore-onenorth, #anns:746
+scene-0031, Construction, workers sitting on grass,... [18-07-18 03:57:02]   19s, singapore-onenorth, #anns:596
+scene-0032, Turn left, motorcycle driving, ped sitting [18-07-18 03:57:22]   19s, singapore-onenorth, #anns:131
+scene-0033, Low traffic, following bus [18-07-18 03:58:42]   19s, singapore-onenorth, #anns:189
+scene-0034, No traffic, dead end street, overtake p... [18-07-18 03:59:42]   19s, singapore-onenorth, #anns:95
+scene-0035, Parking lots, trash can, bump, scooter,... [18-07-24 02:43:03]   19s, singapore-onenorth, #anns:1056
+scene-0036, Parked bicycle, construction, peds, wor... [18-07-24 02:43:46]   19s, singapore-onenorth, #anns:1525
+scene-0038, Parked construction vehicles, peds, garbage [18-07-24 02:45:39]   20s, singapore-onenorth, #anns:434
+scene-0039, Busy street, parked cars, parking lot, ... [18-07-24 02:48:33]   19s, singapore-onenorth, #anns:809
+scene-0041, Turn left, arrive at busy intersection,... [18-07-24 03:04:50]   19s, singapore-onenorth, #anns:709
+scene-0042, Parked cars, many peds, parked bicycles... [18-07-24 03:05:52]   20s, singapore-onenorth, #anns:968
+scene-0043, Busy intersection, oncoming traffic, co... [18-07-24 03:06:49]   19s, singapore-onenorth, #anns:2014
+scene-0044, Truck turns, parked cars, bump, bikes [18-07-24 03:09:19]   19s, singapore-onenorth, #anns:376
+scene-0045, Full parking lot, peds, exiting from ca... [18-07-24 03:13:22]   19s, singapore-onenorth, #anns:1865
+scene-0046, Busy intersection, ped crossing, waitin... [18-07-24 03:14:02]   19s, singapore-onenorth, #anns:1806
+scene-0047, Construction workers close to road, veh... [18-07-24 03:15:33]   19s, singapore-onenorth, #anns:2018
+scene-0048, Construction, narrow road, construction... [18-07-24 03:15:56]   19s, singapore-onenorth, #anns:1067
+scene-0049, Construction, barriers behind net, park... [18-07-24 03:16:16]   19s, singapore-onenorth, #anns:1463
+scene-0050, Narrow street, seveal peds, shadows, tu... [18-07-24 03:17:59]   19s, singapore-onenorth, #anns:535
+scene-0051, Pass parked vehicles, peds, arrive at i... [18-07-24 03:18:26]   19s, singapore-onenorth, #anns:735
+scene-0052, Oncoming car in the same lane, overtake... [18-07-24 03:18:46]   19s, singapore-onenorth, #anns:344
+scene-0053, Cross intersection in group of cars, pe... [18-07-24 03:20:18]   19s, singapore-onenorth, #anns:828
+scene-0054, Turn left, many parked heavy trucks, wo... [18-07-24 03:21:12]   19s, singapore-onenorth, #anns:612
+scene-0055, Bus stop left, parked cars right, oncom... [18-07-24 03:23:03]   19s, singapore-onenorth, #anns:473
+scene-0056, Peds, nature, construction, trash can, ... [18-07-24 03:25:21]   20s, singapore-onenorth, #anns:333
+scene-0057, Jaywalkers, parked bike and scooter, pa... [18-07-24 03:25:41]   19s, singapore-onenorth, #anns:710
+scene-0058, Construction, strange cleaning vehicle ... [18-07-24 03:26:55]   19s, singapore-onenorth, #anns:1522
+scene-0059, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:35]   19s, singapore-onenorth, #anns:421
+scene-0060, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:55]   19s, singapore-onenorth, #anns:274
+scene-0061, Parked truck, construction, intersectio... [18-07-24 03:28:47]   19s, singapore-onenorth, #anns:4622
+scene-0315, Peds, bus stop, oncoming cars, parked l... [18-07-27 03:25:11]   19s, singapore-queensto, #anns:553
+scene-0316, Parked bicycles, ped, cars at opp lane [18-07-27 03:28:03]   19s, singapore-queensto, #anns:397
+scene-0317, Bus drops off passenger, overtake bus, ... [18-07-27 03:29:11]   19s, singapore-queensto, #anns:865
+scene-0318, Buses, overtake bus, peds, motorcycles [18-07-27 03:30:11]   19s, singapore-queensto, #anns:644
+scene-0177, Parking toll gate [18-07-27 03:37:48]   19s, singapore-queensto, #anns:143
+scene-0178, Parking lot, parked motorcycles, turn r... [18-07-27 03:38:19]   19s, singapore-queensto, #anns:824
+scene-0179, Ped walking to the ego car, parked truc... [18-07-27 03:38:48]   19s, singapore-queensto, #anns:629
+scene-0180, Parking lot with lots of parked cars [18-07-27 03:39:08]   19s, singapore-queensto, #anns:1421
+scene-0181, Turn left, toll gate, oncoming bus [18-07-27 03:40:01]   19s, singapore-queensto, #anns:156
+scene-0182, Peds, bus stop, taxi, narrow road, park... [18-07-27 03:40:44]   19s, singapore-queensto, #anns:509
+scene-0183, Parked motorcycle, bike, parking drivew... [18-07-27 03:41:22]   19s, singapore-queensto, #anns:251
+scene-0184, Many trees, narrow road [18-07-27 03:42:28]   20s, singapore-queensto, #anns:75
+scene-0185, Parking bay, peds, ped hesitates to cro... [18-07-27 03:43:30]   19s, singapore-queensto, #anns:230
+scene-0187, Bump, turn right, ped attempting to wal... [18-07-27 03:44:48]   19s, singapore-queensto, #anns:439
+scene-0188, Ego vehicle starts, many peds, parked b... [18-07-27 03:45:41]   16s, singapore-queensto, #anns:809
+scene-0190, Nature, wait for traffic light [18-08-01 07:11:48]   19s, singapore-onenorth, #anns:262
+scene-0191, Turn left, parking lot [18-08-01 07:14:18]   19s, singapore-onenorth, #anns:286
+scene-0192, Stopped for cars at T-junction, jaywalk... [18-08-01 07:14:45]   20s, singapore-onenorth, #anns:661
+scene-0193, Vegetation, parking lot, turning cars [18-08-01 07:15:07]   19s, singapore-onenorth, #anns:920
+scene-0194, Parked car starts to move, two bicycles... [18-08-01 07:15:48]   19s, singapore-onenorth, #anns:1610
+scene-0195, Narrow road, bus, reduce speed for stop... [18-08-01 07:16:21]   19s, singapore-onenorth, #anns:354
+scene-0196, Nature, cross intersection, bus, bus st... [18-08-01 07:18:25]   19s, singapore-onenorth, #anns:153
+scene-0120, Parked motorcycles, parking lot, wait a... [18-08-01 08:33:08]   20s, singapore-onenorth, #anns:1658
+scene-0121, Peds, follow motorcycle, motorcycle tur... [18-08-01 08:35:31]   19s, singapore-onenorth, #anns:365
+scene-0122, Fast motorcycle on street ahead, stop, ... [18-08-01 08:36:56]   19s, singapore-onenorth, #anns:271
+scene-0123, Monument, truck, peds, turn left, downhill [18-08-01 08:38:18]   20s, singapore-onenorth, #anns:278
+scene-0124, Many peds, parked buses, parked cars [18-08-01 08:38:40]   19s, singapore-onenorth, #anns:1305
+scene-0125, Many parked cars, animal, many peds, wa... [18-08-01 08:39:00]   19s, singapore-onenorth, #anns:708
+scene-0126, Delayed left turn, jaywalker, parking l... [18-08-01 08:39:22]   19s, singapore-onenorth, #anns:541
+scene-0127, Enter car park, jaywalker, parked motor... [18-08-01 08:39:48]   20s, singapore-onenorth, #anns:1594
+scene-0128, Parking lot, parked scooters, parked ca... [18-08-01 08:40:28]   19s, singapore-onenorth, #anns:1095
+scene-0129, Parking lot, cross crosswalk, go over b... [18-08-01 08:40:50]   19s, singapore-onenorth, #anns:1628
+scene-0130, Peds crossing at crosswalk, drive along... [18-08-01 08:42:07]   19s, singapore-onenorth, #anns:1808
+scene-0131, Parking lot, peds [18-08-01 08:42:27]   19s, singapore-onenorth, #anns:1158
+scene-0132, Parked cars, turn left, parked bus [18-08-01 08:42:47]   19s, singapore-onenorth, #anns:1059
+scene-0133, Drive through parking lot, stopped bus,... [18-08-01 08:43:07]   19s, singapore-onenorth, #anns:1551
+scene-0134, Approach intersection, fence, turn left... [18-08-01 08:43:34]   19s, singapore-onenorth, #anns:1097
+scene-0135, Heavy traffic, sitting peds, parked mot... [18-08-01 08:43:54]   19s, singapore-onenorth, #anns:1020
+scene-0138, Bus stop, parked bicycles, bus stop, bi... [18-08-01 08:47:14]   19s, singapore-onenorth, #anns:287
+scene-0139, Ped standing, ped sitting, two parked m... [18-08-01 08:49:39]   19s, singapore-onenorth, #anns:582
+scene-0149, Wait at intersection, turn left, bushes... [18-08-01 09:04:26]   19s, singapore-onenorth, #anns:1219
+scene-0150, Oncoming scooter, scooters, busy inters... [18-08-01 09:05:06]   19s, singapore-onenorth, #anns:1519
+scene-0151, Turn right, busy intersection, construc... [18-08-01 09:05:26]   19s, singapore-onenorth, #anns:2282
+scene-0152, Parked bicycles, bump, overtake parked ... [18-08-01 09:06:15]   19s, singapore-onenorth, #anns:555
+scene-0154, Turn left, peds at restaurant, parked b... [18-08-01 09:09:15]   19s, singapore-onenorth, #anns:583
+scene-0155, Jaywalkers, turn left, stop for ped cro... [18-08-01 09:15:18]   19s, singapore-onenorth, #anns:1034
+scene-0157, Passing scooter, wait at intersection, ... [18-08-01 09:17:04]   19s, singapore-onenorth, #anns:125
+scene-0158, Worker stopped ego car, worker removes ... [18-08-01 09:19:15]   19s, singapore-onenorth, #anns:2346
+scene-0159, Peds crossing crosswalk, barrier being ... [18-08-01 09:19:40]   19s, singapore-onenorth, #anns:2274
+scene-0160, Wait for oncoming car to pass, narrow r... [18-08-01 09:21:27]   19s, singapore-onenorth, #anns:620
+scene-0003, Parking lot, barrier, exit parking lot [18-08-02 09:17:50]   19s, singapore-onenorth, #anns:1754
+scene-0344, Wait at intersection, construction, bus... [18-08-02 09:19:15]   19s, singapore-onenorth, #anns:2445
+scene-0345, Cross the intersection, construction, s... [18-08-02 09:19:42]   19s, singapore-onenorth, #anns:3276
+scene-0346, Cross intersection, scooter, nature, pe... [18-08-02 09:22:08]   19s, singapore-onenorth, #anns:267
+scene-0347, Avoid parked cars, lane change, stop at... [18-08-02 09:30:01]   19s, singapore-onenorth, #anns:683
+scene-0348, Turn right, bus, peds, narrow street [18-08-02 09:30:54]   19s, singapore-onenorth, #anns:912
+scene-0349, Cones, parked car blocking ego vehicle,... [18-08-02 09:32:38]   19s, singapore-onenorth, #anns:413
+scene-0350, Nature, parked truck, peds, peds with l... [18-08-02 09:32:57]   19s, singapore-onenorth, #anns:560
+scene-0351, Turn left, parked bus, concrete truck, ... [18-08-02 09:33:18]   19s, singapore-onenorth, #anns:1003
+scene-0352, Follow concrete truck, construction, tr... [18-08-02 09:33:38]   19s, singapore-onenorth, #anns:3392
+scene-0353, Start at intersection, cross intersecti... [18-08-02 09:34:30]   19s, singapore-onenorth, #anns:1073
+scene-0354, Start at intersection, truck, bus, cons... [18-08-02 09:35:58]   19s, singapore-onenorth, #anns:1658
+scene-0355, Construction worker, construction, bloc... [18-08-02 09:36:49]   19s, singapore-onenorth, #anns:5028
+scene-0356, Arrive at intersection, construction, d... [18-08-02 09:37:09]   19s, singapore-onenorth, #anns:3719
+scene-0357, Wait at intersection, digger turning, p... [18-08-02 09:37:28]   20s, singapore-onenorth, #anns:4281
+scene-0358, Wait at intersection, construction, hea... [18-08-02 09:37:48]   19s, singapore-onenorth, #anns:4271
+scene-0359, Bus stop, parked bicycle, sparsely popu... [18-08-02 09:39:10]   20s, singapore-onenorth, #anns:1153
+scene-0360, Parking lot, worker cleaning, garbage, ... [18-08-03 07:00:38]   20s, singapore-onenorth, #anns:2003
+scene-0361, Parking lot, turn left, cone [18-08-03 07:00:58]   20s, singapore-onenorth, #anns:1156
+scene-0362, Ped, parking lot, parked scooter, turn left [18-08-03 07:01:18]   20s, singapore-onenorth, #anns:1082
+scene-0382, Turn left, parking lot, peds, parked mo... [18-08-03 07:01:38]   20s, singapore-onenorth, #anns:2469
+scene-0363, Turn right, oncoming scooter, parked trucks [18-08-03 07:02:28]   20s, singapore-onenorth, #anns:426
+scene-0364, Followed by scooter, peds, bus stop, pa... [18-08-03 07:02:48]   20s, singapore-onenorth, #anns:809
+scene-0365, Jaywalker, offloading truck, parked bicycle [18-08-03 07:03:08]   20s, singapore-onenorth, #anns:784
+scene-0366, Weirdly stopped car, turn right at inte... [18-08-03 07:04:16]   19s, singapore-onenorth, #anns:591
+scene-0367, Buses, turn right [18-08-03 07:05:24]   19s, singapore-onenorth, #anns:79
+scene-0368, Arrive at busy intersection [18-08-03 07:07:13]   20s, singapore-onenorth, #anns:1581
+scene-0369, Start at busy intersection, turn right,... [18-08-03 07:07:56]   20s, singapore-onenorth, #anns:925
+scene-0370, Parked truck, cones, sitting peds, peds... [18-08-03 07:08:53]   20s, singapore-onenorth, #anns:993
+scene-0371, Peds, parked bus, oncoming scooter, par... [18-08-03 07:09:13]   19s, singapore-onenorth, #anns:446
+scene-0372, Turn left, peds, parked bicycle, bus stop [18-08-03 07:09:48]   19s, singapore-onenorth, #anns:1024
+scene-0375, Parking lot, turn right, peds [18-08-03 07:11:13]   19s, singapore-onenorth, #anns:1418
+scene-0373, Parking lot, peds, construction, a car ... [18-08-03 07:11:33]   20s, singapore-onenorth, #anns:1943
+scene-0374, Parking lot, vehicle reverses into park... [18-08-03 07:11:53]   20s, singapore-onenorth, #anns:1810
+scene-0376, Parking lot, peds, oncoming scooter [18-08-03 07:21:59]   20s, singapore-onenorth, #anns:1498
+scene-0377, Lane change, cyclist on side walk, cons... [18-08-03 07:23:29]   19s, singapore-onenorth, #anns:1104
+scene-0378, Construction zone, excavator, workers, ... [18-08-03 07:23:52]   19s, singapore-onenorth, #anns:905
+scene-0379, Parked cars, tricycle, narrow road, ove... [18-08-03 07:26:31]   19s, singapore-onenorth, #anns:444
+scene-0380, Parked cars, give way for oncoming vehicle [18-08-03 07:26:50]   20s, singapore-onenorth, #anns:275
+scene-0381, Ped crossing, peds, construction, parke... [18-08-03 07:27:47]   20s, singapore-onenorth, #anns:1894
+scene-0383, Peds sitting, turn left, parked bicycle... [18-08-03 07:32:02]   19s, singapore-onenorth, #anns:539
+scene-0384, Pass vehicles, turn right, person getti... [18-08-03 07:33:23]   20s, singapore-onenorth, #anns:220
+scene-0385, Turn left, construction, peds, parked b... [18-08-03 07:35:35]   20s, singapore-onenorth, #anns:1679
+scene-0386, Start at intersection, turn right, scoo... [18-08-03 07:37:58]   19s, singapore-onenorth, #anns:232
+scene-0975, Wait at intersection, many peds, bus, cars [18-09-25 03:13:43]   20s, singapore-onenorth, #anns:702
+scene-0976, Wait at intersection, many peds, cars, ... [18-09-25 03:14:03]   20s, singapore-onenorth, #anns:630
+scene-0977, Wait at intersection, many peds, ped pu... [18-09-25 03:14:43]   20s, singapore-onenorth, #anns:786
+scene-0978, Wait at intersection, cars, motorcycle,... [18-09-25 03:15:03]   20s, singapore-onenorth, #anns:543
+scene-0979, Many peds, motorcycle, cars, cross inte... [18-09-25 03:15:23]   20s, singapore-onenorth, #anns:1001
+scene-0980, Construction, many peds, lane blocked, ... [18-09-25 03:15:52]   20s, singapore-onenorth, #anns:2213
+scene-0981, Construction workers, cones, many barri... [18-09-25 03:16:12]   20s, singapore-onenorth, #anns:2600
+scene-0982, Truck, barrier, many peds, cones, cars,... [18-09-25 03:16:32]   20s, singapore-onenorth, #anns:2967
+scene-0983, Construction vehicle, cones, peds cross... [18-09-25 03:16:52]   20s, singapore-onenorth, #anns:2240
+scene-0984, Parked bicycles, many peds, jaywalker, ... [18-09-25 03:17:12]   20s, singapore-onenorth, #anns:1023
+scene-0988, Parking lot, turn right, cross intersec... [18-09-25 03:18:32]   20s, singapore-onenorth, #anns:1900
+scene-0989, Many peds, cross intersection, ped cros... [18-09-25 03:18:52]   20s, singapore-onenorth, #anns:803
+scene-0990, Parked bicycles, peds on sidewalk, park... [18-09-25 03:19:12]   20s, singapore-onenorth, #anns:1262
+scene-0991, Parking lot, cones, ped on sidewalk [18-09-25 03:20:12]   20s, singapore-onenorth, #anns:1876
+scene-0962, Bus, many peds, changing lane, parked v... [18-09-25 05:19:15]   20s, singapore-onenorth, #anns:559
+scene-0963, Motorcycle, wait at intersection, cones... [18-09-25 05:19:35]   19s, singapore-onenorth, #anns:1712
+scene-0966, Many peds, construction, peds unloading... [18-09-25 05:20:59]   20s, singapore-onenorth, #anns:1985
+scene-0967, Peds on sidewalk, parked cars, parked m... [18-09-25 05:21:39]   20s, singapore-onenorth, #anns:734
+scene-0968, Wait at intersection, peds on sidewalk,... [18-09-25 05:22:34]   20s, singapore-onenorth, #anns:1537
+scene-0969, Cones, cars, many peds, changing lane, ... [18-09-25 05:22:54]   20s, singapore-onenorth, #anns:1910
+scene-0971, Cross T junction, peds, parked motorcyc... [18-09-25 05:23:34]   19s, singapore-onenorth, #anns:1544
+scene-0972, Parked bicycles, peds, ped walk along t... [18-09-25 05:23:54]   20s, singapore-onenorth, #anns:1119
+scene-0945, Enter road, turn left, workers, constru... [18-09-26 03:17:45]   20s, singapore-onenorth, #anns:3010
+scene-0947, Many peds, jaywalker, parked motorcycle... [18-09-26 03:18:25]   20s, singapore-onenorth, #anns:1126
+scene-0949, Parking lot, barriers, people at parkin... [18-09-26 03:20:10]   20s, singapore-onenorth, #anns:1821
+scene-0952, Parked vehicles, construction worker, p... [18-09-26 03:21:59]   20s, singapore-onenorth, #anns:584
+scene-0953, Peds in sidewalk, parked vehicles, jayw... [18-09-26 03:22:39]   20s, singapore-onenorth, #anns:473
+scene-0955, Parked scooter, peds, parked bicycles, ... [18-09-26 03:23:19]   20s, singapore-onenorth, #anns:657
+scene-0956, Many peds, stopped car, peds crossing c... [18-09-26 03:23:39]   20s, singapore-onenorth, #anns:1164
+scene-0957, Waiting at red light, peds, motorcycle [18-09-26 03:23:59]   20s, singapore-onenorth, #anns:787
+scene-0958, Motorcycle, peds, ped crossing crosswal... [18-09-26 03:24:19]   20s, singapore-onenorth, #anns:849
+scene-0959, Parked vehicles, person lifting box, pe... [18-09-26 03:24:39]   20s, singapore-onenorth, #anns:682
+scene-0960, Parked motorcycle, motorcyclist, parked... [18-09-26 03:24:59]   20s, singapore-onenorth, #anns:428
+scene-0961, Construction workers, barriers, constru... [18-09-26 03:25:19]   20s, singapore-onenorth, #anns:829
+scene-0399, Wait at highway-like intersection, many... [18-09-27 07:33:41]   20s, singapore-hollandv, #anns:1471
+scene-0400, Wait at highway-like intersection, many... [18-09-27 07:34:01]   19s, singapore-hollandv, #anns:860
+scene-0401, Turn right, residential area, construct... [18-09-27 07:34:32]   20s, singapore-hollandv, #anns:993
+scene-0402, Residential area, many cars on the oppo... [18-09-27 07:34:52]   20s, singapore-hollandv, #anns:1281
+scene-0403, Residential area, parked bike, rubbish ... [18-09-27 07:35:12]   20s, singapore-hollandv, #anns:516
+scene-0405, Residential area, turn right, cross int... [18-09-27 07:35:52]   20s, singapore-hollandv, #anns:505
+scene-0406, Residential area, many trash cans, jayw... [18-09-27 07:36:12]   20s, singapore-hollandv, #anns:829
+scene-0407, Residential area, taxi turn right, rubb... [18-09-27 07:36:32]   20s, singapore-hollandv, #anns:665
+scene-0408, Residential area, narrow road, overtake... [18-09-27 07:36:52]   20s, singapore-hollandv, #anns:401
+scene-0410, Residential area, bicycle, bump [18-09-27 07:37:32]   20s, singapore-hollandv, #anns:887
+scene-0411, Residential area, parked bike, rubbish bins [18-09-27 07:37:52]   20s, singapore-hollandv, #anns:1266
+scene-0412, Residential area, rubbish bins, ped hol... [18-09-27 07:38:12]   20s, singapore-hollandv, #anns:726
+scene-0413, Nature, trash cans, narrow road, bump, ... [18-09-27 07:38:32]   20s, singapore-hollandv, #anns:608
+scene-0414, Residential area, turn right, parked bi... [18-09-27 07:38:52]   20s, singapore-hollandv, #anns:552
+scene-0415, Residential area, movable trash cans, n... [18-09-27 07:39:12]   19s, singapore-hollandv, #anns:235
+scene-0416, Nature, garbage bins, driving uphill on... [18-09-27 07:39:32]   20s, singapore-hollandv, #anns:430
+scene-0417, Nature, overtake parked van, rubbish bins [18-09-27 07:39:52]   20s, singapore-hollandv, #anns:262
+scene-0418, Nature, construction worker [18-09-27 07:40:12]   20s, singapore-hollandv, #anns:582
+scene-0419, Residential area, trash cans, stroller,... [18-09-27 07:40:43]   20s, singapore-hollandv, #anns:744
+scene-0794, Wait at intersection, many vehicles, mo... [18-10-02 02:51:44]   20s, singapore-queensto, #anns:1427
+scene-0795, Motorcycle, cars, trucks, bus, cross in... [18-10-02 02:52:04]   20s, singapore-queensto, #anns:1425
+scene-0796, Scooter, peds on sidewalk, bus, cars, t... [18-10-02 02:52:24]   20s, singapore-queensto, #anns:708
+scene-0797, Cars, bus passing by, car overtaking us... [18-10-02 02:52:44]   20s, singapore-queensto, #anns:353
+scene-0798, Start at intersection, dense traffic, s... [18-10-02 02:53:24]   20s, singapore-queensto, #anns:676
+scene-0799, Cars, cross intersection, motorcycle ov... [18-10-02 02:53:44]   20s, singapore-queensto, #anns:625
+scene-0800, Peds on sidewalk, cones, bus, cross int... [18-10-02 02:54:04]   20s, singapore-queensto, #anns:529
+scene-0802, Cones, cross intersection, peds on side... [18-10-02 02:54:44]   20s, singapore-queensto, #anns:691
+scene-0786, Wait at intersection, construction work... [18-10-02 02:59:18]   19s, singapore-queensto, #anns:755
+scene-0787, Parked bicycles, bus stop, peds at bus ... [18-10-02 02:59:38]   19s, singapore-queensto, #anns:402
+scene-0789, Wait at intersection, ped crossing cros... [18-10-02 03:00:18]   20s, singapore-queensto, #anns:647
+scene-0790, Start from intersection, peds siiting, ... [18-10-02 03:00:38]   20s, singapore-queensto, #anns:743
+scene-0791, Peds on sidewalk, children, cross inter... [18-10-02 03:00:58]   20s, singapore-queensto, #anns:458
+scene-0792, Ped on sidewalk, peds, parked bicycle, ... [18-10-02 03:01:18]   19s, singapore-queensto, #anns:743
+scene-0916, Parking lot, bicycle rack, parked bicyc... [18-10-08 07:37:13]   20s, singapore-queensto, #anns:2387
+scene-0917, Peds, jaywalkers, nature, parking lot, ... [18-10-08 07:38:13]   20s, singapore-queensto, #anns:776
+scene-0919, Greeneries, parking lot, parked car, pe... [18-10-08 07:40:33]   20s, singapore-queensto, #anns:94
+scene-0920, Motorcycle, parked cars, peds, truck [18-10-08 07:40:53]   20s, singapore-queensto, #anns:365
+scene-0921, Bus, peds, truck, turn left [18-10-08 07:41:28]   20s, singapore-queensto, #anns:324
+scene-0922, Buses, peds [18-10-08 07:42:40]   20s, singapore-queensto, #anns:392
+scene-0923, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:45:04]   19s, singapore-queensto, #anns:443
+scene-0924, Cleaner cleaning street, nature, parked... [18-10-08 07:47:09]   20s, singapore-queensto, #anns:530
+scene-0925, Wait, peds crossing crosswalk, bus [18-10-08 07:48:29]   20s, singapore-queensto, #anns:490
+scene-0926, Intersection, turn right, ped on the si... [18-10-08 07:49:09]   20s, singapore-queensto, #anns:481
+scene-0927, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:49:29]   20s, singapore-queensto, #anns:793
+scene-0928, Peds on sidewalk, parked cars, intersec... [18-10-08 07:49:49]   19s, singapore-queensto, #anns:1456
+scene-0929, Ped, car, turn right, peds on sidewalk,... [18-10-08 07:50:09]   19s, singapore-queensto, #anns:320
+scene-0930, Intersection, ped on sidewalk, motorcyc... [18-10-08 07:50:29]   20s, singapore-queensto, #anns:603
+scene-0931, Turn right, parked scooters, nature, pa... [18-10-08 07:50:49]   20s, singapore-queensto, #anns:1368
+scene-0420, Exit parking lot, turn left, peds, park... [18-10-08 07:52:30]   20s, singapore-queensto, #anns:1628
+scene-0421, Gate, peds at sidewalk, following by a ... [18-10-08 07:52:50]   20s, singapore-queensto, #anns:463
+scene-0422, Buses, overtake stopped car, peds, arri... [18-10-08 07:53:10]   19s, singapore-queensto, #anns:595
+scene-0423, Many peds, peds walking in street, turn... [18-10-08 07:53:30]   20s, singapore-queensto, #anns:1616
+scene-0424, Bump, peds, bus, turn left [18-10-08 07:53:50]   20s, singapore-queensto, #anns:859
+scene-0425, Turn left, scooter, turn left, bus with... [18-10-08 07:54:10]   20s, singapore-queensto, #anns:526
+scene-0426, Bus, unloading van, peds, parking lot, ... [18-10-08 07:54:30]   20s, singapore-queensto, #anns:751
+scene-0427, Parking lot, many peds, bump, buses, co... [18-10-08 07:54:50]   20s, singapore-queensto, #anns:1262
+scene-0428, Avoid congestion, drive uphill, barrier... [18-10-08 07:57:00]   20s, singapore-queensto, #anns:722
+scene-0429, Half-open parking garage, parked scoote... [18-10-08 07:57:20]   20s, singapore-queensto, #anns:952
+scene-0430, Nature, garbage [18-10-08 07:57:40]   20s, singapore-queensto, #anns:243
+scene-0431, Nature, low traffic, ped, parked scoote... [18-10-08 07:58:00]   20s, singapore-queensto, #anns:413
+scene-0432, Nature, parking bay, bus stop, many ped... [18-10-08 07:58:20]   19s, singapore-queensto, #anns:666
+scene-0433, Unusual buildings, ped, slope, low traffic [18-10-08 07:58:40]   20s, singapore-queensto, #anns:81
+scene-0434, Unusual buildings, crosswalk, bump, low... [18-10-08 07:59:00]   20s, singapore-queensto, #anns:59
+scene-0435, Unusual buildings, slope, turn right, p... [18-10-08 07:59:20]   20s, singapore-queensto, #anns:390
+scene-0436, Turn left, scooter, arrive at intersection [18-10-08 07:59:49]   20s, singapore-queensto, #anns:642
+scene-0437, Low traffic, cross intersection, crossw... [18-10-08 08:01:19]   19s, singapore-queensto, #anns:147
+scene-0438, Peds, bus stop, barriers [18-10-08 08:01:39]   20s, singapore-queensto, #anns:287
+scene-0439, Parking lot, peds, parked bicycle [18-10-08 08:01:59]   20s, singapore-queensto, #anns:671
+scene-0847, Bicycle rack, motorcycle, bus stops, lo... [18-10-08 08:03:29]   20s, singapore-queensto, #anns:94
+scene-0848, Parked bicycle, jaywalker, bus, peds on... [18-10-08 08:03:49]   20s, singapore-queensto, #anns:670
+scene-0849, Cars, cross intersection, peds on sidew... [18-10-08 08:04:09]   20s, singapore-queensto, #anns:451
+scene-0850, Car overtaking us, peds on sidewalk, cones [18-10-08 08:04:29]   20s, singapore-queensto, #anns:326
+scene-0851, Cones, cross intersection, construction... [18-10-08 08:04:49]   20s, singapore-queensto, #anns:1017
+scene-0852, Many peds, jaywalkers, cars, parked mot... [18-10-08 08:05:09]   20s, singapore-queensto, #anns:839
+scene-0853, Turn left, cars [18-10-08 08:05:29]   20s, singapore-queensto, #anns:830
+scene-0854, Lane change, dense traffic, buses, cars... [18-10-08 08:05:49]   20s, singapore-queensto, #anns:668
+scene-0855, Ped on sidewalk, turn right, truck, car... [18-10-08 08:06:09]   20s, singapore-queensto, #anns:689
+scene-0856, Parked buses, parked bicycles, many ped... [18-10-08 08:07:17]   20s, singapore-queensto, #anns:445
+scene-0858, Bus, cars, motorcycles, turn left, peds... [18-10-08 08:08:37]   20s, singapore-queensto, #anns:963
+scene-0860, Parking lot, peds on sidewalk, jaywalke... [18-10-08 08:09:17]   20s, singapore-queensto, #anns:637
+scene-0861, Wait at intersection, nature, scooters,... [18-10-08 08:09:37]   20s, singapore-queensto, #anns:826
+scene-0862, Motorcycles, parked bicycle, cross inte... [18-10-08 08:09:57]   19s, singapore-queensto, #anns:773
+scene-0863, Turn right, motorcycle, cross intersect... [18-10-08 08:10:17]   20s, singapore-queensto, #anns:574
+scene-0864, Car passing by, parking lot, cones, bus... [18-10-08 08:10:37]   20s, singapore-queensto, #anns:812
+scene-0865, Many peds, parking lot, parked bicycle,... [18-10-08 08:10:57]   20s, singapore-queensto, #anns:999
+scene-0866, Cross intersection, parking lot, peds o... [18-10-08 08:11:37]   20s, singapore-queensto, #anns:815
+scene-0992, Night, ped in dark, parked cars [18-11-14 10:58:01]   20s, singapore-queensto, #anns:306
+scene-0994, Night, bump, ped in dark, low traffic, ... [18-11-14 10:59:21]   20s, singapore-queensto, #anns:141
+scene-0995, Night, ped, bus, slope, flyover [18-11-14 10:59:41]   19s, singapore-queensto, #anns:199
+scene-0996, Night, gate, bus, bus stop, cyclist, peds [18-11-14 11:00:01]   20s, singapore-queensto, #anns:499
+scene-0997, Night, bridge, oncoming cars, scooter, ... [18-11-14 11:00:41]   20s, singapore-queensto, #anns:254
+scene-0998, Night, roundabout, bus, ped crossing cr... [18-11-14 11:01:01]   20s, singapore-queensto, #anns:610
+scene-0999, Night, ped, slope, distant cars, view down [18-11-14 11:01:21]   20s, singapore-queensto, #anns:639
+scene-1000, Night, turn right, peds, lights [18-11-14 11:01:41]   20s, singapore-queensto, #anns:482
+scene-1001, Night, bump, bus, peds, lights [18-11-14 11:02:21]   20s, singapore-queensto, #anns:541
+scene-1002, Night, lane change, bump, turn left, pe... [18-11-14 11:03:01]   20s, singapore-queensto, #anns:486
+scene-1003, Night, ped running, peds, bus [18-11-14 11:03:41]   20s, singapore-queensto, #anns:563
+scene-1004, Night, many peds, parking lots [18-11-14 11:04:21]   20s, singapore-queensto, #anns:1564
+scene-1005, Night, bus, peds, crosswalk, parking lot [18-11-14 11:04:41]   20s, singapore-queensto, #anns:655
+scene-1006, Night, bus, peds, parked cars, sitting ped [18-11-14 11:05:01]   20s, singapore-queensto, #anns:824
+scene-1007, Night, truck, turn left [18-11-14 11:05:21]   19s, singapore-queensto, #anns:312
+scene-1008, Night, peds in dark, lights, scooters, ... [18-11-14 11:06:01]   19s, singapore-queensto, #anns:445
+scene-1009, Night, peds on sidewalk, slope, motorcy... [18-11-14 11:06:21]   20s, singapore-queensto, #anns:548
+scene-1010, Night, bus, peds wearing dark clothes, ... [18-11-14 11:06:41]   20s, singapore-queensto, #anns:210
+scene-1011, Night, bus, parked cars, peds [18-11-14 11:09:52]   20s, singapore-queensto, #anns:389
+scene-1012, Night, peds, cars [18-11-14 11:10:12]   20s, singapore-queensto, #anns:299
+scene-1013, Night, cars, bus [18-11-14 11:10:32]   20s, singapore-queensto, #anns:203
+scene-1014, Night, bump, cars, turn right, bus, ped... [18-11-14 11:10:52]   20s, singapore-queensto, #anns:548
+scene-1015, Night, peds, bus stop, turn left, low t... [18-11-14 11:11:12]   19s, singapore-queensto, #anns:301
+scene-1016, Night, peds, bus stop, bump, ped crossi... [18-11-14 11:13:55]   19s, singapore-queensto, #anns:1148
+scene-1017, Night, ped, cars, bump, scooter, congestion [18-11-14 11:14:15]   19s, singapore-queensto, #anns:1132
+scene-1018, Night, turn right, cars, bus, bus stop,... [18-11-14 11:14:35]   20s, singapore-queensto, #anns:598
+scene-1019, Night, scooter, light, peds crossing cr... [18-11-14 11:15:00]   20s, singapore-queensto, #anns:1763
+scene-1020, Night, peds, bus, bus stop [18-11-14 11:15:20]   19s, singapore-queensto, #anns:372
+scene-1021, Night, peds in dark, arrive at intersec... [18-11-14 11:15:40]   20s, singapore-queensto, #anns:285
+scene-1022, Night, bus, bump, scooter, peds, very d... [18-11-14 11:16:00]   20s, singapore-queensto, #anns:548
+scene-1023, Night, bus, wait [18-11-14 11:16:20]   20s, singapore-queensto, #anns:470
+scene-1024, Night, peds, bus [18-11-14 11:16:40]   20s, singapore-queensto, #anns:510
+scene-1025, Night, peds, parked cars, cyclist [18-11-14 11:19:22]   20s, singapore-queensto, #anns:495
+scene-1044, Night, motorcycles, dense traffic, cong... [18-11-21 11:11:31]   20s, singapore-hollandv, #anns:973
+scene-1045, Night, wait at intersection, dense traf... [18-11-21 11:11:51]   20s, singapore-hollandv, #anns:863
+scene-1046, Night, wait at intersection, dense traf... [18-11-21 11:12:11]   20s, singapore-hollandv, #anns:1001
+scene-1047, Night, dense traffic, congestion, motor... [18-11-21 11:12:51]   20s, singapore-hollandv, #anns:970
+scene-1048, Night, dense traffic, congestion, motor... [18-11-21 11:13:11]   20s, singapore-hollandv, #anns:1073
+scene-1049, Night, bump, motorcycle, bus, high spee... [18-11-21 11:13:31]   20s, singapore-hollandv, #anns:1140
+scene-1050, Night, many trash cans, followed by sco... [18-11-21 11:13:51]   19s, singapore-hollandv, #anns:808
+scene-1051, Night, bus, motorcycle, bus stop [18-11-21 11:14:11]   20s, singapore-hollandv, #anns:292
+scene-1052, Night, bump, parked car, trash bin [18-11-21 11:15:31]   20s, singapore-hollandv, #anns:1082
+scene-1053, Night, rain, bump, peds, congestion, pa... [18-11-21 11:15:51]   20s, singapore-hollandv, #anns:888
+scene-1054, Night, turn left, bumps, lightning [18-11-21 11:16:31]   19s, singapore-hollandv, #anns:439
+scene-1055, Night, bump, dark, ped in dark [18-11-21 11:17:11]   20s, singapore-hollandv, #anns:674
+scene-1056, Night, construction, trash bins, bump, ... [18-11-21 11:17:31]   20s, singapore-hollandv, #anns:742
+scene-1057, Night, trash cans, dark, nature, slope,... [18-11-21 11:18:51]   20s, singapore-hollandv, #anns:211
+scene-1058, Night, nature, car, turn, peds in sidew... [18-11-21 11:19:11]   20s, singapore-hollandv, #anns:266
+scene-1059, Night, residential, car turning [18-11-21 11:22:02]   20s, singapore-hollandv, #anns:723
+scene-1060, Night, rain, turn, ped in dark [18-11-21 11:22:22]   20s, singapore-hollandv, #anns:166
+scene-1061, Night, turn, trash can, residential [18-11-21 11:23:22]   20s, singapore-hollandv, #anns:199
+scene-1062, Night, difficult lighting, parked bicyc... [18-11-21 11:23:42]   20s, singapore-hollandv, #anns:612
+scene-1063, Night, bump, ped, difficult lighting, t... [18-11-21 11:24:42]   20s, singapore-hollandv, #anns:229
+scene-1064, Night, trash cans, wait for scooter, tu... [18-11-21 11:25:22]   20s, singapore-hollandv, #anns:473
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186
+scene-1066, Night, bump, scooter, difficult lighting [18-11-21 11:26:02]   20s, singapore-hollandv, #anns:347
+scene-1067, Night, rain, bump, ped in dark, arrive ... [18-11-21 11:26:22]   20s, singapore-hollandv, #anns:381
+scene-1068, Night, wait at intersection, motorcycle... [18-11-21 11:26:42]   20s, singapore-hollandv, #anns:329
+scene-1069, Night, truck, congestion, parked bicycle [18-11-21 11:27:02]   20s, singapore-hollandv, #anns:621
+scene-1070, Night, congestion, peds, motorcycle [18-11-21 11:27:22]   20s, singapore-hollandv, #anns:333
+scene-1071, Night, scooters, peds, parked bicycle, ... [18-11-21 11:27:42]   20s, singapore-hollandv, #anns:319
+scene-1072, Night, bus stop, scooter, trash can pus... [18-11-21 11:28:22]   19s, singapore-hollandv, #anns:1058
+scene-1073, Night, scooters, turn left, dense traffic [18-11-21 11:29:02]   19s, singapore-hollandv, #anns:622
+scene-1074, Night, rain, high speed, bus stop, bus,... [18-11-21 11:38:27]   19s, singapore-hollandv, #anns:191
+scene-1075, Night, bus, parked cars, bus stop, peds... [18-11-21 11:38:47]   20s, singapore-hollandv, #anns:1075
+scene-1076, Night, trash cans, scooter, ped, turn left [18-11-21 11:39:07]   20s, singapore-hollandv, #anns:946
+scene-1077, Night, big street, bus stop, high speed... [18-11-21 11:39:27]   20s, singapore-hollandv, #anns:890
+scene-1078, Night, big street, high speed, scooters... [18-11-21 11:39:47]   20s, singapore-hollandv, #anns:420
+scene-1079, Night, big street, high speed, arrive a... [18-11-21 11:40:07]   19s, singapore-hollandv, #anns:378
+scene-1080, Night, big street, dense traffic, scooters [18-11-21 11:40:27]   20s, singapore-hollandv, #anns:759
+scene-1081, Night, rain, big street, congestion, ca... [18-11-21 11:40:47]   20s, singapore-hollandv, #anns:630
+scene-1082, Night, big street, wait at intersection [18-11-21 11:41:07]   19s, singapore-hollandv, #anns:694
+scene-1083, Night, big street, bus, scooter, turn right [18-11-21 11:41:47]   20s, singapore-hollandv, #anns:897
+scene-1084, Night, scooter, peds, bus stop, parked ... [18-11-21 11:42:07]   20s, singapore-hollandv, #anns:1443
+scene-1085, Night, many peds, parked bicycles, turn... [18-11-21 11:42:27]   20s, singapore-hollandv, #anns:1526
+scene-1086, Night, bumps, parked car, peds, trash cans [18-11-21 11:42:48]   20s, singapore-hollandv, #anns:870
+scene-1087, Night, residential area, low traffic, t... [18-11-21 11:43:27]   20s, singapore-hollandv, #anns:678
+scene-1088, Night, peds, trash cans, ped walking do... [18-11-21 11:43:48]   20s, singapore-hollandv, #anns:1117
+scene-1089, Night, turn left, bump, trash cans, tur... [18-11-21 11:44:28]   20s, singapore-hollandv, #anns:673
+scene-1090, Night, trash cans, parked car, ped in d... [18-11-21 11:44:47]   20s, singapore-hollandv, #anns:1367
+scene-1091, Night, parked cars, peds, turn right, d... [18-11-21 11:45:27]   20s, singapore-hollandv, #anns:919
+scene-1092, Night, many peds, many trash cans, ped ... [18-11-21 11:46:27]   20s, singapore-hollandv, #anns:1063
+scene-1093, Night, wait at intersection, peds cross... [18-11-21 11:47:07]   20s, singapore-hollandv, #anns:2106
+scene-1094, Night, after rain, many peds, PMD, ped ... [18-11-21 11:47:27]   19s, singapore-hollandv, #anns:1762
+scene-1095, Night, rain, lane change, cross interse... [18-11-21 11:47:47]   20s, singapore-hollandv, #anns:611
+scene-1096, Night, wait at intersection, peds cross... [18-11-21 11:48:27]   20s, singapore-hollandv, #anns:929
+scene-1097, Night, scooter, start at intersection, ... [18-11-21 11:48:47]   20s, singapore-hollandv, #anns:753
+scene-1098, Night, peds, scooter, bus, waiting at i... [18-11-21 11:49:07]   20s, singapore-hollandv, #anns:977
+scene-1099, Night, wait at busy intersection, peds,... [18-11-21 11:49:27]   19s, singapore-hollandv, #anns:1110
+scene-1100, Night, peds in sidewalk, peds cross cro... [18-11-21 11:49:47]   19s, singapore-hollandv, #anns:935
+scene-1101, Night, buses, peds, rain, right turn [18-11-21 11:50:07]   20s, singapore-hollandv, #anns:561
+scene-1102, Night, rain, scooter, cars, high speed,... [18-11-21 11:54:07]   20s, singapore-hollandv, #anns:369
+scene-1104, Night, truck, rain, cross intersection [18-11-21 11:54:47]   20s, singapore-hollandv, #anns:765
+scene-1105, Night, ped, avoid parked car, parked cars [18-11-21 11:55:27]   20s, singapore-hollandv, #anns:435
+scene-1106, Night, rain, high speed, scooter, bus s... [18-11-21 11:59:33]   19s, singapore-hollandv, #anns:186
+scene-1107, Night, rain, high speed, scooter, dense... [18-11-21 11:59:53]   20s, singapore-hollandv, #anns:489
+scene-1108, Night, wet front camera, rain, bus, wai... [18-11-21 12:00:54]   19s, singapore-hollandv, #anns:656
+scene-1109, Night, rain, bus, lightning [18-11-21 12:01:34]   19s, singapore-hollandv, #anns:525
+scene-1110, Night, rain, bus, turn right, peds, bus... [18-11-21 12:01:53]   20s, singapore-hollandv, #anns:1165
+scene-0268, Construction zone, stopped at red light... [18-07-11 03:57:19]   19s, singapore-onenorth, #anns:725
+scene-0269, Parked bicycles, peds sitting outside t... [18-07-11 03:58:12]   19s, singapore-onenorth, #anns:1156
+scene-0270, Peds, pedestrian walk on the roadside, ... [18-07-11 03:59:06]   19s, singapore-onenorth, #anns:1480
+scene-0271, Overtake parked car, parked bicycle [18-07-11 04:00:13]   19s, singapore-onenorth, #anns:344
+scene-0272, Stopped for oncoming car, motorcycle [18-07-11 04:00:33]   19s, singapore-onenorth, #anns:383
+scene-0273, Barriers, peds loading car trunk, lugga... [18-07-11 04:01:18]   19s, singapore-onenorth, #anns:897
+scene-0274, Peds, construction zone, construction w... [18-07-11 04:03:55]   19s, singapore-onenorth, #anns:2836
+scene-0275, Peds, bus, barriers, stopped at interse... [18-07-11 04:04:15]   19s, singapore-onenorth, #anns:2069
+scene-0276, Intersection, peds, cars, scooter, park... [18-07-11 04:05:06]   19s, singapore-onenorth, #anns:3253
+scene-0277, Jaywalker, peds, parked bike [18-07-11 04:05:29]   19s, singapore-onenorth, #anns:1652
+scene-0278, Motorcycle suddenly rushes out, truck, peds [18-07-11 04:06:01]   20s, singapore-onenorth, #anns:1135
+scene-0221, Pedestrian crossing, stopped vehicle [18-07-16 03:56:09]   19s, singapore-onenorth, #anns:501
+scene-0001, Construction, maneuver between several ... [18-07-18 03:12:10]   19s, singapore-onenorth, #anns:492
+scene-0002, Intersection, peds, waiting vehicle, pa... [18-07-18 03:15:19]   20s, singapore-onenorth, #anns:1238
+scene-0004, Random scene, arrive at intersection, c... [18-07-18 03:19:45]   19s, singapore-onenorth, #anns:3526
+scene-0005, Overtaken by taxi, construction site [18-07-18 03:21:44]   19s, singapore-onenorth, #anns:1078
+scene-0006, Sitting construction worker, parked bic... [18-07-18 03:22:36]   19s, singapore-onenorth, #anns:2027
+scene-0007, Van overtaking us, peds, jaywalker, bic... [18-07-18 03:24:18]   19s, singapore-onenorth, #anns:860
+scene-0008, Several moving pedestrians, parked card... [18-07-18 03:24:37]   19s, singapore-onenorth, #anns:609
+scene-0009, Peds crossing, parked cars, garbage, pe... [18-07-18 03:24:57]   19s, singapore-onenorth, #anns:332
+scene-0010, Parked motorcycle, person pickung up ga... [18-07-18 03:26:31]   19s, singapore-onenorth, #anns:380
+scene-0011, Turn left, pass trucks on both sides, c... [18-07-18 03:28:45]   20s, singapore-onenorth, #anns:765
+scene-0012, Nature, bus stop, parked cars, bus exit... [18-07-18 03:42:00]   19s, singapore-onenorth, #anns:96
+scene-0013, Follow bus, parked cars, trash cans, pa... [18-07-18 03:42:20]   19s, singapore-onenorth, #anns:456
+scene-0014, Follow bus, cross intersection, nature [18-07-18 03:43:17]   19s, singapore-onenorth, #anns:109
+scene-0015, Narrow road, following bus, bus on oppo... [18-07-18 03:43:37]   19s, singapore-onenorth, #anns:457
+scene-0016, Turn left, people on both sides, parked... [18-07-18 03:46:53]   19s, singapore-onenorth, #anns:943
+scene-0017, Barriers, peds, arriving at busy inters... [18-07-18 03:49:25]   19s, singapore-onenorth, #anns:2520
+scene-0018, Merge left, turn into unloading zone [18-07-18 03:49:52]   19s, singapore-onenorth, #anns:3301
+scene-0019, Turn left, waiting peds, turn left [18-07-18 03:51:02]   19s, singapore-onenorth, #anns:2490
+scene-0020, Turn right, walking peds, pedestrian in... [18-07-18 03:51:47]   19s, singapore-onenorth, #anns:704
+scene-0021, Wait at intersection, jaywalkers, parki... [18-07-18 03:52:57]   19s, singapore-onenorth, #anns:1982
+scene-0022, Barriers, construction, lane switch, tu... [18-07-18 03:53:18]   19s, singapore-onenorth, #anns:2067
+scene-0023, Overtake parked car, bus turning, motor... [18-07-18 03:53:41]   19s, singapore-onenorth, #anns:552
+scene-0024, Intersection, peds in cafe, parked moto... [18-07-18 03:54:04]   19s, singapore-onenorth, #anns:746
+scene-0025, Ped crossing street in front of ego vehicle [18-07-18 03:54:29]   19s, singapore-onenorth, #anns:894
+scene-0026, Parked cars, peds on the roadside [18-07-18 03:54:49]   19s, singapore-onenorth, #anns:925
+scene-0027, Delivery motorcycle turns left, veh tur... [18-07-18 03:55:18]   19s, singapore-onenorth, #anns:743
+scene-0028, Taxi parked on road, bicycle rack, many... [18-07-18 03:55:38]   19s, singapore-onenorth, #anns:1314
+scene-0029, Waiting, peds crossing intersection [18-07-18 03:55:58]   19s, singapore-onenorth, #anns:1831
+scene-0030, Two parked motorcycles, overtake [18-07-18 03:56:37]   19s, singapore-onenorth, #anns:746
+scene-0031, Construction, workers sitting on grass,... [18-07-18 03:57:02]   19s, singapore-onenorth, #anns:596
+scene-0032, Turn left, motorcycle driving, ped sitting [18-07-18 03:57:22]   19s, singapore-onenorth, #anns:131
+scene-0033, Low traffic, following bus [18-07-18 03:58:42]   19s, singapore-onenorth, #anns:189
+scene-0034, No traffic, dead end street, overtake p... [18-07-18 03:59:42]   19s, singapore-onenorth, #anns:95
+scene-0035, Parking lots, trash can, bump, scooter,... [18-07-24 02:43:03]   19s, singapore-onenorth, #anns:1056
+scene-0036, Parked bicycle, construction, peds, wor... [18-07-24 02:43:46]   19s, singapore-onenorth, #anns:1525
+scene-0038, Parked construction vehicles, peds, garbage [18-07-24 02:45:39]   20s, singapore-onenorth, #anns:434
+scene-0039, Busy street, parked cars, parking lot, ... [18-07-24 02:48:33]   19s, singapore-onenorth, #anns:809
+scene-0041, Turn left, arrive at busy intersection,... [18-07-24 03:04:50]   19s, singapore-onenorth, #anns:709
+scene-0042, Parked cars, many peds, parked bicycles... [18-07-24 03:05:52]   20s, singapore-onenorth, #anns:968
+scene-0043, Busy intersection, oncoming traffic, co... [18-07-24 03:06:49]   19s, singapore-onenorth, #anns:2014
+scene-0044, Truck turns, parked cars, bump, bikes [18-07-24 03:09:19]   19s, singapore-onenorth, #anns:376
+scene-0045, Full parking lot, peds, exiting from ca... [18-07-24 03:13:22]   19s, singapore-onenorth, #anns:1865
+scene-0046, Busy intersection, ped crossing, waitin... [18-07-24 03:14:02]   19s, singapore-onenorth, #anns:1806
+scene-0047, Construction workers close to road, veh... [18-07-24 03:15:33]   19s, singapore-onenorth, #anns:2018
+scene-0048, Construction, narrow road, construction... [18-07-24 03:15:56]   19s, singapore-onenorth, #anns:1067
+scene-0049, Construction, barriers behind net, park... [18-07-24 03:16:16]   19s, singapore-onenorth, #anns:1463
+scene-0050, Narrow street, seveal peds, shadows, tu... [18-07-24 03:17:59]   19s, singapore-onenorth, #anns:535
+scene-0051, Pass parked vehicles, peds, arrive at i... [18-07-24 03:18:26]   19s, singapore-onenorth, #anns:735
+scene-0052, Oncoming car in the same lane, overtake... [18-07-24 03:18:46]   19s, singapore-onenorth, #anns:344
+scene-0053, Cross intersection in group of cars, pe... [18-07-24 03:20:18]   19s, singapore-onenorth, #anns:828
+scene-0054, Turn left, many parked heavy trucks, wo... [18-07-24 03:21:12]   19s, singapore-onenorth, #anns:612
+scene-0055, Bus stop left, parked cars right, oncom... [18-07-24 03:23:03]   19s, singapore-onenorth, #anns:473
+scene-0056, Peds, nature, construction, trash can, ... [18-07-24 03:25:21]   20s, singapore-onenorth, #anns:333
+scene-0057, Jaywalkers, parked bike and scooter, pa... [18-07-24 03:25:41]   19s, singapore-onenorth, #anns:710
+scene-0058, Construction, strange cleaning vehicle ... [18-07-24 03:26:55]   19s, singapore-onenorth, #anns:1522
+scene-0059, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:35]   19s, singapore-onenorth, #anns:421
+scene-0060, Wait at intersection, bike on sidewalk,... [18-07-24 03:27:55]   19s, singapore-onenorth, #anns:274
+scene-0061, Parked truck, construction, intersectio... [18-07-24 03:28:47]   19s, singapore-onenorth, #anns:4622
+scene-0315, Peds, bus stop, oncoming cars, parked l... [18-07-27 03:25:11]   19s, singapore-queensto, #anns:553
+scene-0316, Parked bicycles, ped, cars at opp lane [18-07-27 03:28:03]   19s, singapore-queensto, #anns:397
+scene-0317, Bus drops off passenger, overtake bus, ... [18-07-27 03:29:11]   19s, singapore-queensto, #anns:865
+scene-0318, Buses, overtake bus, peds, motorcycles [18-07-27 03:30:11]   19s, singapore-queensto, #anns:644
+scene-0177, Parking toll gate [18-07-27 03:37:48]   19s, singapore-queensto, #anns:143
+scene-0178, Parking lot, parked motorcycles, turn r... [18-07-27 03:38:19]   19s, singapore-queensto, #anns:824
+scene-0179, Ped walking to the ego car, parked truc... [18-07-27 03:38:48]   19s, singapore-queensto, #anns:629
+scene-0180, Parking lot with lots of parked cars [18-07-27 03:39:08]   19s, singapore-queensto, #anns:1421
+scene-0181, Turn left, toll gate, oncoming bus [18-07-27 03:40:01]   19s, singapore-queensto, #anns:156
+scene-0182, Peds, bus stop, taxi, narrow road, park... [18-07-27 03:40:44]   19s, singapore-queensto, #anns:509
+scene-0183, Parked motorcycle, bike, parking drivew... [18-07-27 03:41:22]   19s, singapore-queensto, #anns:251
+scene-0184, Many trees, narrow road [18-07-27 03:42:28]   20s, singapore-queensto, #anns:75
+scene-0185, Parking bay, peds, ped hesitates to cro... [18-07-27 03:43:30]   19s, singapore-queensto, #anns:230
+scene-0187, Bump, turn right, ped attempting to wal... [18-07-27 03:44:48]   19s, singapore-queensto, #anns:439
+scene-0188, Ego vehicle starts, many peds, parked b... [18-07-27 03:45:41]   16s, singapore-queensto, #anns:809
+scene-0190, Nature, wait for traffic light [18-08-01 07:11:48]   19s, singapore-onenorth, #anns:262
+scene-0191, Turn left, parking lot [18-08-01 07:14:18]   19s, singapore-onenorth, #anns:286
+scene-0192, Stopped for cars at T-junction, jaywalk... [18-08-01 07:14:45]   20s, singapore-onenorth, #anns:661
+scene-0193, Vegetation, parking lot, turning cars [18-08-01 07:15:07]   19s, singapore-onenorth, #anns:920
+scene-0194, Parked car starts to move, two bicycles... [18-08-01 07:15:48]   19s, singapore-onenorth, #anns:1610
+scene-0195, Narrow road, bus, reduce speed for stop... [18-08-01 07:16:21]   19s, singapore-onenorth, #anns:354
+scene-0196, Nature, cross intersection, bus, bus st... [18-08-01 07:18:25]   19s, singapore-onenorth, #anns:153
+scene-0120, Parked motorcycles, parking lot, wait a... [18-08-01 08:33:08]   20s, singapore-onenorth, #anns:1658
+scene-0121, Peds, follow motorcycle, motorcycle tur... [18-08-01 08:35:31]   19s, singapore-onenorth, #anns:365
+scene-0122, Fast motorcycle on street ahead, stop, ... [18-08-01 08:36:56]   19s, singapore-onenorth, #anns:271
+scene-0123, Monument, truck, peds, turn left, downhill [18-08-01 08:38:18]   20s, singapore-onenorth, #anns:278
+scene-0124, Many peds, parked buses, parked cars [18-08-01 08:38:40]   19s, singapore-onenorth, #anns:1305
+scene-0125, Many parked cars, animal, many peds, wa... [18-08-01 08:39:00]   19s, singapore-onenorth, #anns:708
+scene-0126, Delayed left turn, jaywalker, parking l... [18-08-01 08:39:22]   19s, singapore-onenorth, #anns:541
+scene-0127, Enter car park, jaywalker, parked motor... [18-08-01 08:39:48]   20s, singapore-onenorth, #anns:1594
+scene-0128, Parking lot, parked scooters, parked ca... [18-08-01 08:40:28]   19s, singapore-onenorth, #anns:1095
+scene-0129, Parking lot, cross crosswalk, go over b... [18-08-01 08:40:50]   19s, singapore-onenorth, #anns:1628
+scene-0130, Peds crossing at crosswalk, drive along... [18-08-01 08:42:07]   19s, singapore-onenorth, #anns:1808
+scene-0131, Parking lot, peds [18-08-01 08:42:27]   19s, singapore-onenorth, #anns:1158
+scene-0132, Parked cars, turn left, parked bus [18-08-01 08:42:47]   19s, singapore-onenorth, #anns:1059
+scene-0133, Drive through parking lot, stopped bus,... [18-08-01 08:43:07]   19s, singapore-onenorth, #anns:1551
+scene-0134, Approach intersection, fence, turn left... [18-08-01 08:43:34]   19s, singapore-onenorth, #anns:1097
+scene-0135, Heavy traffic, sitting peds, parked mot... [18-08-01 08:43:54]   19s, singapore-onenorth, #anns:1020
+scene-0138, Bus stop, parked bicycles, bus stop, bi... [18-08-01 08:47:14]   19s, singapore-onenorth, #anns:287
+scene-0139, Ped standing, ped sitting, two parked m... [18-08-01 08:49:39]   19s, singapore-onenorth, #anns:582
+scene-0149, Wait at intersection, turn left, bushes... [18-08-01 09:04:26]   19s, singapore-onenorth, #anns:1219
+scene-0150, Oncoming scooter, scooters, busy inters... [18-08-01 09:05:06]   19s, singapore-onenorth, #anns:1519
+scene-0151, Turn right, busy intersection, construc... [18-08-01 09:05:26]   19s, singapore-onenorth, #anns:2282
+scene-0152, Parked bicycles, bump, overtake parked ... [18-08-01 09:06:15]   19s, singapore-onenorth, #anns:555
+scene-0154, Turn left, peds at restaurant, parked b... [18-08-01 09:09:15]   19s, singapore-onenorth, #anns:583
+scene-0155, Jaywalkers, turn left, stop for ped cro... [18-08-01 09:15:18]   19s, singapore-onenorth, #anns:1034
+scene-0157, Passing scooter, wait at intersection, ... [18-08-01 09:17:04]   19s, singapore-onenorth, #anns:125
+scene-0158, Worker stopped ego car, worker removes ... [18-08-01 09:19:15]   19s, singapore-onenorth, #anns:2346
+scene-0159, Peds crossing crosswalk, barrier being ... [18-08-01 09:19:40]   19s, singapore-onenorth, #anns:2274
+scene-0160, Wait for oncoming car to pass, narrow r... [18-08-01 09:21:27]   19s, singapore-onenorth, #anns:620
+scene-0003, Parking lot, barrier, exit parking lot [18-08-02 09:17:50]   19s, singapore-onenorth, #anns:1754
+scene-0344, Wait at intersection, construction, bus... [18-08-02 09:19:15]   19s, singapore-onenorth, #anns:2445
+scene-0345, Cross the intersection, construction, s... [18-08-02 09:19:42]   19s, singapore-onenorth, #anns:3276
+scene-0346, Cross intersection, scooter, nature, pe... [18-08-02 09:22:08]   19s, singapore-onenorth, #anns:267
+scene-0347, Avoid parked cars, lane change, stop at... [18-08-02 09:30:01]   19s, singapore-onenorth, #anns:683
+scene-0348, Turn right, bus, peds, narrow street [18-08-02 09:30:54]   19s, singapore-onenorth, #anns:912
+scene-0349, Cones, parked car blocking ego vehicle,... [18-08-02 09:32:38]   19s, singapore-onenorth, #anns:413
+scene-0350, Nature, parked truck, peds, peds with l... [18-08-02 09:32:57]   19s, singapore-onenorth, #anns:560
+scene-0351, Turn left, parked bus, concrete truck, ... [18-08-02 09:33:18]   19s, singapore-onenorth, #anns:1003
+scene-0352, Follow concrete truck, construction, tr... [18-08-02 09:33:38]   19s, singapore-onenorth, #anns:3392
+scene-0353, Start at intersection, cross intersecti... [18-08-02 09:34:30]   19s, singapore-onenorth, #anns:1073
+scene-0354, Start at intersection, truck, bus, cons... [18-08-02 09:35:58]   19s, singapore-onenorth, #anns:1658
+scene-0355, Construction worker, construction, bloc... [18-08-02 09:36:49]   19s, singapore-onenorth, #anns:5028
+scene-0356, Arrive at intersection, construction, d... [18-08-02 09:37:09]   19s, singapore-onenorth, #anns:3719
+scene-0357, Wait at intersection, digger turning, p... [18-08-02 09:37:28]   20s, singapore-onenorth, #anns:4281
+scene-0358, Wait at intersection, construction, hea... [18-08-02 09:37:48]   19s, singapore-onenorth, #anns:4271
+scene-0359, Bus stop, parked bicycle, sparsely popu... [18-08-02 09:39:10]   20s, singapore-onenorth, #anns:1153
+scene-0360, Parking lot, worker cleaning, garbage, ... [18-08-03 07:00:38]   20s, singapore-onenorth, #anns:2003
+scene-0361, Parking lot, turn left, cone [18-08-03 07:00:58]   20s, singapore-onenorth, #anns:1156
+scene-0362, Ped, parking lot, parked scooter, turn left [18-08-03 07:01:18]   20s, singapore-onenorth, #anns:1082
+scene-0382, Turn left, parking lot, peds, parked mo... [18-08-03 07:01:38]   20s, singapore-onenorth, #anns:2469
+scene-0363, Turn right, oncoming scooter, parked trucks [18-08-03 07:02:28]   20s, singapore-onenorth, #anns:426
+scene-0364, Followed by scooter, peds, bus stop, pa... [18-08-03 07:02:48]   20s, singapore-onenorth, #anns:809
+scene-0365, Jaywalker, offloading truck, parked bicycle [18-08-03 07:03:08]   20s, singapore-onenorth, #anns:784
+scene-0366, Weirdly stopped car, turn right at inte... [18-08-03 07:04:16]   19s, singapore-onenorth, #anns:591
+scene-0367, Buses, turn right [18-08-03 07:05:24]   19s, singapore-onenorth, #anns:79
+scene-0368, Arrive at busy intersection [18-08-03 07:07:13]   20s, singapore-onenorth, #anns:1581
+scene-0369, Start at busy intersection, turn right,... [18-08-03 07:07:56]   20s, singapore-onenorth, #anns:925
+scene-0370, Parked truck, cones, sitting peds, peds... [18-08-03 07:08:53]   20s, singapore-onenorth, #anns:993
+scene-0371, Peds, parked bus, oncoming scooter, par... [18-08-03 07:09:13]   19s, singapore-onenorth, #anns:446
+scene-0372, Turn left, peds, parked bicycle, bus stop [18-08-03 07:09:48]   19s, singapore-onenorth, #anns:1024
+scene-0375, Parking lot, turn right, peds [18-08-03 07:11:13]   19s, singapore-onenorth, #anns:1418
+scene-0373, Parking lot, peds, construction, a car ... [18-08-03 07:11:33]   20s, singapore-onenorth, #anns:1943
+scene-0374, Parking lot, vehicle reverses into park... [18-08-03 07:11:53]   20s, singapore-onenorth, #anns:1810
+scene-0376, Parking lot, peds, oncoming scooter [18-08-03 07:21:59]   20s, singapore-onenorth, #anns:1498
+scene-0377, Lane change, cyclist on side walk, cons... [18-08-03 07:23:29]   19s, singapore-onenorth, #anns:1104
+scene-0378, Construction zone, excavator, workers, ... [18-08-03 07:23:52]   19s, singapore-onenorth, #anns:905
+scene-0379, Parked cars, tricycle, narrow road, ove... [18-08-03 07:26:31]   19s, singapore-onenorth, #anns:444
+scene-0380, Parked cars, give way for oncoming vehicle [18-08-03 07:26:50]   20s, singapore-onenorth, #anns:275
+scene-0381, Ped crossing, peds, construction, parke... [18-08-03 07:27:47]   20s, singapore-onenorth, #anns:1894
+scene-0383, Peds sitting, turn left, parked bicycle... [18-08-03 07:32:02]   19s, singapore-onenorth, #anns:539
+scene-0384, Pass vehicles, turn right, person getti... [18-08-03 07:33:23]   20s, singapore-onenorth, #anns:220
+scene-0385, Turn left, construction, peds, parked b... [18-08-03 07:35:35]   20s, singapore-onenorth, #anns:1679
+scene-0386, Start at intersection, turn right, scoo... [18-08-03 07:37:58]   19s, singapore-onenorth, #anns:232
+scene-0975, Wait at intersection, many peds, bus, cars [18-09-25 03:13:43]   20s, singapore-onenorth, #anns:702
+scene-0976, Wait at intersection, many peds, cars, ... [18-09-25 03:14:03]   20s, singapore-onenorth, #anns:630
+scene-0977, Wait at intersection, many peds, ped pu... [18-09-25 03:14:43]   20s, singapore-onenorth, #anns:786
+scene-0978, Wait at intersection, cars, motorcycle,... [18-09-25 03:15:03]   20s, singapore-onenorth, #anns:543
+scene-0979, Many peds, motorcycle, cars, cross inte... [18-09-25 03:15:23]   20s, singapore-onenorth, #anns:1001
+scene-0980, Construction, many peds, lane blocked, ... [18-09-25 03:15:52]   20s, singapore-onenorth, #anns:2213
+scene-0981, Construction workers, cones, many barri... [18-09-25 03:16:12]   20s, singapore-onenorth, #anns:2600
+scene-0982, Truck, barrier, many peds, cones, cars,... [18-09-25 03:16:32]   20s, singapore-onenorth, #anns:2967
+scene-0983, Construction vehicle, cones, peds cross... [18-09-25 03:16:52]   20s, singapore-onenorth, #anns:2240
+scene-0984, Parked bicycles, many peds, jaywalker, ... [18-09-25 03:17:12]   20s, singapore-onenorth, #anns:1023
+scene-0988, Parking lot, turn right, cross intersec... [18-09-25 03:18:32]   20s, singapore-onenorth, #anns:1900
+scene-0989, Many peds, cross intersection, ped cros... [18-09-25 03:18:52]   20s, singapore-onenorth, #anns:803
+scene-0990, Parked bicycles, peds on sidewalk, park... [18-09-25 03:19:12]   20s, singapore-onenorth, #anns:1262
+scene-0991, Parking lot, cones, ped on sidewalk [18-09-25 03:20:12]   20s, singapore-onenorth, #anns:1876
+scene-0962, Bus, many peds, changing lane, parked v... [18-09-25 05:19:15]   20s, singapore-onenorth, #anns:559
+scene-0963, Motorcycle, wait at intersection, cones... [18-09-25 05:19:35]   19s, singapore-onenorth, #anns:1712
+scene-0966, Many peds, construction, peds unloading... [18-09-25 05:20:59]   20s, singapore-onenorth, #anns:1985
+scene-0967, Peds on sidewalk, parked cars, parked m... [18-09-25 05:21:39]   20s, singapore-onenorth, #anns:734
+scene-0968, Wait at intersection, peds on sidewalk,... [18-09-25 05:22:34]   20s, singapore-onenorth, #anns:1537
+scene-0969, Cones, cars, many peds, changing lane, ... [18-09-25 05:22:54]   20s, singapore-onenorth, #anns:1910
+scene-0971, Cross T junction, peds, parked motorcyc... [18-09-25 05:23:34]   19s, singapore-onenorth, #anns:1544
+scene-0972, Parked bicycles, peds, ped walk along t... [18-09-25 05:23:54]   20s, singapore-onenorth, #anns:1119
+scene-0945, Enter road, turn left, workers, constru... [18-09-26 03:17:45]   20s, singapore-onenorth, #anns:3010
+scene-0947, Many peds, jaywalker, parked motorcycle... [18-09-26 03:18:25]   20s, singapore-onenorth, #anns:1126
+scene-0949, Parking lot, barriers, people at parkin... [18-09-26 03:20:10]   20s, singapore-onenorth, #anns:1821
+scene-0952, Parked vehicles, construction worker, p... [18-09-26 03:21:59]   20s, singapore-onenorth, #anns:584
+scene-0953, Peds in sidewalk, parked vehicles, jayw... [18-09-26 03:22:39]   20s, singapore-onenorth, #anns:473
+scene-0955, Parked scooter, peds, parked bicycles, ... [18-09-26 03:23:19]   20s, singapore-onenorth, #anns:657
+scene-0956, Many peds, stopped car, peds crossing c... [18-09-26 03:23:39]   20s, singapore-onenorth, #anns:1164
+scene-0957, Waiting at red light, peds, motorcycle [18-09-26 03:23:59]   20s, singapore-onenorth, #anns:787
+scene-0958, Motorcycle, peds, ped crossing crosswal... [18-09-26 03:24:19]   20s, singapore-onenorth, #anns:849
+scene-0959, Parked vehicles, person lifting box, pe... [18-09-26 03:24:39]   20s, singapore-onenorth, #anns:682
+scene-0960, Parked motorcycle, motorcyclist, parked... [18-09-26 03:24:59]   20s, singapore-onenorth, #anns:428
+scene-0961, Construction workers, barriers, constru... [18-09-26 03:25:19]   20s, singapore-onenorth, #anns:829
+scene-0399, Wait at highway-like intersection, many... [18-09-27 07:33:41]   20s, singapore-hollandv, #anns:1471
+scene-0400, Wait at highway-like intersection, many... [18-09-27 07:34:01]   19s, singapore-hollandv, #anns:860
+scene-0401, Turn right, residential area, construct... [18-09-27 07:34:32]   20s, singapore-hollandv, #anns:993
+scene-0402, Residential area, many cars on the oppo... [18-09-27 07:34:52]   20s, singapore-hollandv, #anns:1281
+scene-0403, Residential area, parked bike, rubbish ... [18-09-27 07:35:12]   20s, singapore-hollandv, #anns:516
+scene-0405, Residential area, turn right, cross int... [18-09-27 07:35:52]   20s, singapore-hollandv, #anns:505
+scene-0406, Residential area, many trash cans, jayw... [18-09-27 07:36:12]   20s, singapore-hollandv, #anns:829
+scene-0407, Residential area, taxi turn right, rubb... [18-09-27 07:36:32]   20s, singapore-hollandv, #anns:665
+scene-0408, Residential area, narrow road, overtake... [18-09-27 07:36:52]   20s, singapore-hollandv, #anns:401
+scene-0410, Residential area, bicycle, bump [18-09-27 07:37:32]   20s, singapore-hollandv, #anns:887
+scene-0411, Residential area, parked bike, rubbish bins [18-09-27 07:37:52]   20s, singapore-hollandv, #anns:1266
+scene-0412, Residential area, rubbish bins, ped hol... [18-09-27 07:38:12]   20s, singapore-hollandv, #anns:726
+scene-0413, Nature, trash cans, narrow road, bump, ... [18-09-27 07:38:32]   20s, singapore-hollandv, #anns:608
+scene-0414, Residential area, turn right, parked bi... [18-09-27 07:38:52]   20s, singapore-hollandv, #anns:552
+scene-0415, Residential area, movable trash cans, n... [18-09-27 07:39:12]   19s, singapore-hollandv, #anns:235
+scene-0416, Nature, garbage bins, driving uphill on... [18-09-27 07:39:32]   20s, singapore-hollandv, #anns:430
+scene-0417, Nature, overtake parked van, rubbish bins [18-09-27 07:39:52]   20s, singapore-hollandv, #anns:262
+scene-0418, Nature, construction worker [18-09-27 07:40:12]   20s, singapore-hollandv, #anns:582
+scene-0419, Residential area, trash cans, stroller,... [18-09-27 07:40:43]   20s, singapore-hollandv, #anns:744
+scene-0794, Wait at intersection, many vehicles, mo... [18-10-02 02:51:44]   20s, singapore-queensto, #anns:1427
+scene-0795, Motorcycle, cars, trucks, bus, cross in... [18-10-02 02:52:04]   20s, singapore-queensto, #anns:1425
+scene-0796, Scooter, peds on sidewalk, bus, cars, t... [18-10-02 02:52:24]   20s, singapore-queensto, #anns:708
+scene-0797, Cars, bus passing by, car overtaking us... [18-10-02 02:52:44]   20s, singapore-queensto, #anns:353
+scene-0798, Start at intersection, dense traffic, s... [18-10-02 02:53:24]   20s, singapore-queensto, #anns:676
+scene-0799, Cars, cross intersection, motorcycle ov... [18-10-02 02:53:44]   20s, singapore-queensto, #anns:625
+scene-0800, Peds on sidewalk, cones, bus, cross int... [18-10-02 02:54:04]   20s, singapore-queensto, #anns:529
+scene-0802, Cones, cross intersection, peds on side... [18-10-02 02:54:44]   20s, singapore-queensto, #anns:691
+scene-0786, Wait at intersection, construction work... [18-10-02 02:59:18]   19s, singapore-queensto, #anns:755
+scene-0787, Parked bicycles, bus stop, peds at bus ... [18-10-02 02:59:38]   19s, singapore-queensto, #anns:402
+scene-0789, Wait at intersection, ped crossing cros... [18-10-02 03:00:18]   20s, singapore-queensto, #anns:647
+scene-0790, Start from intersection, peds siiting, ... [18-10-02 03:00:38]   20s, singapore-queensto, #anns:743
+scene-0791, Peds on sidewalk, children, cross inter... [18-10-02 03:00:58]   20s, singapore-queensto, #anns:458
+scene-0792, Ped on sidewalk, peds, parked bicycle, ... [18-10-02 03:01:18]   19s, singapore-queensto, #anns:743
+scene-0916, Parking lot, bicycle rack, parked bicyc... [18-10-08 07:37:13]   20s, singapore-queensto, #anns:2387
+scene-0917, Peds, jaywalkers, nature, parking lot, ... [18-10-08 07:38:13]   20s, singapore-queensto, #anns:776
+scene-0919, Greeneries, parking lot, parked car, pe... [18-10-08 07:40:33]   20s, singapore-queensto, #anns:94
+scene-0920, Motorcycle, parked cars, peds, truck [18-10-08 07:40:53]   20s, singapore-queensto, #anns:365
+scene-0921, Bus, peds, truck, turn left [18-10-08 07:41:28]   20s, singapore-queensto, #anns:324
+scene-0922, Buses, peds [18-10-08 07:42:40]   20s, singapore-queensto, #anns:392
+scene-0923, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:45:04]   19s, singapore-queensto, #anns:443
+scene-0924, Cleaner cleaning street, nature, parked... [18-10-08 07:47:09]   20s, singapore-queensto, #anns:530
+scene-0925, Wait, peds crossing crosswalk, bus [18-10-08 07:48:29]   20s, singapore-queensto, #anns:490
+scene-0926, Intersection, turn right, ped on the si... [18-10-08 07:49:09]   20s, singapore-queensto, #anns:481
+scene-0927, Parked cars, peds on sidewalk, peds, tr... [18-10-08 07:49:29]   20s, singapore-queensto, #anns:793
+scene-0928, Peds on sidewalk, parked cars, intersec... [18-10-08 07:49:49]   19s, singapore-queensto, #anns:1456
+scene-0929, Ped, car, turn right, peds on sidewalk,... [18-10-08 07:50:09]   19s, singapore-queensto, #anns:320
+scene-0930, Intersection, ped on sidewalk, motorcyc... [18-10-08 07:50:29]   20s, singapore-queensto, #anns:603
+scene-0931, Turn right, parked scooters, nature, pa... [18-10-08 07:50:49]   20s, singapore-queensto, #anns:1368
+scene-0420, Exit parking lot, turn left, peds, park... [18-10-08 07:52:30]   20s, singapore-queensto, #anns:1628
+scene-0421, Gate, peds at sidewalk, following by a ... [18-10-08 07:52:50]   20s, singapore-queensto, #anns:463
+scene-0422, Buses, overtake stopped car, peds, arri... [18-10-08 07:53:10]   19s, singapore-queensto, #anns:595
+scene-0423, Many peds, peds walking in street, turn... [18-10-08 07:53:30]   20s, singapore-queensto, #anns:1616
+scene-0424, Bump, peds, bus, turn left [18-10-08 07:53:50]   20s, singapore-queensto, #anns:859
+scene-0425, Turn left, scooter, turn left, bus with... [18-10-08 07:54:10]   20s, singapore-queensto, #anns:526
+scene-0426, Bus, unloading van, peds, parking lot, ... [18-10-08 07:54:30]   20s, singapore-queensto, #anns:751
+scene-0427, Parking lot, many peds, bump, buses, co... [18-10-08 07:54:50]   20s, singapore-queensto, #anns:1262
+scene-0428, Avoid congestion, drive uphill, barrier... [18-10-08 07:57:00]   20s, singapore-queensto, #anns:722
+scene-0429, Half-open parking garage, parked scoote... [18-10-08 07:57:20]   20s, singapore-queensto, #anns:952
+scene-0430, Nature, garbage [18-10-08 07:57:40]   20s, singapore-queensto, #anns:243
+scene-0431, Nature, low traffic, ped, parked scoote... [18-10-08 07:58:00]   20s, singapore-queensto, #anns:413
+scene-0432, Nature, parking bay, bus stop, many ped... [18-10-08 07:58:20]   19s, singapore-queensto, #anns:666
+scene-0433, Unusual buildings, ped, slope, low traffic [18-10-08 07:58:40]   20s, singapore-queensto, #anns:81
+scene-0434, Unusual buildings, crosswalk, bump, low... [18-10-08 07:59:00]   20s, singapore-queensto, #anns:59
+scene-0435, Unusual buildings, slope, turn right, p... [18-10-08 07:59:20]   20s, singapore-queensto, #anns:390
+scene-0436, Turn left, scooter, arrive at intersection [18-10-08 07:59:49]   20s, singapore-queensto, #anns:642
+scene-0437, Low traffic, cross intersection, crossw... [18-10-08 08:01:19]   19s, singapore-queensto, #anns:147
+scene-0438, Peds, bus stop, barriers [18-10-08 08:01:39]   20s, singapore-queensto, #anns:287
+scene-0439, Parking lot, peds, parked bicycle [18-10-08 08:01:59]   20s, singapore-queensto, #anns:671
+scene-0847, Bicycle rack, motorcycle, bus stops, lo... [18-10-08 08:03:29]   20s, singapore-queensto, #anns:94
+scene-0848, Parked bicycle, jaywalker, bus, peds on... [18-10-08 08:03:49]   20s, singapore-queensto, #anns:670
+scene-0849, Cars, cross intersection, peds on sidew... [18-10-08 08:04:09]   20s, singapore-queensto, #anns:451
+scene-0850, Car overtaking us, peds on sidewalk, cones [18-10-08 08:04:29]   20s, singapore-queensto, #anns:326
+scene-0851, Cones, cross intersection, construction... [18-10-08 08:04:49]   20s, singapore-queensto, #anns:1017
+scene-0852, Many peds, jaywalkers, cars, parked mot... [18-10-08 08:05:09]   20s, singapore-queensto, #anns:839
+scene-0853, Turn left, cars [18-10-08 08:05:29]   20s, singapore-queensto, #anns:830
+scene-0854, Lane change, dense traffic, buses, cars... [18-10-08 08:05:49]   20s, singapore-queensto, #anns:668
+scene-0855, Ped on sidewalk, turn right, truck, car... [18-10-08 08:06:09]   20s, singapore-queensto, #anns:689
+scene-0856, Parked buses, parked bicycles, many ped... [18-10-08 08:07:17]   20s, singapore-queensto, #anns:445
+scene-0858, Bus, cars, motorcycles, turn left, peds... [18-10-08 08:08:37]   20s, singapore-queensto, #anns:963
+scene-0860, Parking lot, peds on sidewalk, jaywalke... [18-10-08 08:09:17]   20s, singapore-queensto, #anns:637
+scene-0861, Wait at intersection, nature, scooters,... [18-10-08 08:09:37]   20s, singapore-queensto, #anns:826
+scene-0862, Motorcycles, parked bicycle, cross inte... [18-10-08 08:09:57]   19s, singapore-queensto, #anns:773
+scene-0863, Turn right, motorcycle, cross intersect... [18-10-08 08:10:17]   20s, singapore-queensto, #anns:574
+scene-0864, Car passing by, parking lot, cones, bus... [18-10-08 08:10:37]   20s, singapore-queensto, #anns:812
+scene-0865, Many peds, parking lot, parked bicycle,... [18-10-08 08:10:57]   20s, singapore-queensto, #anns:999
+scene-0866, Cross intersection, parking lot, peds o... [18-10-08 08:11:37]   20s, singapore-queensto, #anns:815
+scene-0992, Night, ped in dark, parked cars [18-11-14 10:58:01]   20s, singapore-queensto, #anns:306
+scene-0994, Night, bump, ped in dark, low traffic, ... [18-11-14 10:59:21]   20s, singapore-queensto, #anns:141
+scene-0995, Night, ped, bus, slope, flyover [18-11-14 10:59:41]   19s, singapore-queensto, #anns:199
+scene-0996, Night, gate, bus, bus stop, cyclist, peds [18-11-14 11:00:01]   20s, singapore-queensto, #anns:499
+scene-0997, Night, bridge, oncoming cars, scooter, ... [18-11-14 11:00:41]   20s, singapore-queensto, #anns:254
+scene-0998, Night, roundabout, bus, ped crossing cr... [18-11-14 11:01:01]   20s, singapore-queensto, #anns:610
+scene-0999, Night, ped, slope, distant cars, view down [18-11-14 11:01:21]   20s, singapore-queensto, #anns:639
+scene-1000, Night, turn right, peds, lights [18-11-14 11:01:41]   20s, singapore-queensto, #anns:482
+scene-1001, Night, bump, bus, peds, lights [18-11-14 11:02:21]   20s, singapore-queensto, #anns:541
+scene-1002, Night, lane change, bump, turn left, pe... [18-11-14 11:03:01]   20s, singapore-queensto, #anns:486
+scene-1003, Night, ped running, peds, bus [18-11-14 11:03:41]   20s, singapore-queensto, #anns:563
+scene-1004, Night, many peds, parking lots [18-11-14 11:04:21]   20s, singapore-queensto, #anns:1564
+scene-1005, Night, bus, peds, crosswalk, parking lot [18-11-14 11:04:41]   20s, singapore-queensto, #anns:655
+scene-1006, Night, bus, peds, parked cars, sitting ped [18-11-14 11:05:01]   20s, singapore-queensto, #anns:824
+scene-1007, Night, truck, turn left [18-11-14 11:05:21]   19s, singapore-queensto, #anns:312
+scene-1008, Night, peds in dark, lights, scooters, ... [18-11-14 11:06:01]   19s, singapore-queensto, #anns:445
+scene-1009, Night, peds on sidewalk, slope, motorcy... [18-11-14 11:06:21]   20s, singapore-queensto, #anns:548
+scene-1010, Night, bus, peds wearing dark clothes, ... [18-11-14 11:06:41]   20s, singapore-queensto, #anns:210
+scene-1011, Night, bus, parked cars, peds [18-11-14 11:09:52]   20s, singapore-queensto, #anns:389
+scene-1012, Night, peds, cars [18-11-14 11:10:12]   20s, singapore-queensto, #anns:299
+scene-1013, Night, cars, bus [18-11-14 11:10:32]   20s, singapore-queensto, #anns:203
+scene-1014, Night, bump, cars, turn right, bus, ped... [18-11-14 11:10:52]   20s, singapore-queensto, #anns:548
+scene-1015, Night, peds, bus stop, turn left, low t... [18-11-14 11:11:12]   19s, singapore-queensto, #anns:301
+scene-1016, Night, peds, bus stop, bump, ped crossi... [18-11-14 11:13:55]   19s, singapore-queensto, #anns:1148
+scene-1017, Night, ped, cars, bump, scooter, congestion [18-11-14 11:14:15]   19s, singapore-queensto, #anns:1132
+scene-1018, Night, turn right, cars, bus, bus stop,... [18-11-14 11:14:35]   20s, singapore-queensto, #anns:598
+scene-1019, Night, scooter, light, peds crossing cr... [18-11-14 11:15:00]   20s, singapore-queensto, #anns:1763
+scene-1020, Night, peds, bus, bus stop [18-11-14 11:15:20]   19s, singapore-queensto, #anns:372
+scene-1021, Night, peds in dark, arrive at intersec... [18-11-14 11:15:40]   20s, singapore-queensto, #anns:285
+scene-1022, Night, bus, bump, scooter, peds, very d... [18-11-14 11:16:00]   20s, singapore-queensto, #anns:548
+scene-1023, Night, bus, wait [18-11-14 11:16:20]   20s, singapore-queensto, #anns:470
+scene-1024, Night, peds, bus [18-11-14 11:16:40]   20s, singapore-queensto, #anns:510
+scene-1025, Night, peds, parked cars, cyclist [18-11-14 11:19:22]   20s, singapore-queensto, #anns:495
+scene-1044, Night, motorcycles, dense traffic, cong... [18-11-21 11:11:31]   20s, singapore-hollandv, #anns:973
+scene-1045, Night, wait at intersection, dense traf... [18-11-21 11:11:51]   20s, singapore-hollandv, #anns:863
+scene-1046, Night, wait at intersection, dense traf... [18-11-21 11:12:11]   20s, singapore-hollandv, #anns:1001
+scene-1047, Night, dense traffic, congestion, motor... [18-11-21 11:12:51]   20s, singapore-hollandv, #anns:970
+scene-1048, Night, dense traffic, congestion, motor... [18-11-21 11:13:11]   20s, singapore-hollandv, #anns:1073
+scene-1049, Night, bump, motorcycle, bus, high spee... [18-11-21 11:13:31]   20s, singapore-hollandv, #anns:1140
+scene-1050, Night, many trash cans, followed by sco... [18-11-21 11:13:51]   19s, singapore-hollandv, #anns:808
+scene-1051, Night, bus, motorcycle, bus stop [18-11-21 11:14:11]   20s, singapore-hollandv, #anns:292
+scene-1052, Night, bump, parked car, trash bin [18-11-21 11:15:31]   20s, singapore-hollandv, #anns:1082
+scene-1053, Night, rain, bump, peds, congestion, pa... [18-11-21 11:15:51]   20s, singapore-hollandv, #anns:888
+scene-1054, Night, turn left, bumps, lightning [18-11-21 11:16:31]   19s, singapore-hollandv, #anns:439
+scene-1055, Night, bump, dark, ped in dark [18-11-21 11:17:11]   20s, singapore-hollandv, #anns:674
+scene-1056, Night, construction, trash bins, bump, ... [18-11-21 11:17:31]   20s, singapore-hollandv, #anns:742
+scene-1057, Night, trash cans, dark, nature, slope,... [18-11-21 11:18:51]   20s, singapore-hollandv, #anns:211
+scene-1058, Night, nature, car, turn, peds in sidew... [18-11-21 11:19:11]   20s, singapore-hollandv, #anns:266
+scene-1059, Night, residential, car turning [18-11-21 11:22:02]   20s, singapore-hollandv, #anns:723
+scene-1060, Night, rain, turn, ped in dark [18-11-21 11:22:22]   20s, singapore-hollandv, #anns:166
+scene-1061, Night, turn, trash can, residential [18-11-21 11:23:22]   20s, singapore-hollandv, #anns:199
+scene-1062, Night, difficult lighting, parked bicyc... [18-11-21 11:23:42]   20s, singapore-hollandv, #anns:612
+scene-1063, Night, bump, ped, difficult lighting, t... [18-11-21 11:24:42]   20s, singapore-hollandv, #anns:229
+scene-1064, Night, trash cans, wait for scooter, tu... [18-11-21 11:25:22]   20s, singapore-hollandv, #anns:473
+scene-1065, Rain, Night, bump, motorcycle, difficul... [18-11-21 11:25:42]   19s, singapore-hollandv, #anns:186
+scene-1066, Night, bump, scooter, difficult lighting [18-11-21 11:26:02]   20s, singapore-hollandv, #anns:347
+scene-1067, Night, rain, bump, ped in dark, arrive ... [18-11-21 11:26:22]   20s, singapore-hollandv, #anns:381
+scene-1068, Night, wait at intersection, motorcycle... [18-11-21 11:26:42]   20s, singapore-hollandv, #anns:329
+scene-1069, Night, truck, congestion, parked bicycle [18-11-21 11:27:02]   20s, singapore-hollandv, #anns:621
+scene-1070, Night, congestion, peds, motorcycle [18-11-21 11:27:22]   20s, singapore-hollandv, #anns:333
+scene-1071, Night, scooters, peds, parked bicycle, ... [18-11-21 11:27:42]   20s, singapore-hollandv, #anns:319
+scene-1072, Night, bus stop, scooter, trash can pus... [18-11-21 11:28:22]   19s, singapore-hollandv, #anns:1058
+scene-1073, Night, scooters, turn left, dense traffic [18-11-21 11:29:02]   19s, singapore-hollandv, #anns:622
+scene-1074, Night, rain, high speed, bus stop, bus,... [18-11-21 11:38:27]   19s, singapore-hollandv, #anns:191
+scene-1075, Night, bus, parked cars, bus stop, peds... [18-11-21 11:38:47]   20s, singapore-hollandv, #anns:1075
+scene-1076, Night, trash cans, scooter, ped, turn left [18-11-21 11:39:07]   20s, singapore-hollandv, #anns:946
+scene-1077, Night, big street, bus stop, high speed... [18-11-21 11:39:27]   20s, singapore-hollandv, #anns:890
+scene-1078, Night, big street, high speed, scooters... [18-11-21 11:39:47]   20s, singapore-hollandv, #anns:420
+scene-1079, Night, big street, high speed, arrive a... [18-11-21 11:40:07]   19s, singapore-hollandv, #anns:378
+scene-1080, Night, big street, dense traffic, scooters [18-11-21 11:40:27]   20s, singapore-hollandv, #anns:759
+scene-1081, Night, rain, big street, congestion, ca... [18-11-21 11:40:47]   20s, singapore-hollandv, #anns:630
+scene-1082, Night, big street, wait at intersection [18-11-21 11:41:07]   19s, singapore-hollandv, #anns:694
+scene-1083, Night, big street, bus, scooter, turn right [18-11-21 11:41:47]   20s, singapore-hollandv, #anns:897
+scene-1084, Night, scooter, peds, bus stop, parked ... [18-11-21 11:42:07]   20s, singapore-hollandv, #anns:1443
+scene-1085, Night, many peds, parked bicycles, turn... [18-11-21 11:42:27]   20s, singapore-hollandv, #anns:1526
+scene-1086, Night, bumps, parked car, peds, trash cans [18-11-21 11:42:48]   20s, singapore-hollandv, #anns:870
+scene-1087, Night, residential area, low traffic, t... [18-11-21 11:43:27]   20s, singapore-hollandv, #anns:678
+scene-1088, Night, peds, trash cans, ped walking do... [18-11-21 11:43:48]   20s, singapore-hollandv, #anns:1117
+scene-1089, Night, turn left, bump, trash cans, tur... [18-11-21 11:44:28]   20s, singapore-hollandv, #anns:673
+scene-1090, Night, trash cans, parked car, ped in d... [18-11-21 11:44:47]   20s, singapore-hollandv, #anns:1367
+scene-1091, Night, parked cars, peds, turn right, d... [18-11-21 11:45:27]   20s, singapore-hollandv, #anns:919
+scene-1092, Night, many peds, many trash cans, ped ... [18-11-21 11:46:27]   20s, singapore-hollandv, #anns:1063
+scene-1093, Night, wait at intersection, peds cross... [18-11-21 11:47:07]   20s, singapore-hollandv, #anns:2106
+scene-1094, Night, after rain, many peds, PMD, ped ... [18-11-21 11:47:27]   19s, singapore-hollandv, #anns:1762
+scene-1095, Night, rain, lane change, cross interse... [18-11-21 11:47:47]   20s, singapore-hollandv, #anns:611
+scene-1096, Night, wait at intersection, peds cross... [18-11-21 11:48:27]   20s, singapore-hollandv, #anns:929
+scene-1097, Night, scooter, start at intersection, ... [18-11-21 11:48:47]   20s, singapore-hollandv, #anns:753
+scene-1098, Night, peds, scooter, bus, waiting at i... [18-11-21 11:49:07]   20s, singapore-hollandv, #anns:977
+scene-1099, Night, wait at busy intersection, peds,... [18-11-21 11:49:27]   19s, singapore-hollandv, #anns:1110
+scene-1100, Night, peds in sidewalk, peds cross cro... [18-11-21 11:49:47]   19s, singapore-hollandv, #anns:935
+scene-1101, Night, buses, peds, rain, right turn [18-11-21 11:50:07]   20s, singapore-hollandv, #anns:561
+scene-1102, Night, rain, scooter, cars, high speed,... [18-11-21 11:54:07]   20s, singapore-hollandv, #anns:369
+scene-1104, Night, truck, rain, cross intersection [18-11-21 11:54:47]   20s, singapore-hollandv, #anns:765
+scene-1105, Night, ped, avoid parked car, parked cars [18-11-21 11:55:27]   20s, singapore-hollandv, #anns:435
+scene-1106, Night, rain, high speed, scooter, bus s... [18-11-21 11:59:33]   19s, singapore-hollandv, #anns:186
+scene-1107, Night, rain, high speed, scooter, dense... [18-11-21 11:59:53]   20s, singapore-hollandv, #anns:489
+scene-1108, Night, wet front camera, rain, bus, wai... [18-11-21 12:00:54]   19s, singapore-hollandv, #anns:656
+scene-1109, Night, rain, bus, lightning [18-11-21 12:01:34]   19s, singapore-hollandv, #anns:525
+scene-1110, Night, rain, bus, turn right, peds, bus... [18-11-21 12:01:53]   20s, singapore-hollandv, #anns:1165

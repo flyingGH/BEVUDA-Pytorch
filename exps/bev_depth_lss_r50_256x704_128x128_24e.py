@@ -222,10 +222,10 @@ class BEVDepthLightningModel(LightningModule):
         self.model = BEVDepth(self.backbone_conf,
                               self.head_conf,
                               is_train_depth=True)
-        # self.disc_img_source = Disc_img_source()
-        # self.disc_img_target = Disc_img_target()
-        # self.disc_bev_source = Disc_bev_source()
-        # self.disc_bev_target = Disc_bev_target()
+        self.disc_img_source = Disc_img_source()
+        self.disc_img_target = Disc_img_target()
+        self.disc_bev_source = Disc_bev_source()
+        self.disc_bev_target = Disc_bev_target()
         self.mode = 'valid'
         self.img_conf = img_conf
         self.data_use_cbgs = False
@@ -274,13 +274,13 @@ class BEVDepthLightningModel(LightningModule):
 
         preds_t, depth_preds_t, img_feats_target, bev_feats_target = self(sweep_imgs_t, mats_t)
 
-        # # get reverse feature for img and bev feature
+        # get reverse feature for img and bev feature
         reverse_img_4_source = ReverseLayerF.apply(img_feats_source, 0.01)
         reverse_img_4_target = ReverseLayerF.apply(img_feats_target, 0.01)
         reverse_bev_4_source = ReverseLayerF.apply(bev_feats_target, 0.01)
         reverse_bev_4_target = ReverseLayerF.apply(bev_feats_target, 0.01)
 
-        # # get discriminaotr output for img and bev feature
+        # get discriminaotr output for img and bev feature
         img_domain_disc_source, img_loss_source = self.disc_img_source.train_source(reverse_img_4_source, domain_label_s, self.disc_img_source.parameters(), 1e-5)
         img_domain_disc_target, img_loss_target = self.disc_img_target.train_target(reverse_img_4_target, domain_label_t, self.disc_img_target.parameters(), 1e-5)
         bev_domain_disc_source, bev_loss_source = self.disc_bev_source.train_source(reverse_bev_4_source, bev_domain_label_s, self.disc_bev_source.parameters(), 1e-5)
@@ -302,14 +302,8 @@ class BEVDepthLightningModel(LightningModule):
         self.log('detection_loss', detection_loss)
         self.log('depth_loss', depth_loss)
         
-        return detection_loss + depth_loss + 0.1*(img_loss_source + img_loss_target) + 0.5*(bev_loss_source + bev_loss_target)
-
-    def get_adv_loss(self, domain_source, domain_target, domain_label_s, domain_label_t):
-        with autocast(enabled=False):
-            adv_loss_source = F.nll_loss(domain_source, domain_label_s) # 0000
-            adv_loss_target = F.nll_loss(domain_target, domain_label_t) # 1111
-        
-        return adv_loss_source, adv_loss_target
+        return detection_loss + depth_loss + 0.1*(bev_loss_source + bev_loss_target)
+        # return detection_loss + depth_loss
 
     def get_depth_loss(self, depth_labels, depth_preds):
         depth_labels = self.get_downsampled_gt_depth(depth_labels)
@@ -392,7 +386,7 @@ class BEVDepthLightningModel(LightningModule):
                 all_pred_results.append(validation_step_output[i][:3])
                 all_img_metas.append(validation_step_output[i][3])
         synchronize()
-        len_dataset = len(self.val_dataloader().dataset)-1
+        len_dataset = len(self.val_dataloader().dataset)
         all_pred_results = sum(
             map(list, zip(*all_gather_object(all_pred_results))),
             [])[:len_dataset]
@@ -410,8 +404,7 @@ class BEVDepthLightningModel(LightningModule):
                 all_img_metas.append(test_step_output[i][3])
         synchronize()
         # TODO: Change another way.
-        dataset_length = len(self.val_dataloader().dataset)-1
-        print(dataset_length)
+        dataset_length = len(self.val_dataloader().dataset)
         all_pred_results = sum(
             map(list, zip(*all_gather_object(all_pred_results))),
             [])[:dataset_length]
@@ -426,15 +419,8 @@ class BEVDepthLightningModel(LightningModule):
         optimizer = torch.optim.AdamW(self.model.parameters(),
                                       lr=lr,
                                       weight_decay=1e-7)
-        # optimizer_img_source = torch.optim.AdamW(self.disc_img_source.parameters(),
-        #                               lr=1e-5,
-        #                               weight_decay=1e-7)
-        # optimizer_img_target = torch.optim.AdamW(self.dics_img_target.parameters(),
-        #                               lr=1e-5,
-        #                               weight_decay=1e-7)
         scheduler = MultiStepLR(optimizer, [19, 23])
-        # scheduler_img_source = MultiStepLR(optimizer_img_source, [19, 23])
-        # scheduler_img_target = MultiStepLR(optimizer_img_target, [19, 23])
+
         return [[optimizer], [scheduler]]
 
     def train_dataloader(self):
@@ -505,7 +491,7 @@ class BEVDepthLightningModel(LightningModule):
             classes=self.class_names,
             data_root=self.data_root,
             # info_path='data/nuScenes/nuscenes_12hz_infos_val.pkl',
-            info_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_val_Night.pkl',
+            info_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_val_boston.pkl',
             is_train=False,
             img_conf=self.img_conf,
             num_sweeps=self.num_sweeps,
@@ -549,7 +535,7 @@ class BEVDepthLightningModel(LightningModule):
         
         # val_loader = {"source_val_loader": val_source_loader, "target_val_loader": val_target_loader}
 
-        return val_source_loader
+        return val_target_loader
 
     def test_dataloader(self):
         return self.val_dataloader()
@@ -599,7 +585,7 @@ def run_cli():
         limit_val_batches=0,
         enable_checkpointing=True,
         precision=16,
-        default_root_dir='./outputs/bev_depth_lss_r50_256x704_128x128_24e')
+        default_root_dir='./outputs/bevuda-boston-aligned-onlybev')
     args = parser.parse_args()
     main(args)
 

@@ -58,7 +58,7 @@ python /home/notebook/data/group/zhangrongyu/code/BEVDepth/exps/bev_depth_lss_r5
 ```
 **Eval.**
 ```
-python /home/notebook/data/group/zhangrongyu/code/BEVDepth/exps/bev_depth_lss_r50_256x704_128x128_24e.py --ckpt_path /home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bev-uda-boston/lightning_logs/version_0/checkpoints/epoch=23-step=23543.ckpt -e -b 4 --gpus 1
+python /home/notebook/data/group/zhangrongyu/code/BEVDepth/exps/bev_depth_lss_r50_256x704_128x128_24e.py --ckpt_path /home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bev-uda-sunny/lightning_logs/version_6/checkpoints/epoch=23-step=17303.ckpt -e -b 8 --gpus 2
 ```
 
 ### Benchmark

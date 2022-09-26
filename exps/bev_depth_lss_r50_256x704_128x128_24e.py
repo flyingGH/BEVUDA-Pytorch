@@ -275,17 +275,17 @@ class BEVDepthLightningModel(LightningModule):
         preds_t, depth_preds_t, img_feats_target, bev_feats_target = self(sweep_imgs_t, mats_t)
 
         # get reverse feature for img and bev feature
-        reverse_img_4_source = ReverseLayerF.apply(img_feats_source, 0.01)
-        reverse_img_4_target = ReverseLayerF.apply(img_feats_target, 0.01)
-        reverse_bev_4_source = ReverseLayerF.apply(bev_feats_target, 0.01)
-        reverse_bev_4_target = ReverseLayerF.apply(bev_feats_target, 0.01)
+        reverse_img_4_source = ReverseLayerF.apply(img_feats_source, 0.02)
+        reverse_img_4_target = ReverseLayerF.apply(img_feats_target, 0.02)
+        reverse_bev_4_source = ReverseLayerF.apply(bev_feats_source, 0.02)
+        reverse_bev_4_target = ReverseLayerF.apply(bev_feats_target, 0.02)
 
         # get discriminaotr output for img and bev feature
-        img_domain_disc_source, img_loss_source = self.disc_img_source.train_source(reverse_img_4_source, domain_label_s, self.disc_img_source.parameters(), 1e-5)
-        img_domain_disc_target, img_loss_target = self.disc_img_target.train_target(reverse_img_4_target, domain_label_t, self.disc_img_target.parameters(), 1e-5)
-        bev_domain_disc_source, bev_loss_source = self.disc_bev_source.train_source(reverse_bev_4_source, bev_domain_label_s, self.disc_bev_source.parameters(), 1e-5)
-        bev_domain_disc_target, bev_loss_target = self.disc_bev_target.train_target(reverse_bev_4_target, bev_domain_label_t, self.disc_bev_source.parameters(), 1e-5)
-
+        img_loss_source = self.disc_img_source.train_source(reverse_img_4_source, domain_label_s, self.disc_img_source.parameters(), 1e-5)
+        img_loss_target = self.disc_img_target.train_target(reverse_img_4_target, domain_label_t, self.disc_img_target.parameters(), 1e-5)
+        bev_loss_source = self.disc_bev_source.train_source(reverse_bev_4_source, bev_domain_label_s, self.disc_bev_source.parameters(), 1e-5)
+        bev_loss_target = self.disc_bev_target.train_target(reverse_bev_4_target, bev_domain_label_t, self.disc_bev_target.parameters(), 1e-5)
+        
         # class loss 
         if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
             targets = self.model.module.get_targets(gt_boxes, gt_labels)
@@ -301,8 +301,13 @@ class BEVDepthLightningModel(LightningModule):
         depth_loss = self.get_depth_loss(depth_labels.cuda(), depth_preds)
         self.log('detection_loss', detection_loss)
         self.log('depth_loss', depth_loss)
-        
-        return detection_loss + depth_loss + 0.1*(bev_loss_source + bev_loss_target)
+
+        self.disc_img_source.backward_loss(detection_loss, depth_loss, img_loss_target, bev_loss_source, bev_loss_target)
+        self.disc_img_target.backward_loss(detection_loss, depth_loss, img_loss_source, bev_loss_source, bev_loss_target)
+        self.disc_bev_source.backward_loss(detection_loss, depth_loss, bev_loss_target, img_loss_source, img_loss_target)
+        self.disc_bev_target.backward_loss(detection_loss, depth_loss, bev_loss_source, img_loss_source, img_loss_target)
+
+        return detection_loss + depth_loss + 1*(img_loss_source.item() + img_loss_target.item()) + 1*(bev_loss_source.item() + bev_loss_target.item())
         # return detection_loss + depth_loss
 
     def get_depth_loss(self, depth_labels, depth_preds):
@@ -553,6 +558,7 @@ def main(args: Namespace) -> None:
         pl.seed_everything(args.seed)
 
     model = BEVDepthLightningModel(**vars(args))
+    model.load_from_checkpoint('/home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bevdepth-boston/lightning_logs/version_0/checkpoints/epoch=23-step=23543.ckpt', strict=False)
     trainer = pl.Trainer.from_argparse_args(args)
     if args.evaluate:
         trainer.test(model, ckpt_path=args.ckpt_path)
@@ -585,7 +591,7 @@ def run_cli():
         limit_val_batches=0,
         enable_checkpointing=True,
         precision=16,
-        default_root_dir='./outputs/bevuda-boston-aligned-onlybev')
+        default_root_dir='./outputs/bevuda-boston-test')
     args = parser.parse_args()
     main(args)
 

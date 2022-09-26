@@ -48,6 +48,30 @@ bicycle 0.012   0.857   0.307   1.404   0.061   0.000
 traffic_cone    0.225   0.787   0.412   nan     nan     nan
 barrier 0.245   0.735   0.374   0.380   nan     nan
 --------------------------------------------------------------------------------
+### Boston -> Singapore fine-tune
+Evaluating bboxes of img_bbox
+                                                                                                                                                       mAP: 0.2523                                                                                                                                              
+mATE: 0.7492
+mASE: 0.3574
+mAOE: 0.8310
+mAVE: 1.2845
+mAAE: 0.5010
+NDS: 0.2823
+Eval time: 55.6s
+
+Per-class results:
+Object Class    AP      ATE     ASE     AOE     AVE     AAE
+car     0.420   0.620   0.166   0.344   2.189   0.306
+truck   0.201   0.674   0.212   0.341   1.686   0.516
+bus     0.321   0.716   0.200   0.278   2.546   0.581
+trailer 0.000   1.000   1.000   1.000   1.000   1.000
+construction_vehicle    0.043   1.044   0.601   1.667   0.117   0.659
+pedestrian      0.266   0.802   0.306   1.441   0.710   0.675
+motorcycle      0.270   0.735   0.255   1.060   1.950   0.267
+bicycle 0.232   0.659   0.272   1.027   0.078   0.004
+traffic_cone    0.305   0.644   0.283   nan     nan     nan
+barrier 0.466   0.597   0.279   0.321   nan     nan
+--------------------------------------------------------------------------------
 ## Lighting 
 ### Day -> Day
 Evaluating bboxes of img_bbox
@@ -147,52 +171,3 @@ traffic_cone    0.296   0.685   0.401   nan     nan     nan
 barrier 0.489   0.610   0.301   0.255   nan     nan
 --------------------------------------------------------------------------------
 # BEVUDA-adv loss
-## City
-### Boston -> Boston
-Evaluating bboxes of img_bbox
-                                                                                                                                                       mAP: 0.2645                                                                                                                                              
-mATE: 0.7284
-mASE: 0.3624
-mAOE: 0.7979
-mAVE: 1.2721
-mAAE: 0.5290
-NDS: 0.2905
-Eval time: 51.1s
-
-Per-class results:
-Object Class    AP      ATE     ASE     AOE     AVE     AAE
-car     0.438   0.606   0.162   0.314   2.437   0.406
-truck   0.232   0.702   0.233   0.392   1.719   0.445
-bus     0.310   0.766   0.200   0.265   2.378   0.635
-trailer 0.000   1.000   1.000   1.000   1.000   1.000
-construction_vehicle    0.052   0.957   0.616   1.582   0.112   0.615
-pedestrian      0.277   0.783   0.303   1.437   0.717   0.674
-motorcycle      0.286   0.684   0.250   1.065   1.744   0.456
-bicycle 0.237   0.641   0.272   0.821   0.070   0.000
-traffic_cone    0.314   0.611   0.312   nan     nan     nan
-barrier 0.500   0.535   0.276   0.305   nan     nan
---------------------------------------------------------------------------------
-### Boston -> Singapore
-Evaluating bboxes of img_bbox
-                                                                                                                                                       mAP: 0.2645                                                                                                                                              
-mATE: 0.7284
-mASE: 0.3624
-mAOE: 0.7979
-mAVE: 1.2721
-mAAE: 0.5290
-NDS: 0.2905
-Eval time: 51.1s
-
-Per-class results:
-Object Class    AP      ATE     ASE     AOE     AVE     AAE
-car     0.438   0.606   0.162   0.314   2.437   0.406
-truck   0.232   0.702   0.233   0.392   1.719   0.445
-bus     0.310   0.766   0.200   0.265   2.378   0.635
-trailer 0.000   1.000   1.000   1.000   1.000   1.000
-construction_vehicle    0.052   0.957   0.616   1.582   0.112   0.615
-pedestrian      0.277   0.783   0.303   1.437   0.717   0.674
-motorcycle      0.286   0.684   0.250   1.065   1.744   0.456
-bicycle 0.237   0.641   0.272   0.821   0.070   0.000
-traffic_cone    0.314   0.611   0.312   nan     nan     nan
-barrier 0.500   0.535   0.276   0.305   nan     nan
---------------------------------------------------------------------------------

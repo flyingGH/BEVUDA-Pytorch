@@ -9,3 +9,4 @@ with open("/home/notebook/data/group/zhangrongyu/code/BEVDepth/scripts/a_night.t
         SaveList.append(line)
         print(line)
     file.close()
+print("zry sb")

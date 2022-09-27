@@ -202,7 +202,6 @@ class BEVDepthLightningModel(LightningModule):
                  ida_aug_conf=ida_aug_conf,
                  bda_aug_conf=bda_aug_conf,
                  default_root_dir='./outputs/',
-                 pretrain_model_path='',
                  **kwargs):
         super().__init__()
         self.save_hyperparameters()
@@ -238,10 +237,6 @@ class BEVDepthLightningModel(LightningModule):
         self.dbound = self.backbone_conf['d_bound']
         self.depth_channels = int(
             (self.dbound[1] - self.dbound[0]) / self.dbound[2])
-
-        # ckpt_weights = torch.load(pretrain_model_path)
-        # self.model.load_state_dict(ckpt_weights)
-        # print("Loaded pre-trained model")
 
     def forward(self, sweep_imgs, mats):
         return self.model(sweep_imgs, mats)
@@ -311,7 +306,7 @@ class BEVDepthLightningModel(LightningModule):
         self.disc_img_target.backward_loss(detection_loss, depth_loss, img_loss_source, bev_loss_source, bev_loss_target)
         self.disc_bev_source.backward_loss(detection_loss, depth_loss, bev_loss_target, img_loss_source, img_loss_target)
         self.disc_bev_target.backward_loss(detection_loss, depth_loss, bev_loss_source, img_loss_source, img_loss_target)
-
+        print(bev_loss_source.item() + bev_loss_target.item())
         return detection_loss + depth_loss + 1*(img_loss_source.item() + img_loss_target.item()) + 1*(bev_loss_source.item() + bev_loss_target.item())
         # return detection_loss + depth_loss
 
@@ -553,6 +548,19 @@ class BEVDepthLightningModel(LightningModule):
     def test_step(self, batch, batch_idx):
         return self.eval_step(batch, batch_idx, 'test')
 
+    def reload_hyperparameter(self, gpus: int = 1,
+                 data_root='data/nuScenes',
+                 eval_interval=1,
+                 batch_size_per_device=8,
+                 default_root_dir='./outputs/',
+                 **kwargs):
+        self.gpus = gpus
+        self.eval_interval = eval_interval
+        self.batch_size_per_device = batch_size_per_device
+        self.data_root = data_root
+
+
+
     @staticmethod
     def add_model_specific_args(parent_parser):  # pragma: no-cover
         return parent_parser
@@ -561,8 +569,11 @@ class BEVDepthLightningModel(LightningModule):
 def main(args: Namespace) -> None:
     if args.seed is not None:
         pl.seed_everything(args.seed)
-
-    model = BEVDepthLightningModel(**vars(args)).load_from_checkpoint("/home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bevdepth-boston/lightning_logs/version_0/checkpoints/epoch=23-step=23543.ckpt", strict=False)
+    if args.ckpt_path is None:
+        model = BEVDepthLightningModel(**vars(args))
+    else:
+        model = BEVDepthLightningModel(**vars(args)).load_from_checkpoint(args.ckpt_path, strict=False)
+        model.reload_hyperparameter(**vars(args))
     trainer = pl.Trainer.from_argparse_args(args)
     if args.evaluate:
         trainer.test(model, ckpt_path=args.ckpt_path)

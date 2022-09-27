@@ -121,7 +121,7 @@ def generate_info(nusc, scenes,flag):
 
 
 def main():
-    nusc = NuScenes(version='v1.0-trainval',
+    nusc = NuScenes(version='v1.0-mini',
                     dataroot='/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/',
                     verbose=True)
     train_scenes = splits.train

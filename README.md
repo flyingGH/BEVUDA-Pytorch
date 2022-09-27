@@ -5,6 +5,7 @@ estimation. For more details, please refer to our [paper on Arxiv](https://arxiv
 <img src="assets/backbone.png" width="1000" >
 
 ## Updates!!
+* 【2022/09/23】 Xiaowei: Adding the nuscences-devkits to the code for custom design. 
 * 【2022/06/23】 We submitted our result without extra data on [nuScenes Detection Task](https://nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Camera) and achieved the SOTA.
 * 【2022/06/21】 We released our paper on [Arxiv](https://arxiv.org/abs/2206.10092).
 * 【2022/04/11】 We submitted our result on [nuScenes Detection Task](https://nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Camera) and achieved the SOTA.
@@ -23,7 +24,15 @@ pip install -r requirements.txt
 ```shell
 python setup.py develop
 ```
-
+**Step 4.** Install the nuscenes-devkit
+Adding the following lines to the `~/.bashrc`.
+```
+export PYTHONPATH="${PYTHONPATH}:[your root]/BEV-UDA/nuscenes-devkit-custom/python-sdk"
+```
+Test the install by run following line, if return no error, install successful.
+```
+python -c "import nuscenes"
+```
 ### Data preparation
 **Step 0.** Download nuScenes official dataset.
 

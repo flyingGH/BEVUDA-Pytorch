@@ -1,6 +1,6 @@
 numba
 numpy
-nuscenes-devkit
+# nuscenes-devkit
 opencv-python-headless
 pandas
 pytorch-lightning==1.6.0

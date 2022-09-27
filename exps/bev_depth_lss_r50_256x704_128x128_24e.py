@@ -202,6 +202,7 @@ class BEVDepthLightningModel(LightningModule):
                  ida_aug_conf=ida_aug_conf,
                  bda_aug_conf=bda_aug_conf,
                  default_root_dir='./outputs/',
+                 pretrain_model_path='',
                  **kwargs):
         super().__init__()
         self.save_hyperparameters()
@@ -237,6 +238,10 @@ class BEVDepthLightningModel(LightningModule):
         self.dbound = self.backbone_conf['d_bound']
         self.depth_channels = int(
             (self.dbound[1] - self.dbound[0]) / self.dbound[2])
+
+        # ckpt_weights = torch.load(pretrain_model_path)
+        # self.model.load_state_dict(ckpt_weights)
+        # print("Loaded pre-trained model")
 
     def forward(self, sweep_imgs, mats):
         return self.model(sweep_imgs, mats)
@@ -557,8 +562,7 @@ def main(args: Namespace) -> None:
     if args.seed is not None:
         pl.seed_everything(args.seed)
 
-    model = BEVDepthLightningModel(**vars(args))
-    model.load_from_checkpoint('/home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bevdepth-boston/lightning_logs/version_0/checkpoints/epoch=23-step=23543.ckpt', strict=False)
+    model = BEVDepthLightningModel(**vars(args)).load_from_checkpoint("/home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bevdepth-boston/lightning_logs/version_0/checkpoints/epoch=23-step=23543.ckpt", strict=False)
     trainer = pl.Trainer.from_argparse_args(args)
     if args.evaluate:
         trainer.test(model, ckpt_path=args.ckpt_path)
@@ -591,7 +595,8 @@ def run_cli():
         limit_val_batches=0,
         enable_checkpointing=True,
         precision=16,
-        default_root_dir='./outputs/bevuda-boston-test')
+        default_root_dir='./outputs/bevuda-boston-test',
+        pretrain_model_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bevdepth-day/checkpoints/epoch=23-step=69191.ckpt')
     args = parser.parse_args()
     main(args)
 

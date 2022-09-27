@@ -5,21 +5,23 @@ from nuscenes.utils import splits
 from tqdm import tqdm
 
 
-def generate_info(nusc, scenes):
+def generate_info(nusc, scenes,flag):
     infos = list()
 
     location_city = []  # 存档列表
     # 读取文本内容到列表
-    with open("/home/notebook/data/group/zhangrongyu/code/BEVDepth/scripts/false_boston.txt", "r", encoding='utf-8') as file:
+    with open("/home/notebook/data/group/zhangrongyu/code/BEVDepth/scripts/a_rainy.txt", "r", encoding='utf-8') as file:
         for line in file:
             line = line.strip('\n')  # 删除换行符
             location_city.append(line[:10])
         file.close()
 
+    val_split = []
     for cur_scene in tqdm(nusc.scene):
         if cur_scene['name'] not in scenes:
             continue
         if cur_scene['name'] in location_city:
+            val_split.append(cur_scene['name'])
             first_sample_token = cur_scene['first_sample_token']
             cur_sample = nusc.get('sample', first_sample_token)
             while True:
@@ -113,6 +115,8 @@ def generate_info(nusc, scenes):
                     break
                 else:
                     cur_sample = nusc.get('sample', cur_sample['next'])
+    if flag == 1:    
+        print(val_split)
     return infos
 
 
@@ -122,10 +126,10 @@ def main():
                     verbose=True)
     train_scenes = splits.train
     val_scenes = splits.val
-    train_infos = generate_info(nusc, train_scenes)
-    val_infos = generate_info(nusc, val_scenes)
-    mmcv.dump(train_infos, '/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_train_false.pkl')
-    mmcv.dump(val_infos, '/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_val_false.pkl')
+    train_infos = generate_info(nusc, train_scenes,0)
+    val_infos = generate_info(nusc, val_scenes,1)
+    mmcv.dump(train_infos, '/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_train_rainy.pkl')
+    mmcv.dump(val_infos, '/home/notebook/data/group/zhangrongyu/code/BEVDepth/data/nuScenes/nuscenes_12hz_infos_val_rainy.pkl')
 
 
 if __name__ == '__main__':

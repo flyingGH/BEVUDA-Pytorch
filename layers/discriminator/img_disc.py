@@ -29,14 +29,16 @@ class Disc_img_source(nn.Module):
 
     def train_source(self, img, label, param, lr):
         self.set_optimizer(param, lr)
-        optimizer = self.optimizer
-        optimizer.zero_grad()
+        self.optimizer.zero_grad()
         out = self.forward(img)
-        loss = self.adv_loss(out, label)
-        loss.backward(retain_graph=True)
-        optimizer.step()
+        self.loss = self.adv_loss(out, label)
 
-        return out, loss.item()
+        return self.loss
+
+    def backward_loss(self, target_loss, depth_loss, img_adv_loss, bev_source_loss, bev_target_loss):
+        self.loss = 1*self.loss + target_loss.item() + depth_loss.item() + 1*img_adv_loss.item() + 1*(bev_source_loss.item() + bev_target_loss.item())
+        self.loss.backward(retain_graph=True)
+        self.optimizer.step()
 
 
 class Disc_img_target(nn.Module):
@@ -67,11 +69,13 @@ class Disc_img_target(nn.Module):
 
     def train_target(self, img, label, param, lr):
         self.set_optimizer(param, lr)
-        optimizer = self.optimizer
-        optimizer.zero_grad()
+        self.optimizer.zero_grad()
         out = self.forward(img)
-        loss = self.adv_loss(out, label)
-        loss.backward(retain_graph=True)
-        optimizer.step()
+        self.loss = self.adv_loss(out, label)
 
-        return out, loss.item()
+        return self.loss
+
+    def backward_loss(self, target_loss, depth_loss, img_adv_loss, bev_source_loss, bev_target_loss):
+        self.loss = 1*self.loss + target_loss.item() + depth_loss.item() + 1*img_adv_loss.item() + 1*(bev_source_loss.item() + bev_target_loss.item())
+        self.loss.backward(retain_graph=True)
+        self.optimizer.step()

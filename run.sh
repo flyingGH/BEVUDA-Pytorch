@@ -1,1 +1,1 @@
-python /home/notebook/data/group/zhangrongyu/code/BEVDepth/exps/bev_depth_lss_r50_256x704_128x128_24e.py --amp_backend native -b 8 --gpus 8 > std.out
+python /home/notebook/data/group/zhangrongyu/code/BEVDepth/exps/bev_depth_lss_r50_256x704_128x128_24e.py --amp_backend native -b 1 --gpus 8

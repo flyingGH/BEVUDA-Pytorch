@@ -2,3 +2,4 @@
 *.o
 *.pkl
 *.pyc
+data/*

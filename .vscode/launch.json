@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "Python: Current File",
             "type": "python",
@@ -12,7 +13,7 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": ["--amp_backend", "native",
-                     "-b", "4",
+                     "-b", "1",
                      "--gpus", "1"
             ]
         }

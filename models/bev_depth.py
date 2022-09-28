@@ -53,15 +53,15 @@ class BEVDepth(nn.Module):
             tuple(list[dict]): Output results for tasks.
         """
         if self.is_train_depth and self.training:
-            x, depth_pred, img_feats = self.backbone(x,
+            bev_feats, depth_pred, img_feats = self.backbone(x,
                                           mats_dict,
                                           timestamps,
                                           is_return_depth=True)
-            preds = self.head(x)
-            return preds, depth_pred, img_feats, x
+            preds = self.head(bev_feats)
+            return preds, depth_pred, img_feats, bev_feats
         else:
-            x = self.backbone(x, mats_dict, timestamps)
-            preds = self.head(x)
+            bev_feats = self.backbone(x, mats_dict, timestamps)
+            preds = self.head(bev_feats)
             return preds
 
     def get_targets(self, gt_boxes, gt_labels):

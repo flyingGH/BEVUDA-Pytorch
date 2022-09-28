@@ -1,4 +1,7 @@
 # Copyright (c) Megvii Inc. All rights reserved.
+import sys
+sys.path.append('/home/sthq/scc/BLV/bev/BEV-UDA')
+
 from argparse import ArgumentParser, Namespace
 
 import mmcv
@@ -428,6 +431,7 @@ class BEVDepthLightningModel(LightningModule):
 
         return [[optimizer], [scheduler]]
 
+
     def train_dataloader(self):
         train_source_dataset = NuscMVDetDataset(
             ida_aug_conf=self.ida_aug_conf,
@@ -590,6 +594,7 @@ def run_cli():
                                action='store_true',
                                help='evaluate model on validation set')
     parent_parser.add_argument('-b', '--batch_size_per_device', type=int)
+    parent_parser.add_argument('--data', '', type=str, help='dataset path')
     parent_parser.add_argument('--seed',
                                type=int,
                                default=0,
@@ -605,7 +610,7 @@ def run_cli():
         gradient_clip_val=5,
         limit_val_batches=0,
         enable_checkpointing=True,
-        precision=16,
+        precision=32,
         default_root_dir='./outputs/bevuda-boston-test',
         pretrain_model_path='/home/notebook/data/group/zhangrongyu/code/BEVDepth/outputs/bevdepth-day/checkpoints/epoch=23-step=69191.ckpt')
     args = parser.parse_args()

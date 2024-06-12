@@ -51,8 +51,8 @@ python [EXP_PATH] --amp_backend native -b 8 --gpus 8
 python [EXP_PATH] --ckpt_path [CKPT_PATH] -e -b 8 --gpus 8
 ```
 
-## Cite BEVUDA
-If you use BEVDepth in your research, please cite our work by using the following BibTeX entry:
+## Citation 
+If you use BEVUDA in your research, please cite our work by using the following BibTeX entry:
 
 ```latex
 @article{liu2022multi,

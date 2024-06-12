@@ -52,9 +52,8 @@ python [EXP_PATH] --ckpt_path [CKPT_PATH] -e -b 8 --gpus 8
 ```
 
 ## Citation 
-If you use BEVUDA in your research, please cite our work by using the following BibTeX entry:
-
-```latex
+Please cite our work if you find it useful.
+```bibtex
 @article{liu2022multi,
   title={Multi-latent Space Alignments for Unsupervised Domain Adaptation in Multi-view 3D Object Detection},
   author={Liu, Jiaming and Zhang, Rongyu and Chi, Xiaowei and Li, Xiaoqi and Lu, Ming and Guo, Yandong and Zhang, Shanghang},

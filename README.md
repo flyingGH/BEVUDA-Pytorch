@@ -1,5 +1,5 @@
 ## BEVUDA: Multi-geometric Space Alignments for Domain Adaptive BEV 3D Object Detection
-![Python 3.9](https://img.shields.io/badge/Python-3.9-red)
+![Python 3.8](https://img.shields.io/badge/Python-3.8-blue)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2211.17126)
 
 <img src="bevuda.png"/>
